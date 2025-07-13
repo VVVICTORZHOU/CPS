@@ -206,6 +206,23 @@
             OK
         </button>
     </div>
+    <script>
+        // Show the popup only once per session
+        window.addEventListener('DOMContentLoaded', function () {
+          const popup = document.getElementById('disclaimer-popup');
+          const confirmBtn = document.getElementById('disclaimer-confirm');
+      
+          // Optional: only show once per session using sessionStorage
+          if (!sessionStorage.getItem('disclaimerAcknowledged')) {
+            popup.style.display = 'flex';
+          }
+      
+          confirmBtn.addEventListener('click', function () {
+            popup.style.display = 'none';
+            sessionStorage.setItem('disclaimerAcknowledged', 'true');
+          });
+        });
+    </script>
 
     <!-- Footer -->
     <footer id="main-footer">
