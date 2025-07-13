@@ -42,7 +42,7 @@ Photo by Huei-Yu Yen / Text by Huei-Yu Yen, Yen-Ting Chou, and Hsiang-Chien Tsen
 <範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
 7,9,13,14
 
-<註解> 貼文系列 (NTUCA 或 HKUUSS)
+<註解> 貼文系列 (NTUCA 或 USSHKU)
 <範例> NTUCA
 NTUCA
 
