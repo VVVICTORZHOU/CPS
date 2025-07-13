@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NTUCA Blog</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="shortcut icon" type="image/x-icon" href="../img/ntuca_favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="../img/sdgs_simplified_logo_img.png">
 </head>
 <style>
 /* 字體配置 */
@@ -30,11 +30,11 @@
     src: url('../font/euroscope.ttf') format('truetype');
 }
 
+/* 初始化背景 */
 body {
     margin: 0;
     padding: 0;
     font-family: 'HarmonyOS Sans TC', sans-serif;
-    background-image: url('../img/gate-background-image1.png'); /* Use the new background */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -43,7 +43,18 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    overflow: hidden; /* Prevent scrollbars */
+    overflow: hidden; /* 防止顯示滾動條 */
+    transition: background-image 1s ease-in-out, background-color 1s ease-in-out; /* 加入過渡效果 */
+}
+
+/* 滑動背景動畫 */
+@keyframes slideBackground {
+    0% {
+        transform: translateX(0); /* 初始位置 */
+    }
+    100% {
+        transform: translateX(-100%); /* 移動到左邊 */
+    }
 }
 
 .logo-container, .phrase-container, .top-btn-container {
@@ -77,8 +88,8 @@ body {
 }
 
 .logo-container img {
-    width: 320px;
-    height: auto;
+    width: auto;
+    height: 50px;
 }
 
 .phrase-container {
@@ -89,20 +100,20 @@ body {
 }
 
 .zh-phrase {
-    font-family: 'HarmonyOS Sans TC Black', sans-serif;
-    font-size: 36px;
+    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-size: 32px;
     color: #333;
     /* Add a shadow */
-    text-shadow: 2px 2px 2px rgba(250, 250, 250, 0.5);
+    text-shadow: 2px 2px 2px rgba(250, 250, 250, 0.6);
 }
 
 .en-phrase {
     margin-top: -20px;
-    font-family: 'HarmonyOS Sans TC Black', sans-serif;
+    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 24px;
     color: #555;
     /* Add a shadow */
-    text-shadow: 2px 2px 2px rgba(250, 250, 250, 0.5);
+    text-shadow: 2px 2px 2px rgba(250, 250, 250, 0.8);
 }
 
 .top-btn-container {
@@ -246,25 +257,74 @@ body {
     color: #0f0;
 }
 
-@media screen and (max-width: 500px) {
-    .logo-container img {
-        width: 250px;
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px; /* 三張圖之間的間距 */
+    flex-wrap: wrap; /* 在窄螢幕下自動換行 */
+    padding: 20px;
+}
+
+.logo {
+    max-height: 80px;
+    height: auto;
+    width: auto;
+    max-width: 90%; /* 防止在極窄螢幕過寬 */
+}
+
+/* 若 Cross 圖片需要偏移調整，使用 transform 更穩定 */
+.cross-logo {
+    transform: translateY(0px); /* 調整 Cross 圖片位置 */
+}
+
+@media screen and (max-width: 720px) {
+    .logo-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .logo {
+        max-width: 90%;
+        max-height: 50px;
+    }
+
+    .cross-logo {
+        transform: translateY(0);
+    }
+
+    .phrase-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        opacity: 1; /* 顯示 phrase */
     }
 
     .zh-phrase {
-        font-size: 26px;
+        font-size: 22px;
     }
 
     .en-phrase {
-        margin-top: -10px;
-        font-size: 16px;
+        font-size: 18px;
+        margin-top: 5px;
+    }
+
+    .top-btn-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
     }
 
     .top-btn-container a {
-        width: 100px;
-        font-size: 16px;
+        padding: 12px 25px;
+        font-size: 14px;
+        width: 120px; /* 設定寬度 */
     }
-    
+
     .dev-modal {
         width: 90%;
         padding: 20px;
@@ -275,17 +335,21 @@ body {
         height: 40px;
     }
 }
+
 </style>
 <body>
     <div class="logo-container">
-        <img src="../img/ntuca_name_logo_glow.png" alt="NTUCA_logo">
+        <img class="logo ntuca-logo" src="../img/ntuca_name_logo_glow.png" alt="NTUCA_logo">
+        <img class="logo cross-logo" src="../img/cross_glow.png" alt="Cross">
+        <img class="logo hkuuss-logo" src="../img/hkuuss_name_logo_glow.png" alt="HKUUSS_logo">
     </div>
+    
     <div class="phrase-container">
-        <h2 class="zh-phrase">改變始於行動</h2>
-        <h2 class="en-phrase">Change Begins with Action.</h2>
+        <h2 class="zh-phrase">氣候職人誌</h2>
+        <h2 class="en-phrase">The Climate Professional Series</h2>
     </div>
     <div class="top-btn-container">
-        <a href="top_zh_index.html" class="lang-btn">中文</a>
+        <a href="top_zh_index.html" class="lang-btn">繁體中文</a>
         <a href="top_en_index.html" class="lang-btn">ENGLISH</a>
     </div>
     
@@ -310,8 +374,31 @@ body {
     </div>
     
     <script>
-        // Developer Mode functionality
-        document.addEventListener('DOMContentLoaded', function() {
+            // 背景圖片和透明度設定
+            const backgrounds = [
+                { url: '../img/gate-background-image1-fix.png', opacity: 0.8 },
+                { url: '../img/gate-background-image2-fix.png', opacity: 0.8 },
+            ];
+
+            let currentBackgroundIndex = 0;
+
+            function changeBackground() {
+                currentBackgroundIndex = (currentBackgroundIndex + 1) % backgrounds.length;
+
+                // 設定新的背景圖片和透明度
+                document.body.style.transition = 'background-image 1s ease-in-out, background-color 1s ease-in-out';
+                document.body.style.backgroundImage = `url(${backgrounds[currentBackgroundIndex].url})`;
+                document.body.style.opacity = backgrounds[currentBackgroundIndex].opacity;
+            }
+
+            // 每3秒更換一次背景
+            setInterval(changeBackground, 3000);
+
+            // 初始時更換背景
+            changeBackground();
+            
+            // Developer Mode functionality
+            document.addEventListener('DOMContentLoaded', function() {
             const devIcon = document.getElementById('devIcon');
             const overlay = document.getElementById('overlay');
             const devModal = document.getElementById('devModal');
