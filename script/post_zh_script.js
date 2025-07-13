@@ -210,7 +210,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const examplePattern = /^<範例>/;
 
         // 讀取指定的檔案並解析
-        fetch(`https://vvvictorzhou.github.io/ntuca/doc/${postFileName}`)
+        fetch(`https://vvvictorzhou.github.io/CPS/doc/${postFileName}`)
             .then(response => response.text())
             .then(content => {
                 const lines = content.split(/\r?\n/).filter(line => line.trim() !== '');

@@ -337,7 +337,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Fetch and process each file
     Promise.all(
-        files.map(file => fetch(`https://vvvictorzhou.github.io/ntuca/doc/${file}`).then(response => {
+        files.map(file => fetch(`https://vvvictorzhou.github.io/CPS/doc/${file}`).then(response => {
             if (response.ok) {
                 return response.text();  // Only proceed if the file exists
             } else {
