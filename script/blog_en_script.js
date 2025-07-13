@@ -371,7 +371,7 @@ document.addEventListener('DOMContentLoaded', function() {
         case 'NTUCA':    
             logoUrl = '../img/ntuca_logo.png';
             break;
-        case 'HKUUSS':
+        case 'USSHKU':
             logoUrl = '../img/hkuuss_logo.png';
             break;
         default:
