@@ -1,7 +1,7 @@
 
-## 國立台灣大學氣候行動社 National Taiwan University Climate Action Club
+## 氣候職人誌專頁 CLIMATE PROFESSIONAL SERIES
 
-![ntuca_logo_image](img/ntuca_name_logo_glow.png)
+![ntuca_logo_image](img/cpa_name_logo.png)
 
 ### 點擊連結造訪我們的網頁 [連結](https://vvvictorzhou.github.io/CPS/script/gate_index.html).
 ### Visit Our Website [Here](https://vvvictorzhou.github.io/CPS/script/gate_index.html).
