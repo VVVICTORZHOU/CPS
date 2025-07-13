@@ -364,6 +364,20 @@ document.addEventListener('DOMContentLoaded', function() {
         postElement.dataset.fileName = postData.fileName;
         postElement.dataset.series = postData.series;
     
+        // 更新 series 圖示
+        seriesText = postData.series;
+        let logoUrl = '';
+        switch (seriesText) {
+        case 'NTUCA':    
+            logoUrl = '../img/ntuca_logo.png';
+            break;
+        case 'HKUUSS':
+            logoUrl = '../img/hkuuss_logo.png';
+            break;
+        default:
+            logoUrl = '../img/ntuca_logo.png';
+        }
+    
         // 設置貼文 HTML 結構
         postElement.innerHTML = `
             <div style="position: relative;">
@@ -379,11 +393,16 @@ document.addEventListener('DOMContentLoaded', function() {
                     <span class="blog-posts-item-date">${postData.date}</span>
                     <span class="blog-posts-item-likes"><i class="fas fa-heart"></i> ${postData.likes}</span>
                     ${postData.pinned ? '<span class="blog-posts-item-pinned"><i class="fas fa-thumbtack"></i></span>' : ''}
-                    <span class="blog-posts-item-series"><i class="fas fa-paperclip"></i> ${postData.series}</span>
+                    <span class="blog-posts-item-series">
+                        <i class="fas fa-paperclip"></i> 
+                        <img src="${logoUrl}" alt="${logoUrl}" style="height: 16px; width: 16px; vertical-align: middle; margin-right: 3px;">
+                        ${postData.series}
+                    </span>
                 </div>
                 <p class="blog-posts-item-text">${postData.subTitle}</p>
             </div>
         `;
+    
     
         return postElement;
     }

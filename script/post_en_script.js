@@ -318,13 +318,51 @@ document.addEventListener('DOMContentLoaded', function() {
                 // 打印所有捕獲的數據
                 console.log('Captured blog data:', blogData);
 
+                // 更新 series 圖示
+                seriesText = blogData.postSeries;
+                let imageUrl = '';
+                switch (seriesText) {
+                case 'NTUCA':
+                    imageUrl = '../img/ntuca_logo.png';
+                    break;
+                case 'HKUUSS':
+                    imageUrl = '../img/hkuuss_logo.png';
+                    break;
+                default:
+                    imageUrl = '../img/ntuca_logo.png';
+                }
+
+                // 清空舊內容（如果你希望只留圖片和文字）
+                postSeries.innerHTML = '';
+
+                // 建立 <img> 元素
+                const iconImg = document.createElement('img');
+                iconImg.src = imageUrl;
+                iconImg.alt = seriesText + ' icon';
+                iconImg.style.width = '16px'; // 可根據需要調整
+                iconImg.style.height = '16px';
+                iconImg.style.marginRight = '3px'; // 圖示與文字的間距
+                iconImg.style.verticalAlign = 'middle'; // 垂直對齊
+
+                // 加入 <i class="fas fa-paperclip"></i> 
+                const paperclipIcon = document.createElement('i');
+                paperclipIcon.classList.add('fas', 'fa-paperclip');
+                paperclipIcon.style.marginRight = '4px'; // 圖示與文字的間距
+                paperclipIcon.style.verticalAlign = 'middle'; // 垂直對齊
+                paperclipIcon.style.color = '#f0f0f0'; // 可根據需要調整顏色
+                paperclipIcon.marginRight = '3px'; // 圖示與文字的間距
+                postSeries.appendChild(paperclipIcon);
+
+                // 加入圖片和文字
+                postSeries.appendChild(iconImg);
+                postSeries.appendChild(document.createTextNode(seriesText));
+
                 // 這些變數來自已解析的 blogData
                 postTitle.textContent = blogData.postTitle;
                 //postSubtitle.textContent = blogData.postSubTitle; //不顯示子標題
                 postDate.textContent = blogData.postDate;
                 postAuthor.textContent = blogData.postAuthor;
                 postLikes.textContent = blogData.postLikes;
-                postSeries.textContent = blogData.postSeries;
 
                 // 釘選狀態
                 if (blogData.postPinned === '1') {
