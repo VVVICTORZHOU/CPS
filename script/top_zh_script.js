@@ -41,82 +41,97 @@ document.addEventListener('DOMContentLoaded', function() {
     const indicators = carousel.querySelectorAll('.carousel-indicators button');
     const prevButton = carousel.querySelector('.carousel-control-prev');
     const nextButton = carousel.querySelector('.carousel-control-next');
-    
+    const interval = 3000; // 輪播間隔時間（毫秒）
+
     let currentIndex = 0;
     let intervalId = null;
-    const interval = 3000; // 輪播間隔時間（毫秒）
-    
+
+    // ✅ 響應式圖片載入（根據螢幕尺寸）
+    function updateCarouselImages() {
+        const width = window.innerWidth;
+        const images = carousel.querySelectorAll('.carousel-item img');
+
+        images.forEach(img => {
+            let newSrc = '';
+            if (width >= 1200) {
+                newSrc = img.getAttribute('data-src-lg'); // 3:1 寬螢幕
+            } else if (width >= 768) {
+                newSrc = img.getAttribute('data-src-md'); // 2:1 中等螢幕
+            } else {
+                newSrc = img.getAttribute('data-src-sm'); // 1.5:1 小螢幕
+            }
+
+            if (img.src !== newSrc) {
+                img.src = newSrc;
+            }
+        });
+    }
+
     // 初始化輪播
     function initCarousel() {
+        updateCarouselImages();
         updateSlidePosition();
         startAutoPlay();
     }
-    
+
     // 更新輪播位置
     function updateSlidePosition() {
         carouselInner.style.transform = `translateX(-${currentIndex * 100}%)`;
         updateIndicators();
     }
-    
+
     // 更新指示器狀態
     function updateIndicators() {
         indicators.forEach((indicator, index) => {
             indicator.classList.toggle('active', index === currentIndex);
         });
     }
-    
+
     // 切換到指定的輪播項目
     function goToSlide(index) {
         currentIndex = index;
-        
-        // 處理循環
+
         if (currentIndex >= items.length) {
             currentIndex = 0;
         } else if (currentIndex < 0) {
             currentIndex = items.length - 1;
         }
-        
+
         updateSlidePosition();
     }
-    
-    // 下一張幻燈片
+
     function nextSlide() {
         goToSlide(currentIndex + 1);
     }
-    
-    // 上一張幻燈片
+
     function prevSlide() {
         goToSlide(currentIndex - 1);
     }
-    
-    // 開始自動播放
+
     function startAutoPlay() {
         if (intervalId) clearInterval(intervalId);
         intervalId = setInterval(nextSlide, interval);
     }
-    
-    // 停止自動播放
+
     function stopAutoPlay() {
         if (intervalId) {
             clearInterval(intervalId);
             intervalId = null;
         }
     }
-    
-    // 事件監聽器
+
     prevButton.addEventListener('click', () => {
         prevSlide();
         stopAutoPlay();
         startAutoPlay();
     });
-    
+
     nextButton.addEventListener('click', () => {
         nextSlide();
         stopAutoPlay();
         startAutoPlay();
     });
-    
-    // 為每個指示器添加點擊事件
+
     indicators.forEach((indicator, index) => {
         indicator.addEventListener('click', () => {
             goToSlide(index);
@@ -124,41 +139,41 @@ document.addEventListener('DOMContentLoaded', function() {
             startAutoPlay();
         });
     });
-    
-    // 滑鼠懸停時暫停自動播放
+
     carousel.addEventListener('mouseenter', stopAutoPlay);
     carousel.addEventListener('mouseleave', startAutoPlay);
-    
-    // 觸摸事件處理
+
+    // 觸控事件
     let touchStartX = 0;
     let touchEndX = 0;
-    
+
     carousel.addEventListener('touchstart', (e) => {
         touchStartX = e.touches[0].clientX;
         stopAutoPlay();
     });
-    
+
     carousel.addEventListener('touchend', (e) => {
         touchEndX = e.changedTouches[0].clientX;
-        
         const difference = touchStartX - touchEndX;
-        if (Math.abs(difference) > 50) { // 最小滑動距離
+        if (Math.abs(difference) > 50) {
             if (difference > 0) {
                 nextSlide();
             } else {
                 prevSlide();
             }
         }
-        
         startAutoPlay();
     });
-    
-    // 防止拖動圖片
+
     carousel.addEventListener('dragstart', (e) => {
         e.preventDefault();
     });
-    
-    // 初始化輪播
+
+    // ✅ 螢幕變化時重新載入合適圖片
+    window.addEventListener('resize', () => {
+        updateCarouselImages();
+    });
+
     initCarousel();
 });
 
