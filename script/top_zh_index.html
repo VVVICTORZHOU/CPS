@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Climate Professional Series | TOP</title>
+    <title>NTUCA Blog | TOP</title>
     <link rel="stylesheet" href="top_zh_style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="shortcut icon" type="image/x-icon" href="../img/ntuca_favicon.ico">
@@ -13,7 +13,7 @@
         <div class="header-container">
             <div class="logo-container">
                 <a href="top_zh_index.html">
-                    <img src="../img/cps_name_logo.png" alt="CPS Logo" id="logo-img">
+                    <img src="../img/ntuca_name_logo.png" alt="NTUCA Logo" id="logo-img">
                 </a>
             </div>
             
@@ -25,9 +25,8 @@
                         <li class="blog-menu">
                             <a href="blog_zh_index.html"><span>BLOG</span>部落格</a>
                             <ul class="submenu">
-                                <li><a href="blog_zh_index.html?series=全部">全部</a></li>
-                                <li><a href="blog_zh_index.html?series=NTUCA"><img src="../img/ntuca_logo.png" alt="ntuca圖示" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">NTUCA</a></li>
-                                <li><a href="blog_zh_index.html?series=USSHKU"><img src="../img/hkuuss_logo.png" alt="hkuuss圖示" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">USSHKU</a></li>
+                                <li><a href="blog_zh_index.html?series=氣候職人誌">氣候職人誌</a></li>
+                                <li><a href="blog_zh_index.html?series=與部長有約">與部長有約</a></li>
                             </ul>
                         </li>
                         <li><a href="" onclick="sendMail()"><span>CONTACT</span>聯繫我們</a></li>
@@ -56,7 +55,24 @@
         </div>
     </header>
 
-
+    <div class="search-popup">
+        <div class="search-popup-content">
+            <h2>在部落格中搜索</h2>
+            <div class="search-box">
+                <input type="text" id="search-input" placeholder="輸入關鍵字...">
+                <button type="button" id="search-submit">搜尋</button>
+            </div>
+            <div class="hot-searches">
+                <span>熱門搜尋：</span>
+                <a href="blog_zh_index.html">氣候變遷</a>
+                <a href="blog_zh_index.html">永續發展</a>
+                <a href="blog_zh_index.html">碳中和</a>
+            </div>
+            <button class="search-popup-close" aria-label="Close Search">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
     
     <div class="sidebar-overlay"></div>
     <aside class="sidebar">
@@ -64,7 +80,7 @@
             <i class="fas fa-times"></i>
         </button>
         <div class="sidebar-title">
-            <img src="../img/cps_name_logo.png" alt="NTUCA Logo" id="sidebar-logo-img">
+            <img src="../img/ntuca_name_logo.png" alt="NTUCA Logo" id="sidebar-logo-img">
         </div>
         <div class="sidebar-search">
             <a class="search-btn2">
@@ -78,9 +94,9 @@
                 <li>
                     <a href="#" class="sidebar-blog-toggle">部落格 <i class="fas fa-chevron-down"></i></a>
                     <ul class="sidebar-submenu">
-                        <li><a href="blog_zh_index.html?series=全部">全部</a></li>
-                        <li><a href="blog_zh_index.html?series=NTUCA"><img src="../img/ntuca_logo.png" alt="ntuca圖示" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">NTUCA</a></li>
-                        <li><a href="blog_zh_index.html?series=USSHKU"><img src="../img/hkuuss_logo.png" alt="hkuuss圖示" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">USSHKU</a></li>
+                        <li><a href="blog_zh_index.html?">全部</a></li>
+                        <li><a href="blog_zh_index.html?series=氣候職人誌">氣候職人誌</a></li>
+                        <li><a href="blog_zh_index.html?series=與部長有約">與部長有約</a></li>
                     </ul>
                 </li>
                 <li><a href="" onclick="sendMail()">聯繫我們</a></li>
@@ -190,40 +206,14 @@
     <!-- Top Dynamic -->
     <div class="top-dynamic-container">
         <h2 class="top-dynamic-title">最新動態</h2>
-        <p class="top-dynamic-subtitle">台大氣候行動社於臉書、IG等社交媒體上都有官方帳號，USSHKU，將不定期有動態資訊。歡迎追蹤我們的社群媒體，獲得最新消息！</p>
+        <p class="top-dynamic-subtitle">台大氣候行動社於臉書、IG等社交媒體上都有官方帳號，將不定期有動態資訊。歡迎追蹤我們的社群媒體，獲得最新消息！</p>
         <div class="top-dynamic-content">
+            
             <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNTUClimateAction&tabs=timeline&width=370&height=600&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId=590956299844535" width="370" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fussahku&tabs=timeline&width=370&height=600&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId=590956299844535" width="370" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            
         </div>
     </div>
     
-    <!-- Pop-up Disclaimer -->
-    <div id="disclaimer-popup" style="position: fixed; top: 0; left: 0; width: 100%; background: rgba(255, 255, 255, 0.95); border-bottom: 1px solid #ccc; padding: 20px; z-index: 9999; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Arial, sans-serif;">
-        <div style="flex: 1; font-size: 16px; color: #333;">
-            ⚠️ 本網站目前仍在建設中，若您發現版面配置或內容有錯誤，敬請見諒。
-        </div>
-        <button id="disclaimer-confirm" style="margin-left: 20px; padding: 8px 16px; background-color: #83cbeb; color: white; border: none; border-radius: 4px; cursor: pointer;">
-            OK
-        </button>
-    </div>
-    <script>
-        // Show the popup only once per session
-        window.addEventListener('DOMContentLoaded', function () {
-          const popup = document.getElementById('disclaimer-popup');
-          const confirmBtn = document.getElementById('disclaimer-confirm');
-      
-          // Optional: only show once per session using sessionStorage
-          if (!sessionStorage.getItem('disclaimerAcknowledged')) {
-            popup.style.display = 'flex';
-          }
-      
-          confirmBtn.addEventListener('click', function () {
-            popup.style.display = 'none';
-            sessionStorage.setItem('disclaimerAcknowledged', 'true');
-          });
-        });
-    </script>
-
     <!-- Footer -->
     <footer id="main-footer">
         <div class="footer-container">
