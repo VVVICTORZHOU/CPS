@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Climate Professional Series | 氣候職人誌</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="shortcut icon" type="image/x-icon" href="../img/sdgs_simplified_logo_img.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../img/cps_logo.png">
 </head>
 <style>
 /* 字體配置 */
@@ -261,37 +261,51 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 20px; /* 三張圖之間的間距 */
+    gap: 10px; /* 三張圖之間的間距 */
     flex-wrap: wrap; /* 在窄螢幕下自動換行 */
     padding: 20px;
 }
 
 .logo {
-    max-height: 80px;
+    max-height: 40px;
     height: auto;
     width: auto;
     max-width: 90%; /* 防止在極窄螢幕過寬 */
 }
 
-/* 若 Cross 圖片需要偏移調整，使用 transform 更穩定 */
+.cps-logo {
+    max-height: 140px;
+    max-width: 90%;
+    transform: translateY(-10px); /* 調整 CPS 圖片位置 */
+}
+
 .cross-logo {
+    max-height: 25px;
     transform: translateY(0px); /* 調整 Cross 圖片位置 */
 }
 
 @media screen and (max-width: 720px) {
     .logo-container {
         flex-direction: column;
-        gap: 10px;
+        gap: 3px;
     }
 
     .logo {
         max-width: 90%;
-        max-height: 50px;
+        max-height: 35px;
     }
-
+    
     .cross-logo {
+        max-height: 15px;
         transform: translateY(0);
     }
+
+    .cps-logo {
+        max-height: 100px;
+        max-width: 100%;
+        transform: translateY(0);
+    }
+
 
     .phrase-container {
         display: flex;
@@ -338,16 +352,21 @@ body {
 
 </style>
 <body>
+    <img class="logo cps-logo" src="../img/cps_name_logo.png" alt="CPS_logo">
     <div class="logo-container">
         <img class="logo ntuca-logo" src="../img/ntuca_name_logo_glow.png" alt="NTUCA_logo">
         <img class="logo cross-logo" src="../img/cross_glow.png" alt="Cross">
         <img class="logo hkuuss-logo" src="../img/hkuuss_name_logo_glow.png" alt="USSHKU_logo">
+        <img class="logo cross-logo" src="../img/cross_glow.png" alt="Cross">
+        <img class="logo nycusps-logo" src="../img/nycusps_name_logo_glow.png" alt="NYCUSPS_logo">
     </div>
     
+    <!--
     <div class="phrase-container">
         <h2 class="zh-phrase">氣候職人誌</h2>
         <h2 class="en-phrase">The Climate Professional Series</h2>
     </div>
+    -->
     <div class="top-btn-container">
         <a href="top_zh_index.html" class="lang-btn">繁體中文</a>
         <a href="top_en_index.html" class="lang-btn">ENGLISH</a>
@@ -378,6 +397,7 @@ body {
             const backgrounds = [
                 { url: '../img/gate-background-image1-fix.png', opacity: 0.8 },
                 { url: '../img/gate-background-image2-fix.png', opacity: 0.8 },
+                { url: '../img/gate-background-image3-fix.png', opacity: 0.8 },
             ];
 
             let currentBackgroundIndex = 0;
