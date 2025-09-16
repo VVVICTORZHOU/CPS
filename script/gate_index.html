@@ -9,32 +9,55 @@
 </head>
 <style>
 /* 字體配置 */
+/* 字體配置 */
+@font-face {
+    font-family: 'Montserrat Regular';
+    src: url('../font/Montserrat.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    unicode-range: U+0000-00FF; /* 基本拉丁 + 拉丁補充 */
+}
+
+@font-face {
+    font-family: 'Montserrat SemiBold';
+    src: url('../font/Montserrat-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    unicode-range: U+0000-00FF; /* 基本拉丁 + 拉丁補充 */
+}
 @font-face {
     font-family: 'HarmonyOS Sans TC Medium';
     src: url('../font/HarmonyOS_Sans_TC_Medium.ttf') format('truetype');
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
 }
 @font-face {
     font-family: 'HarmonyOS Sans TC Regular';
     src: url('../font/HarmonyOS_Sans_TC_Regular.ttf') format('truetype');
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
 }
 @font-face {
     font-family: 'HarmonyOS Sans TC Light';
     src: url('../font/HarmonyOS_Sans_TC_Light.ttf') format('truetype');
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
 }
 @font-face {
     font-family: 'HarmonyOS Sans TC Black';
     src: url('../font/HarmonyOS_Sans_TC_Black.ttf') format('truetype');
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
 }
 @font-face {
     font-family: 'EuroScope';
     src: url('../font/euroscope.ttf') format('truetype');
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
 }
+
+
 
 /* 初始化背景 */
 body {
     margin: 0;
     padding: 0;
-    font-family: 'HarmonyOS Sans TC', sans-serif;
+    font-family: 'Montserrat Regular','HarmonyOS Sans TC', sans-serif;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -100,7 +123,7 @@ body {
 }
 
 .zh-phrase {
-    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 32px;
     color: #333;
     /* Add a shadow */
@@ -109,7 +132,7 @@ body {
 
 .en-phrase {
     margin-top: -20px;
-    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 24px;
     color: #555;
     /* Add a shadow */
@@ -132,7 +155,7 @@ body {
     margin-top: 20px;
     width: 100px;
     color: #666;
-    font-family: 'HarmonyOS Sans TC Black', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Black', sans-serif;
     font-size: 16px;
     text-decoration: none;
     background-color: rgba(255, 255, 255, 0.9);

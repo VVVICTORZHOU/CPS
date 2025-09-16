@@ -1,33 +1,54 @@
 /* 字體配置 */
 @font-face {
-    font-family: 'HarmonyOS Sans TC Medium';
+    font-family: 'Montserrat Regular';
+    src: url('../font/Montserrat.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    unicode-range: U+0000-00FF; /* 基本拉丁 + 拉丁補充 */
+}
+
+@font-face {
+    font-family: 'Montserrat SemiBold';
+    src: url('../font/Montserrat-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    unicode-range: U+0000-00FF; /* 基本拉丁 + 拉丁補充 */
+}
+
+@font-face {
+    font-family:'HarmonyOS Sans TC Medium';
     src: url('../font/HarmonyOS_Sans_TC_Medium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
 }
 @font-face {
-    font-family: 'HarmonyOS Sans TC Regular';
+    font-family:'HarmonyOS Sans TC Regular';
     src: url('../font/HarmonyOS_Sans_TC_Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
 }
 @font-face {
-    font-family: 'HarmonyOS Sans TC Light';
+    font-family:'HarmonyOS Sans TC Light';
     src: url('../font/HarmonyOS_Sans_TC_Light.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
 }
 @font-face {
     font-family: 'HarmonyOS Sans TC';
     src: url('../font/HarmonyOS_Sans_TC_Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
 }
 @font-face {
-    font-family: 'HarmonyOS Sans TC Black';
+    font-family:'HarmonyOS Sans TC Black';
     src: url('../font/HarmonyOS_Sans_TC_Black.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
 }
 
 /* 基本樣式重置 */
@@ -38,7 +59,7 @@
 }
 
 body {
-    font-family: 'HarmonyOS Sans TC Regular', sans-serif;
+    font-family: 'Montserrat Regular', 'HarmonyOS Sans TC Regular', sans-serif;
     padding-top: 55px; /* 為固定header預留空間 */
     min-height: 100vh;
     position: relative;
@@ -112,7 +133,7 @@ body {
     flex-direction: column;
     text-decoration: none;
     color: #333;
-    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 15px;
     transition: transform 0.3s ease;
     text-align: center;
@@ -127,7 +148,7 @@ body {
 .right-controls a, .sidebar-menu a {
     text-decoration: none;
     color: #333;
-    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     transition: transform 0.3s ease;
     display: inline-block;
 }
@@ -206,7 +227,7 @@ body {
 }
 
 .search-popup h2 {
-    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 24px;
     color: #333;
     margin-bottom: 20px;
@@ -221,7 +242,7 @@ body {
 .search-box input {
     flex: 1;
     padding: 12px 20px;
-    font-family: 'HarmonyOS Sans TC Regular', sans-serif;
+    font-family: 'Montserrat Regular', 'HarmonyOS Sans TC Regular', sans-serif;
     font-size: 16px;
     border: 2px solid #e7e7e7;
     border-radius: 30px;
@@ -235,7 +256,7 @@ body {
 
 .search-box button {
     padding: 12px 30px;
-    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 16px;
     color: #fff;
     background-color: #83CBEB;
@@ -257,13 +278,13 @@ body {
 }
 
 .hot-searches span {
-    font-family: 'HarmonyOS Sans TC Regular', sans-serif;
+    font-family: 'Montserrat Regular', 'HarmonyOS Sans TC Regular', sans-serif;
     font-size: 14px;
     color: #666;
 }
 
 .hot-searches a {
-    font-family: 'HarmonyOS Sans TC Regular', sans-serif;
+    font-family: 'Montserrat Regular', 'HarmonyOS Sans TC Regular', sans-serif;
     font-size: 14px;
     color: #333;
     text-decoration: none;
@@ -397,7 +418,7 @@ body {
 }
 
 #main-footer p {
-    font-family: 'HarmonyOS Sans TC Light', sans-serif;
+    font-family: 'Montserrat Regular', 'HarmonyOS Sans TC Regular', sans-serif;
     font-size: 12px;
     color: #333;
     margin-bottom: 0px;
@@ -471,7 +492,7 @@ body {
 }
 
 .exit-post-title-container h2 {
-    font-family: 'HarmonyOS Sans TC Black', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 32px;
     padding-bottom: 10px;
     width: 100%;
@@ -498,7 +519,7 @@ body {
 }
 
 .exit-post-text-container p {
-    font-family: 'HarmonyOS Sans TC Regular', sans-serif;
+    font-family: 'Montserrat Regular', 'HarmonyOS Sans TC Regular', sans-serif;
     font-size: 16px;
     color: #666;
     padding: 0px;
@@ -517,7 +538,7 @@ body {
     padding: 10px 20px;
     width: 180px;
     color: #333;
-    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 16px;
     text-decoration: none;
     background-color: #fff;
@@ -533,7 +554,7 @@ body {
     align-items: center;
     padding: 10px 20px;
     width: 180px;
-    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 16px;
     text-decoration: none;
     background-color: #f6f6f6;
@@ -692,21 +713,21 @@ body {
 }
 
 .post-title {
-    font-family: 'HarmonyOS Sans TC Black', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 1.8rem;
     color: #333;
     margin-bottom: 5px;
 }
 
 .post-subtitle {
-    font-family: 'HarmonyOS Sans TC Regular', sans-serif;
+    font-family: 'Montserrat Regular', 'HarmonyOS Sans TC Regular', sans-serif;
     font-size: 16px;
     color: #666;
     margin-bottom: 15px;
 }
 
 .blog-posts-item-series {
-    font-family: 'HarmonyOS Sans TC Regular', sans-serif;
+    font-family: 'Montserrat Regular', 'HarmonyOS Sans TC Regular', sans-serif;
     font-size: 0.8rem;
     background-color: #bbb;
     color: #f6f6f6;
@@ -820,7 +841,7 @@ body {
     font-size: 14px;
     color: #333;
     display: block;
-    font-family: 'HarmonyOS Sans TC Regular', sans-serif;
+    font-family: 'Montserrat Regular', 'HarmonyOS Sans TC Regular', sans-serif;
     padding: 5px 10px;
 }
 
@@ -854,7 +875,7 @@ body {
     align-items: center;
     text-decoration: none;
     color: #333;
-    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     font-size: 16px;
     cursor: pointer;
     padding: 0px 0px;
@@ -901,18 +922,18 @@ body {
     width: 100%;
     max-width: 1000px; /* 或 70ch、50rem 等固定內容寬度 */
     line-height: 1.8;
-    font-family: 'HarmonyOS Sans TC Regular', sans-serif;
+    font-family: 'Montserrat Regular', 'HarmonyOS Sans TC Regular', sans-serif;
 }
 
 .post-content-container h2 {
-font-family: 'HarmonyOS Sans TC Black';
+font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium';
 font-size: 1.8rem;
 margin-bottom: 1.2rem;
 color: #222;
 }
 
 .post-content-container h3 {
-font-family: 'HarmonyOS Sans TC Medium';
+font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium';
 font-size: 1.4rem;
 margin-top: 2rem;
 margin-bottom: 1rem;
@@ -927,7 +948,7 @@ font-size: 1rem;
 }
 
 .post-content-container strong {
-font-family: 'HarmonyOS Sans TC Medium';
+font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium';
 color: #000;
 }
 
@@ -1020,7 +1041,7 @@ margin-bottom: 0.5rem;
     justify-content: space-between;
     align-items: center;
     transition: background-color 0.3s ease;
-    font-family: 'HarmonyOS Sans TC Medium', sans-serif;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
     color: #333;
 }
 
