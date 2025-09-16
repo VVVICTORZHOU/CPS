@@ -696,7 +696,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         document.getElementById('clear-filter').addEventListener('click', function() {
             searchInput.value = '';
-            filterContent.innerHTML = '<span>No Filter is Applied.</span>';
+            filterContent.innerHTML = '<span>No active filters</span>';
             document.querySelector('.blog-sort-content').style.display = 'flex';
             
             // 恢復原始順序並顯示所有貼文
