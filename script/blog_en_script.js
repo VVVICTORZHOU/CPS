@@ -687,16 +687,16 @@ document.addEventListener('DOMContentLoaded', function() {
         const keywordDisplay = keywords.length > 0 ? keywords.join(', ') : '';
         
         if (keywordDisplay === '') {
-            filterContent.innerHTML = `<span>當前篩選：</span> <span class="filter-tag">${selectedSeries}</span>
-            <button id="clear-filter">清除篩選</button>`;
+            filterContent.innerHTML = `<span>Current Filters: </span> <span class="filter-tag">${selectedSeries}</span>
+            <button id="clear-filter">Clear Filter</button>`;
         } else {
-            filterContent.innerHTML = `<span>當前篩選：</span> <span class="filter-tag">${selectedSeries}</span> <span class="filter-tag">${keywordDisplay}</span> 
-            <button id="clear-filter">清除篩選</button>`;
+            filterContent.innerHTML = `<span>Current Filters: </span> <span class="filter-tag">${selectedSeries}</span> <span class="filter-tag">${keywordDisplay}</span> 
+            <button id="clear-filter">Clear Filter</button>`;
         }
 
         document.getElementById('clear-filter').addEventListener('click', function() {
             searchInput.value = '';
-            filterContent.innerHTML = '<span>當前篩選為空</span>';
+            filterContent.innerHTML = '<span>No Filter is Applied.</span>';
             document.querySelector('.blog-sort-content').style.display = 'flex';
             
             // 恢復原始順序並顯示所有貼文
