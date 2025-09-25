@@ -132,3 +132,5 @@ NTUCA
         <p>Once you enter the workforce, this ability becomes incredibly valuable. You don’t need to be an expert right away, but if you’re able to learn quickly and find a path forward, you’ll go far in this industry.</p>
 
     </div>
+
+    <img src="../img/blogs/邱浩維.jpg" alt="合影" width="100%" height="auto" />

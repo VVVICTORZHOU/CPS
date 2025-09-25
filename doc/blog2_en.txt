@@ -144,7 +144,7 @@ NTUCA
 
     </div>
     
-    <img src="../img/blogs/謝敬輝.png" alt="合影" width="100%" height="auto" />
+    <img src="../img/blogs/謝敬輝.jpg" alt="合影" width="100%" height="auto" />
 
 
 
