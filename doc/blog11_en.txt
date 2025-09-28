@@ -12,7 +12,8 @@ As a college student, Yixuan put her passion into action through leading clubs, 
 
 <註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
 <範例> interview_with_wang_da_ming.png
-blogs/post11_en_face.png
+blogs/post11_en_face.jpg
+
 <註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
 <範例> #企業家#訪談#王大明#永續
 #永續發展#校園行動#ESG#青年行動#環境教育#跨領域學習
@@ -130,4 +131,5 @@ NYCU-ESGSPC
         <p>Moreover, Yixuan holds unique views on education. She reflected on her own journey, feeling restricted by a system that values only on exams, and hopes to transform such limitations across Asia. She believes learning should not be confined to the classroom but should “extend beyond the classroom environment,” as she is not a student who enjoys staying in the classroom all the time.</p>
         <p><blockquote>“I have always wanted to do something meaningful and integrate my ideas. I value outdoor learning because, throughout my schooling, I realized I don’t enjoy spending long hours in the classroom. While foundational knowledge is important, we should learn beyond the classroom, not just from textbooks.”</blockquote></p>
         <p>From her early passion to her current initiatives, Yixuan actively drives sustainability on campus. Her story reminds us that every choice and every action contribute to advancing society toward a sustainable future.</p>
+
     </div>
