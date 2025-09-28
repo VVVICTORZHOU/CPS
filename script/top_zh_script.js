@@ -526,7 +526,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
                 <div class="blog-posts-item-interactions">
                     <span class="blog-posts-item-date">${postData.date}</span>
-                    <span class="blog-posts-item-likes"><i class="fas fa-heart"></i> ${postData.likes}</span>
+                    <!-- <span class="blog-posts-item-likes"><i class="fas fa-heart"></i> ${postData.likes}</span> -->
                     ${postData.pinned ? '<span class="blog-posts-item-pinned"><i class="fas fa-thumbtack"></i></span>' : ''}
                     <span class="blog-posts-item-series">
                         <i class="fas fa-paperclip"></i> 
