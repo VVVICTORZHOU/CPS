@@ -1,0 +1,134 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+From Concern to Action: A College Student’s Journey into Sustainability
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+As a college student, Yixuan put her passion into action through leading clubs, collaborating on projects, and participating in competitions —demonstrating how youth create impact on sustainability education and social issues.
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2025/09/01
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post11_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#永續發展#校園行動#ESG#青年行動#環境教育#跨領域學習
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming#sustainability
+#SustainableDevelopment#CampusAction#ESG#YouthLeadership#SustainabilityEducation#InterdisciplinaryLearning 
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+Interviewee: Yixuan-Wang / Interviewer: Fang-Ling Tsao / Writer: Yunchen-Li
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+4,13,14,15,17
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC)
+<範例> NTUCA
+NYCU-ESGSPC
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>Preface</h3>
+        <p>This interview is part of a collaboration between the NYCU ESG Sustainable Prospect Club and the NTU Climate Action Club for the project Climate Professionals. The theme centers on youth action—whether university students engaged in sustainability initiatives on campus, or recent graduates taking their first steps into the workforce. They are at a stage where exploration and practice go hand in hand.</p>
+        <p>Through in-depth conversations with these young individuals, we aim to offer those who have interest in sustainability practical advice and inspiration. Whether by drawing advices from their experiences or observing how different their life paths intersect with sustainability, we hope to spark new ideas and encourage actions.</p>
+        <p>Within this context, we interviewed Wang Yixuan, a student at National Tsing Hua University. Starting from campus initiatives, she gradually transformed her concerns into concrete actions, extending sustainability principles into tangible projects and demonstrating how young people can create impact even with limited resources.</p>
+    </div>
+    
+    <div class="post-section">
+        <h3>1. Personal Background and the Spark of Sustainability</h3>
+
+        <p>Yixuan is currently a third-year student in The Interdisciplinary Program of Education  at National Tsing Hua University. She shared that her interest in environmental science began at a young age, fueled by reading international environment news and following global issues. She particularly recalls the <a href="https://www.businesstoday.com.tw/article/category/80392/post/201906250016/">"Turtle Straw incident"</a>as a pivotal moment that sparked her journey into sustainability.</p>
+
+        <!-- 這裡放置需要收起/展開的內容 -->
+        <div class="collapsible-container">
+            <div class="collapsible-header">
+                <div class="collapsible-title">The Interdisciplinary Program of Education</div>
+                <div class="collapsible-icon"></div>
+            </div>
+            <div class="collapsible-content">
+                <p>The Interdisciplinary Program of Education emphasizes “Sustainable Development in Education”. Students are required to major in sustainable development education, gaining integrative thinking and practical skills across environmental, ecological, cultural, and policy perspectives. They can also choose a secondary expertise from a wide range of disciplines, including humanities, science, and social sciences, to develop their personal expertise. Courses blend theory and practice, including field trips, cross-disciplinary projects, and international workshops, providing students with opportunities to act locally and think globally.</p>
+                
+            </div>
+        </div>
+
+        <p>Yixuan initially entered as The Interdisciplinary Program of Tsing Hua . During her freshman year, she struggled with science courses and felt frustrated, even doubting whether she could hold on for the remaining few years. Fortunately, during this exploration, she discovered the Department of Environmental and Cultural Resources in the College of Education — a perfect fit that combined her passion for the environment with her strength in interpersonal communication.</p>
+
+        <!-- 這裡放置需要收起/展開的內容 -->
+        <div class="collapsible-container">
+            <div class="collapsible-header">
+                <div class="collapsible-title">The Interdisciplinary Program of Tsing Hua </div>
+                <div class="collapsible-icon"></div>
+            </div>
+            <div class="collapsible-content">
+                <p>The Tsing Hua Interdisciplinary Program is designed to identify outstanding students beyond academic performance and cultivate talents with cross-disciplinary innovation and diverse specializations. Reorganized in 2015 under Tsing Hua College, the program offers flexible departmental selection, interdisciplinary coursework, experiential education, and mentorship, allowing students to explore their interests and chart unique academic paths through courses and project-based learning.</p>
+        
+            </div>            
+        </div>
+
+        <p><blockquote>“I realized that I truly enjoy interacting with people, communicating, and even leading a team.” </blockquote></p>
+        <p>She then decided to transfer into the College of Education and took Anthropology as her secondary expertise, hoping to understand environmental issues from a cross-disciplinary perspective and broaden her thinking. Regarding sustainability, she believes it spans a vast field and requires continuous learning. To keep herself informed, she follows social media accounts like Instagram and Facebook, reads international media platforms such as CNN and BBC, and often uses memory-assist apps to keep information.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>2. Early Exploration of Sustainability Competitions in High School</h3>
+        <p>Yixuan showed an early interest in environmental issues during her high school. She joined Greenpeace as a volunteer, participating in activities and community service. She also shared her experience participating in the “2021 Taiwan International Youth Ocean Forum” design thinking competition:</p>
+        <p>
+            <blockquote>“In my first year of high school, for the International Youth Ocean Forum, I focused on Kenting National Park and proposed turning trash into commercialized souvenirs. My classmates weren’t very interested then, but I was very determined to participate, so I formed a team with a few friends and was successfully selected in the end.”</blockquote>
+        </p>
+        <p>These experiences highlight Yixuan’s enthusiasm for the environment and her early attempts at joining practical action. Fueled by her passion, she later entered in National Tsing Hua University through a “Special Admission,” turning her high school experiences into a stepping-stone for her higher education.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>3. University Sustainability Practice and Challenges</h3>
+        <p>Upon entering university, Yixuan’s sustainability efforts became more concrete. She currently serves as president of the “Green Dot” Club, which promotes sustainability initiatives on campus. During the interview, she shared insights into the club’s operations, challenges, and collaborations. The club hosts guest speakers from companies and government agencies in the sustainability field, with topics varying each semester.</p>
+        <p>
+            <blockquote>“Last semester, we focused on sustainability on campus. This semester, we’re focusing on careers because many students want to know what it’s like to work in the sustainability sector,” Yixuan explained.</blockquote>
+        </p>
+        <p>Although she has built trust and rapport with club members now from her sophomore to junior years, the early experience with the club was not smooth.</p>
+        <p>
+            <blockquote>“The club was once downgraded to an ‘underground club’ because it didn’t pass the school’s evaluation, and we couldn’t apply for funding. At that time, the club was almost at a standstill.”</blockquote>
+        </p>
+        <p>After becoming president, she actively sought support from varieties of resources everywhere:</p>
+        <p>
+            <blockquote>“We borrowed classroom from the university’s Sustainability Center and exchanged ideas with sustainability clubs from other colleges, as well as former Green Dot members. Only then did the club start to gain momentum.”</blockquote>
+        </p>
+        <p>This process not only strengthened her organizational and leadership skills but also expanded her cross-school network, connecting her with the sustainability peers from NTU, NTNU, and CCU through <a href="https://www.tysda.earth/">Taiwan Youth Sustainability Development Association</a>.</p>
+        <p>Beyond the club, she also serves as a “Tsing Hua Sustainability Ambassador,” a program designed to bridge students and university administration. Each ambassador receives project funding to design and implement campus sustainability initiatives. Yixuan wanted to open the ambassador training courses to all students, initially facing resistance from the school. Through persistent proposals and communication, she successfully collaborated with the Sustainability Center, integrating the training courses into Green Dot activities, thereby increasing student more chances to access to sustainability education.</p>
+        <p>Her efforts extend beyond campus. She participated in the United Daily News’ 「<a href="https://video.udn.com/news/1305313">"River Restoration Project"</a>, collaborating with academia, government, and industry through design thinking workshops to explore diverse solutions. As a student representative, Yixuan shared her perspectives on river management, demonstrating the influence youth can have on society issues.</p>
+        <p>At the 2024 International Youth Climate Action Forum in New Taipei City, she and her team’s <a href="https://www.cdns.com.tw/articles/1073183">"Wetland Revival Project—Elementary School Ecological Template"</a>」won a silver award. From conception to execution, the project was meticulously planned, including template design, activity flow, and hands-on experiences for students to understand the wetland ecology, turning sustainability education into practical and actionable learning tools. Yixuan’s efforts show that youth impact extends beyond the competitions, influencing society at large.</p>
+        <p>Reflecting on these experiences, she said:</p>
+        <p><blockquote>“My deepest realization is that when facing sustainability issues, you cannot interpret situations merely from your personal perspective. You must consider different stakeholders, understand their needs and expectations, and only then can you find truly feasible solutions.”</blockquote></p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>4. Future and Aspirations</h3>
+        <p>Discussing her future, Yixuan demonstrated a profound ambition, planning to be a slashie. She expressed an interest in founding a startup, like a non-profit organization, integrating design thinking to promote sustainability education. Currently, she is involved in the <a href="https://ecocampus.moenv.gov.tw/">“Taiwan-US Ecological School Certification”</a> project with Dazhuang Elementary School in Hsinchu, being a teaching assistant and observing educational practices firsthand.</p>
+        <p>Moreover, Yixuan holds unique views on education. She reflected on her own journey, feeling restricted by a system that values only on exams, and hopes to transform such limitations across Asia. She believes learning should not be confined to the classroom but should “extend beyond the classroom environment,” as she is not a student who enjoys staying in the classroom all the time.</p>
+        <p><blockquote>“I have always wanted to do something meaningful and integrate my ideas. I value outdoor learning because, throughout my schooling, I realized I don’t enjoy spending long hours in the classroom. While foundational knowledge is important, we should learn beyond the classroom, not just from textbooks.”</blockquote></p>
+        <p>From her early passion to her current initiatives, Yixuan actively drives sustainability on campus. Her story reminds us that every choice and every action contribute to advancing society toward a sustainable future.</p>
+    </div>
