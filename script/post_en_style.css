@@ -630,13 +630,13 @@ body {
     }
 
     .exit-post-link-container a {
-        width: 210px;
+        width: 240px;
         font-size: 16px;
         margin-bottom: 10px;
     }
 
     .exit-post-link-container .disabled-button {
-        width: 210px;
+        width: 240px;
         font-size: 16px;
         margin-bottom: 10px;
     }
