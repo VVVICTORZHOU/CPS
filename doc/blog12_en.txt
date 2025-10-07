@@ -1,0 +1,103 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+Starting from “Why Not?”: From Campus Club to Startup, from Taiwan to the U.S. — A Journey in Sustainability
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+While ESG implementation is often associated with large corporations, alumnus Will Chia focuses on helping SMEs navigate their own transformation journeys. He shared with us his experience as a sustainability consultant, detailing the nature of his work, the practical aspects of ESG, and how he offers concrete support to businesses in need.
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2025/09/08
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post12_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#永續發展#ESG#氣候變遷#青年氣候行動#從校園到創業#氣候韌性
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#SustainableDevelopment#ESG#ClimateChange#YouthClimateAction#FromCampusToStartup#ClimateResilience
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+hoto by Chia-Hsuan Chen / Text by Fang-Ling Tsao
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+4,6,11,13,17
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC)
+<範例> NTUCA
+NYCU-ESGSPC
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>Preface</h3>
+
+        <p>This interview is part of a collaboration between the <i>NYCU ESG Sustainable Prospect Club</i> and the <i>NTU Climate Action Club</i> for the project Climate Professionals. The theme centers on <strong>youth action</strong>—whether university students engaged in sustainability initiatives on campus, or recent graduates taking their first steps into the workforce. They are at a stage where exploration and practice go hand in hand.</p>
+
+        <p>Through in-depth conversations with these young changemakers, we hope to spark new ideas and opportunities for action. This interview features <strong>Chia-Hsuan Chen</strong>, a student from National Yang Ming Chiao Tung University’s Arete Honors Program, majoring in Electrical Engineering. In 2022, she founded the <i>ESG Sustainable Prospect Club</i>, later participated in entrepreneurship competitions, and by 2025, joined a Silicon Valley accelerator, embarking on an international startup journey.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>If No One Is Doing It, It’s Not Because No One Has Thought About It—It’s Because It’s Really Hard</h3>
+
+        <p>“In Taiwan, if no one says ‘yes,’ the answer is often assumed to be ‘no.’ But I like to ask: Why not?” With this mindset, Chia-Hsuan began a university journey that was both exhausting and full of challenges.</p>
+
+        <p><blockquote>“I’ve always enjoyed solving problems, especially those related to sustainability,”</blockquote></p>
+        <p>she recalls. In high school, she worked on a research project about automated water droplet movement—her first attempt to combine engineering with nature.</p>
+
+        <p>At university, she encountered a broader range of sustainability issues and realized that while these problems are challenging, they also urgently need practical solutions. That’s when she decided to establish the <i>ESG Sustainable Prospect Club</i>.</p>
+
+        <p>In 2022, as part of Taiwan’s <i>International Youth Ambassador</i> program, she visited Palau. There, through exchanges with local sustainability organizations, cultural groups, and even the president, she came face-to-face with the impacts of rising sea levels for the first time. She recalls vividly: “We drove across a bridge—though it was called a bridge, it stood only 50 centimeters to 1 meter above sea level, about waist to chest height for a person. What we often hear about sea-level rise as a distant concept was right there before my eyes. The island was slowly sinking…”</p>
+
+        <p>When she returned to Taiwan, she realized that universities like NTU and NTHU had sustainability clubs, but NYCU did not. From the question “Why not?”, the <i>ESG Sustainable Prospect Club</i> was born.</p>
+
+        <p><blockquote>“If we simply named it a ‘sustainability club,’ it would have been too vague. I wanted students to understand that ESG is not just a slogan—it’s a framework for seeing how sustainability connects with business, technology, and governance.”</blockquote></p>
+    
+        <p>As the club grew, she categorized its members into <strong>explorers</strong>, <strong>competitors</strong>, and <strong>career seekers</strong>. Most students fell into the third group, looking to leverage their experiences in sustainability for future career opportunities.</p>
+    
+    </div>
+
+    <div class="post-section">
+        <h3>If Someone Encourages You to Start a Business, Ask Them: Do You Have a Grudge Against Me?</h3>
+
+        <p>Chia-Hsuan admits that the process of entrepreneurship is far more difficult than most imagine. Beyond technical challenges, there are administrative hurdles, patents, business models, and team management. Still, she chose this path—because it was a way to bring sustainability ideas into society. In one entrepreneurship competition, her team proposed the concept of a “<strong>Sponge Island</strong>”, inspired by Taiwan’s worst drought in half a century in 2021.</p>
+
+        <p>“At the time, the government cut irrigation for 70% of farmland to divert water to industrial use. It even became international news. Since my father’s family is from Lukang, the issue felt very close to me.”</p>
+    
+        <p>The “ContiHydro” project led them to build an experimental underground reservoir on the NYCU campus. It even attracted the interest of the Taiwan Water Corporation. Yet, regulatory restrictions and business model challenges ultimately halted the project after two years. Even so, she views the experience as invaluable:</p>
+    
+        <p>“It was a precious lesson in entrepreneurship, even if the project didn’t last."</p>
+    </div>
+
+    <div class="post-section">
+        <h3>Leadership Is Moving Forward Together</h3>
+        
+        <p>When it comes to leadership, Chia-Hsuan emphasizes the importance of her teammates. Reflecting on her time leading the <i>>NYCU ESG Sustainable Prospect Club</i> and entrepreneurship projects, she notes that leadership involved more than just organizing activities—it also required managing administration, communication, and time.</p>
+
+        <p><blockquote>“These challenges taught me that running a club can’t rely solely on passion. It requires endurance and the support of a team.”</blockquote></p>
+
+        <p>She leaves this advice for future student leaders:</p>
+
+        <p><blockquote>“Think of managing a club as a long-term experiment. There will be setbacks, but you need to adjust your mindset and turn every challenge into nourishment for growth.”</blockquote></p>
+    </div>
