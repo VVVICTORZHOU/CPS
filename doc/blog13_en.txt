@@ -1,0 +1,175 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+Sustainability in Motion: Exploring Urban Solutions with Dr. Nam
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+Addressing the issue of climate change is of vital importance to cities around the world. Dr Nam, the associate professor of the Department of Urban Planning and Design of the University of Hong Kong, would share valuable insights to us from an urban perspective.
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2025/10/05
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post13_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#永續發展#都市#解方#空氣污染#香港#中國城市研究
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#SustainableDevelopment#Urban#Solutions#AirPolloution#Hongkong#ChineseUrbanResearch
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+Text by Lam Yatt, Choi Soyoung
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+11,13
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC)
+<範例> NTUCA
+USSHKU
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>Q1: Could you start by introducing yourself and your current role?</h3>
+
+        <p>Dr. Nam is an Associate Professor in the Department of Urban Planning and Design at the University of Hong Kong, and also serves as Programme Director for the Bachelor of Arts in Urban Studies. He obtained his PhD from the Massachusetts Institute of Technology and conducted three years of post-doctoral research there after completing his degree. Dr. Nam majored in urban planning during both his undergraduate and master's studies, during which he had the opportunity to compare urban planning models in Hong Kong, South Korea, and the United States. His research focuses on spatial planning and environmental policy, particularly in East Asian regions such as the Greater Bay Area, Hong Kong, and China. Dr. Nam is passionate about evidence-based sustainable urban development strategies and regional cooperation, and draws inspiration from international planning experiences.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Q2: What inspired you to pursue a career at HKU and conduct research related to sustainability or air pollution?</h3>
+
+        <p>Dr. Nam hopes to apply academic knowledge to the actual solving of urban problems. Environmental pollution and climate change are among the main challenges cities currently face, and improving these issues is precisely the motivation behind his research.</p>
+
+        <p>Dr. Nam studied international planning and regional planning, viewing cities as complex systems where design, policy, and technology intersect. Although many urban problems originate from cities themselves, global experience shows that well-managed urbanization and high-density development can actually become solutions.</p>
+
+        <p>He developed a strong interest in Chinese urban research, particularly Hong Kong's research environment. Chinese urban theory has traditionally relied heavily on Western experience and urgently needs fresh perspectives and ideas. While Chinese urban research is now quite rich, it was still in its early stages back then.</p>
+
+        <p>China's pollution problem is a byproduct of technological progress and urbanization, but China is also actively improving the situation from different perspectives, proving that economic growth and environmental protection can proceed simultaneously. Examples include the development of the renewable energy sector, including local markets for solar energy, electric vehicles, and wind turbines.</p>
+
+        <p>China has also gradually moved beyond the "develop first, clean up later" model. This concept arose from a misinterpretation of the <span class="keyword" data-tooltip="The Environmental Kuznets Curve (EKC) is a theoretical model describing the relationship between economic growth and environmental pollution. The theory suggests that in the early stages of economic development, as income rises, pollution increases because industrialization and energy consumption increase. When economic development reaches a certain level, people's demand for environmental quality increases, governments begin to formulate environmental policies, and technology becomes more advanced, so pollution levels actually decline. Therefore, the EKC presents an inverted U-shaped curve—first worsening, then improving.">Environmental Kuznets Curve (EKC)</span>. This curve is not theory-driven but rather describes a trend—it does not mean one must wait until becoming wealthy to improve the environment. In fact, economic development and environmental protection can proceed simultaneously.</p>
+    
+        <p>Taking the United States and the Middle East as examples, despite high income levels, energy emissions remain severe; in contrast, Western Europe has lower emissions even at similar income levels. This shows that the motivation to work on environmental issues is not constrained by income level. China's dual-track strategy has not only not harmed the economy but has actually led the "megatrend" toward clean energy, with early adopters becoming winners.</p>
+
+        <p>As an international scholar, Dr. Nam faces language barriers when conducting Chinese urban research. In contrast, the University of Hong Kong provides a research environment without language barriers, convenient access to information and data, and opportunities to interact with local, international, and Chinese scholars, making it a valuable platform for his Chinese urban research.</p>
+    </div>
+
+    <div class="post-section">
+        <h3>Q3: Do you think emission trading is an efficient way to curb total emissions?</h3>
+        
+        <p>There are two main strategies for reducing emissions, and emissions trading is an effective method of emission reduction:</p>
+
+        <p><strong>1. Command and Control Management</strong></p>
+
+        <p>For example, closing coal-fired power plants and switching to more efficient gas-fired or solar power generation. However, the downside of this method is high cost: the government needs to invest significant funds to collect market information for effective regulation. Additionally, continuous monitoring of corporate performance is necessary, otherwise deceptive behavior may occur, leading to persistently high regulatory costs. This approach may also inhibit innovation—when the government directly requires companies to take specific actions, companies lack the motivation to find more creative or cost-effective solutions. In fact, companies often understand market trends and technological innovations better than the government.</p>
+
+        <p><strong>2. Emissions Trading System</strong></p>
+
+        <p>This is a market-oriented approach. Once carbon prices are established in the market, each company can determine its own emission levels under the cap set by the government. Companies can choose to increase emissions or invest in emission reduction technologies, having multiple options to optimize their own performance. The emissions trading system regulates the total quantity of emissions, not the price. Compared to command-style management, this approach is more efficient. The government only needs to set emission caps, and subsequent regulatory roles are greatly reduced, without the need to instruct companies individually on what actions to take. In the long term, it can promote innovation at the corporate level, and the cost is much lower than traditional command and control approaches.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Q4: What are the advantages and disadvantages of emissions trading in China and the Pearl River Delta compared to other areas?</h3>
+
+        <p>As mentioned earlier, compared to traditional command and control regulation, emissions trading systems are more efficient. However, emissions trading also has some disadvantages. First, it is essentially a market-oriented intervention method, so its effectiveness is limited by the size of the carbon market.</p>
+
+        <p>Taking Hong Kong as an example, about two-thirds of carbon emissions come from electricity, and Hong Kong's electricity is mainly provided by two companies: CLP Power Hong Kong and Hong Kong Electric Company Limited. At the same time, Hong Kong has its own carbon neutrality target at the city level. Under the "One Country, Two Systems" principle, the mainland and Hong Kong systems differ. Mainland China has already launched a national emissions trading scheme, but Hong Kong is excluded because it has its own targets, administrative system, and institutional rules. From the national perspective, incorporating Hong Kong may be too complicated; from Hong Kong's perspective, there are also political concerns about whether to join the national emissions trading system.</p>
+
+        <p>The question is, while Hong Kong's carbon neutrality goal is certainly commendable, how will it be achieved? Can it only rely on command and control methods without using trading systems? For example, if CLP's power plants are shut down to control demand, it may lead to insufficient local electricity supply. Hong Kong has limited land and finds it difficult to develop renewable energy on a large scale, and renewable energy itself has intermittency problems with insufficient stability. Therefore, Hong Kong cannot basically achieve the carbon neutrality goal on its own; this goal may be overly ambitious.</p>
+
+        <p>I believe the first disadvantage of emissions trading systems is that their effectiveness is limited by market size, and Hong Kong is a typical example. The second disadvantage is that their effectiveness is limited by carbon prices. Market participants only have strong economic incentives to participate in emissions trading when carbon prices are high enough. Recall that during the pandemic, the mainland implemented multiple social distancing measures, and some cities were even completely locked down, causing energy demand and manufacturing production to drop significantly, with carbon prices falling to nearly zero. Even without additional emission controls, the pandemic itself caused massive emission reductions. But when carbon prices are too low, the carbon market cannot function properly, companies lack motivation to reduce emissions or adopt technological means, and the incentive effect is very weak.</p>
+
+        <p>As I said, the second problem is market uncertainty and volatility, and carbon price instability.</p>
+    </div>
+
+    <div class="post-section">
+        <h3>Q5: Can you provide some examples that are contributing to the mitigation or adaptation of climate change in your research field?</h3>
+
+        <p><strong>Mitigation Measures</strong></p>
+
+        <p>Taking Transit Oriented Development as an example, urban planning can serve as an effective tool for reducing carbon emissions. Compact or mixed-use urban development can reduce dependence on vehicles, while pedestrian-friendly environments help improve energy efficiency and reduce emissions.</p>
+
+        <p>Green infrastructure, green spaces, and green roofs can effectively mitigate urban heat island effects and improve air quality. Public infrastructure such as centralized cooling and heating systems also helps. For example, some areas of Kai Tak have adopted centralized cooling and heating systems, which are about 30% more energy efficient than individual systems.</p>
+
+        <p><strong>Adaptation Measures</strong></p>
+
+        <p>From an adaptation perspective, there are many successful cases. The basic assumption of adaptation strategies is that regardless of what actions humans take, climate change will continue to occur, so potential damage should be minimized as much as possible.</p>
+
+        <p>Hong Kong is frequently affected by storms and typhoons, and flooding was frequent in the past (e.g., leading to school closures). Although flooding still occurs occasionally, the frequency has decreased because the government has built drainage tunnels. Hong Kong Island is densely developed and mostly consists of coastal areas, while Victoria Peak in the center has higher elevation. When heavy rain comes, large amounts of rainwater flow from the peak to low-lying areas like Central. Even though Hong Kong's drainage system is highly efficient, its capacity is limited, and flooding still occurs when rainfall exceeds design limits. Drainage tunnels are located between Victoria Peak and Central, allowing rainwater to drain directly into the sea, reducing the burden on Central's drainage system.</p>
+
+        <p>I (Dr. Nam) often go to the southern part of Hong Kong Island (such as Stanley), and every time I see large numbers of gabions. Landslides were also common in the area in the past, but have now been significantly reduced, thanks to the government's installation of gabions and drainage systems, which are very necessary and important adaptation measures.</p>
+
+        <p>The last point is that several years ago when a typhoon struck Hong Kong and Macau, Hong Kong's casualties were only one-tenth of Macau's. This is because Hong Kong has clear and accurate response plans when typhoons occur. The early warning system established by the Hong Kong Observatory works well, while Macau's system is relatively less efficient. This shows that Hong Kong performs excellently in both hardware infrastructure and software systems (such as warning systems).</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Q6: With reference to your research about impacts of Urban Rail Transit on On-Road Carbon Emission, do you think HK has done a great job in reducing on-road carbon emissions? Is there something HK can do to further reduce on-road carbon emission?</h3>
+
+        <p>As I mentioned earlier, I studied in South Korea, the United States, and Hong Kong, which gave me the opportunity to compare the urban planning approaches and infrastructure of the three regions. There is no question that Hong Kong has been doing very well in public transportation, especially in Transit Oriented Development, setting an exemplary model for other cities to learn from. Hong Kong is definitely one of the most walkable and least car-dependent cities in the world.</p>
+
+        <p>In this regard, Hong Kong's public transportation system is highly competitive, with the MTR playing a crucial role. For example, Hong Kong's transit mode share of passenger trips ranks among the highest in the world. Compared to Singapore, Hong Kong's private car ownership rate is only half that of Singapore, and Singapore's vehicle ownership rate is already quite low with high car ownership costs. Even so, Hong Kong's vehicle ownership rate per thousand households is still only half of Singapore's. Compared to the United States, Hong Kong's vehicle ownership rate is only one-eighth of the national average in the US. High public transit usage and low vehicle ownership rates are closely correlated, so the role of public transportation is crucial.</p>
+
+        <p>Of course, while Hong Kong's performance is excellent, it does not mean the existing system is perfect; there is still room for further improvement. One aspect worth attention is the extension of the MTR network. Taking the southern part of Hong Kong Island as an example, rail infrastructure is relatively sparse, as is the case in the New Territories. The MTR has strong connectivity vertically (north-south) but relatively weak horizontally (east-west). Imagine if you live in the eastern part of the New Territories and want to go to the western New Territories, you often need to detour through Kowloon and then head back north, lacking direct connections. Therefore, it is necessary to further extend existing transportation infrastructure to strengthen connectivity in suburbs and in the east-west direction.</p>
+
+        <p>In addition, intermodal transportation integration needs to be strengthened. For example, connections among MTR, minibuses, franchised buses, and other transportation modes still have room for improvement.</p>
+
+        <p>Although Hong Kong's private car ownership rate in absolute terms is very low, its growth rate is twice the household growth rate, which poses a risk in terms of trends. From a carbon neutrality perspective, the Hong Kong government could consider promoting electric vehicles to replace fuel vehicles and strengthening intermodal transportation integration. To this end, the government should plan the layout of charging infrastructure to ensure reasonable distribution throughout Hong Kong.</p>
+
+        <p>At the "software" level, work arrangements are still too rigid. General working hours are from 9 AM to 5 or 6 PM. I came to the office at 7 this morning just to avoid traffic congestion. If flexible working hours could be introduced, it would help reduce peak hour traffic congestion. For example, simply adjusting cross-harbor tunnel tolls can significantly improve traffic flow.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Based on your observations, what are the future trends in this field?</h3>
+
+        <p>This is a very difficult question, but it can be explored from three key perspectives.</p>
+
+        <p>First is the technical aspect. Hong Kong has been implementing the Smart City Blueprint for several years. In the past, many urban problems we faced were often handled in the same way—for example, when roads are congested, we build more roads. But this also raises another question: do we really have enough land? Moreover, new roads often further encourage private car use, actually exacerbating congestion problems.</p>
+
+        <p>The concept of smart cities is important because it focuses on how to use existing infrastructure more effectively. We already have real-time big data sources, as well as technologies such as urban analytics, artificial intelligence, and machine learning that can be applied. I believe these types of smart city strategies will become future trends, and in fact this wave has already formed. This is a promising field, and future urban planners must be familiar with these new data sources and skills, such as urban analytics, urban management, and smart city technologies.</p>
+
+        <p>The second perspective is the importance of regional cooperation. If you want to work in urban planning in Hong Kong, you will find that Hong Kong's market size is limited, which restricts many solutions that could solve urban problems at lower cost. Therefore, regional cooperation is crucial. We cannot only look at Hong Kong itself, but must also pay attention to the entire Greater Bay Area. Many environmental challenges may be solved more efficiently at the regional level. This also applies to South Korea, for example, Seoul's problems often need to be solved through cooperation with Gyeonggi Province; Seoul alone cannot cope. We must think about how to solve problems through collaboration with surrounding areas.</p>
+
+        <p>The third perspective is responding to "megatrends" such as climate change and population aging. These phenomena are already happening, and I believe future urban development strategies must incorporate responses to these trends. Planners should pay attention to these long-term trends and think about how to incorporate them into planning strategies to make solutions more feasible and realistic.</p>
+
+        <p>In summary, the three key points are: first, smart cities; second, regional planning and cooperation to solve city-level problems; third, responding to megatrends such as climate change and population aging.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Q8: Do you have any concrete advice or words of encouragement for young people interested in entering this field or who would like to know more about sustainability?</h3>
+
+        <p>I have three pieces of advice for students in the urban studies field.</p>
+
+        <p>First, love for cities is very important. The reason you can observe various urban problems in Hong Kong is because you live in this city, interact with it for a long time, and naturally develop the willingness to improve it. You spend a lot of time in the city, you love this city, so you have many ideas to change it. So, can you propose solutions to problems in other unfamiliar, distant cities? Probably not, and you may not even know what problems those cities face. The basic assumption of the urban studies field is that you have passion and are willing to use knowledge to solve problems. Therefore, you must first cultivate interest and passion for cities. The more you love a city, the more motivated you are to solve its problems. In my view, this is the most important element for becoming an urban studies expert. Observing cities with passion is the first step into this field.</p>
+
+        <p>Second, I want to emphasize the importance of interdisciplinarity. Taking Hong Kong's housing problem as an example, you cannot think only from an architectural perspective. You must understand the housing market, economics, land use regulations, building and planning laws, past policies and developments, public sector decision-making mechanisms, resources and constraints, etc. Basically, most of the urban problems we face are very complex. If you only master knowledge from a single discipline, you cannot even truly understand the nature of the problem you want to improve. This does not mean you should have shallow knowledge of many disciplines, but rather as an urban studies student, you need to build in-depth knowledge in this field while having basic understanding of other fields such as economics, civil engineering, geography, etc. Interdisciplinary capability is crucial.</p>
+
+        <p>The last piece of advice is to maintain an open mind and engage in mutual learning. One characteristic of our field is that "one size fits all" solutions often do not work. Traffic congestion is a common problem in many cities worldwide, but the same solution may work very well in some cities but not in others. Taking Seoul as an example, even when facing the same problems as Hong Kong, its solutions may not be applicable to Hong Kong. You must consider each city's specific regulations and institutional constraints. Learning from others' experiences is very important. Urban studies differs from hard science fields like physics and chemistry; there is no single solution that can be replicated in all situations. We belong to the soft science field and must acknowledge that the same policy may not work in different cities. Mutual learning is crucial. Hong Kong performs excellently in many areas, but this does not mean Hong Kong leads in all areas. There are always some cities in the world that do better than Hong Kong in certain aspects. We must always be ready to learn from others' experiences and localize them. In this regard, I strongly encourage everyone to travel more. International experience is very helpful and allows you to view Hong Kong's situation more objectively and realistically. Insights from other countries often cannot be learned from textbooks. Communicate with people from different backgrounds, maintain an open mind, and engage in mutual learning.</p>
+
+    </div>
+
+
+    <img src="../img/blogs/DrNAM.jpg" alt="合影" width="100%" height="auto" />
