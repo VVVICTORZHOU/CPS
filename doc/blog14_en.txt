@@ -1,0 +1,149 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+From Campus to Net-Zero: How a New Generation of Youth Are Shaping Sustainability
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+Pei-Ying Yu , a master’s student in the Department of Environmental and Cultural Resources at National Tsing Hua University, previously studied in the Interdisciplinary Program of Education, where she chose Sustainability Education as her first major and Quantitative Finance as her secondary. During her undergraduate years, she actively participated in sustainability-related internships, integrating practical experience with academic learning, and gained the IPAS Net-Zero Manager certification.
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2025/10/15
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post14_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#永續發展#ESG#氣候變遷#青年氣候行動#從校園到創業#氣候韌性
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#SustainableDevelopment#ESG#ClimateChange#YouthClimateAction#FromCampusToStartup#ClimateResilience
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+interviewer Xiang-Yu Wang/ Text by Bing-Zhen Lee 
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+4,8,9,11,13,17
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC)
+<範例> NTUCA
+NYCU-ESGSPC
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <p>With the global movement toward net-zero emissions gaining momentum, businesses in various sectors are actively creating sustainability divisions and seeking new employees. This transition has presented fresh possibilities for young individuals, including a greater number of programs, specialized academic paths, and career prospects centered on sustainability.</p>
+
+        <p>One of these rising talents is <strong>Pei-Ying Yu</strong>, currently pursuing a master’s degree in the Department of Environmental and Cultural Resources at National Tsing Hua University (NTHU), where she also completed her undergraduate studies in The Interdisciplinary Program of Education. She majored in Sustainable Development Education and pursued a second specialization in Quantitative Finance.</p>
+
+        <div class="collapsible-container">
+            <div class="collapsible-header">
+                <div class="collapsible-title">Note</div>
+                <div class="collapsible-icon"></div>
+            </div>
+            <div class="collapsible-content">
+                <p>Each Interdisciplinary Program at National Tsing Hua University offers dual majors. The first major of the Bachelor's Program at the College of Education is Sustainable Development Education, while the second major can be freely chosen by students across all departments.</p>
+        
+            </div>            
+        </div>
+
+        <p>During her undergraduate years, Pei-Ying wasted no time stepping into real-world sustainability work. From designing carbon accounting interfaces at a design firm, to working as an intern at United Daily News’s Sustainability Studio, to supporting ESG initiatives at Taiwan’s Industrial Technology Research Institute, her student years were anything but ordinary.</p>
+
+        <p>However, internships and coursework weren’t enough to satisfy her curiosity. On top of her studies, she completed the ISO 14064-1:2018 Lead Verifier Training provided by the Taiwan Carbon Solution Exchange (TCX) and BSI, and even gained the IPAS Net-Zero Manager certification. These credentials not only strengthened her professional knowledge, but also built a strong foundation for a career in green industries. She also spent time abroad, broadening her perspective on global sustainability practices while reflecting on what lessons Taiwan might take home. Now, Pei-Ying interns at DuPont, where she contributes to sustainability award applications and conducts resource inventories—identifying gaps, proposing improvements, and offering fresh insights into corporate ESG strategies.</p>
+
+        <p><blockquote>“Interdisciplinary practice, unrestricted. Creating diverse impacts.”</blockquote></p>
+
+        <p>This is how Pei-Ying sums up her journey. Thanks to her dual major in university, her work isn't limited to sustainability or finance. In the field of sustainable development, the diverse curriculum has enabled her to explore areas such as carbon inventory,  environment policy and energy management.</p>
+
+    </div>
+    <div class="post-section">
+        <h3>Finding Her Path: From Finance to Sustainability</h3>
+
+        <p>Upon entering NTHU, Pei-Ying initially envisioned a career in business, perhaps economics or finance. Sustainability was not her initial focus. However, after studying both fields, she discovered where her true passion resided. She also highlighted that the genuine challenge of sustainability lies in integration, which involves combining various disciplines, policies, and perspectives to develop practical solutions.</p>
+
+        <p><blockquote>“After taking finance, I realized that sustainability just clicked with me more. I found myself able to express opinions and ideas on social responsibility, environmental actions, and community impact in ways I couldn’t with finance. It felt more natural, more engaging.”</blockquote></p>
+
+        <p><blockquote>"The integration of sustainable development is about how to master two things and integrate them simultaneously. It's not easy."</blockquote></p>
+
+        <p>Her turning point came in junior year, when she chose net-zero policies as the focus of her senior project. Through research, case studies, and mentorship, she developed her first in-depth understanding of climate policy. </p>
+
+        <p><blockquote>"I think that in the process of searching for information, you'll gradually understand the current priorities within the overall policy or industry. From there, you can delve deeper into research. From the many case studies my professors shared in class, I ultimately decided to choose TCC Group Holdings Co., Ltd as my research topic. It was probably from that time that I began to gain a deeper understanding of the sustainable industry and climate action."</blockquote></p>
+    
+        <p>She eventually focused on TCC Group Holdings Co., Ltd., intrigued by how a traditionally polluting industry could transition successfully while maintaining community trust. This experience planted the seeds of her passion for ESG integration in traditional industries.</p>
+    
+    </div>
+
+    <div class="post-section">
+        <h3>Beyond the Classroom: Projects and Certifications</h3>
+
+        <p>Pei-Ying’s learning extended far beyond lectures. At Dashan Elementary School in Miaoli, she helped the school apply for Taiwan’s Sustainability Education Award, supporting programs like food and farming education and co-developing sustainability-themed materials with students.</p>
+
+        <p><blockquote>“Resources were so limited compared to urban schools, yet they managed to do so much—linking children, teachers, and the community in meaningful projects. That left a deep impression on me.”</blockquote></p>
+        
+        <p>Her curiosity also motivated her to pursue the IPAS Net-Zero Manager certification. Inspired by her research, she then enrolled in carbon accounting courses. Following this, she tested herself by taking the certification examination. She was able to prepare quickly, drawing on her previous knowledge from university classes and internships.</p>
+
+        <p>"If I study diligently, I can finish the public textbooks in about a week. But mainly because I already have a little knowledge accumulated before, when I look at the material, I feel like I know what I've heard in the classes or in the speeches. I think this is mainly the reason why I spend less time preparing."</p>
+
+        <p>Furthermore, it is recommended that individuals seeking sustainability-related certifications allocate time to foundational studies. The examination encompasses both historical and practical dimensions, necessitating a comprehensive understanding of international policy and historical context for the fundamental questions. A significant number of candidates encounter challenges in obtaining certification due to insufficient background knowledge. While the examination's scope is broad and intricate, the difficulty level is not considered excessive. The practical components primarily draw upon publicly available textbooks, and there are indications that the difficulty has been incrementally adjusted.</p>
+
+        <p>"If you don't have these concepts, it might take three months—a more relaxed three months or an intensive one month. For time planning, you might want to plan a little over half a month for the first section. For the second section, if you grasp the overall logic, I don't think the questions related to product lifecycles and carbon footprints are too difficult and should be relatively easy to handle."</p>
+
+        <p>Preparing for the certification also helps her in enhancing the future practical application of sustainable knowledge. Considering current trends, the concepts of carbon inventory and carbon pricing are gaining increasing recognition. However, the extent of applying the fundamental theory appears somewhat restricted. Pei-ying also mentioned that during her exam preparation, the area she found most insightful and applicable was likely the product life cycle.</p>
+
+        <p><blockquote>In addition, she participated in an exchange program at Peking University, where she studied water resource scarcity and policy, investigating the current state of water resource allocation in China, thereby enriching her academic background. These experiences, including certifications, exchanges, and internships, proved to be significant advantages when she sought employment in corporate settings.</blockquote></p>
+    
+        <p>“I think certifications are a big plus. As I just mentioned, with so many courses available now, and so many people entering the field of sustainability, it's hard to prove to your supervisor or interviewer that you're proficient in something or truly understand the field. Certifications, to some extent, serve as a benchmark. If you've passed the exam, I know you have at least some knowledge. You must have some kind of background to have passed.”</p>
+    
+        <p>"I think managers and companies really want students to see more and gain more insights. My manager, for example, told us that he hopes interns can use their fresh eyes to see what they can bring to the company. They also want to hear what unique things we can offer, what we've seen outside of the company that we can bring to the workplace. So, I think qualifications and study abroad experience are both significant advantages."</p>
+
+
+    </div>
+
+    <div class="post-section">
+        <h3>Looking Ahead: Building a Career in Sustainability</h3>
+
+        <p>Pei-Ying hopes to bridge policy and corporate practice in her career—shaping ESG strategies, carbon neutrality roadmaps, and sustainability reporting. She sees her interdisciplinary foundation, certifications, and international experiences as essential tools in this mission.</p>
+
+        <p><blockquote>"You can do everything, you can try everything, and in each experiment you can incorporate your previous experience and apply it to your data."</blockquote></p>
+
+        <p>She imagines herself thriving in private enterprises or multinational firms, where the pace is fast and opportunities for growth are boundless.</p>
+
+        <p>She thinks that sustainability will soon become somewhat of an "internal" concept; those active in the sustainability field may not prioritize sustainability, but rather consider it a valuable asset in their professional endeavors. She believes that in the future, perhaps everyone will learn about sustainability through technological advancement and the explosion of information, making it accessible. Net zero may also become a hard market indicator: adapt or be left behind.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Advice for the Next Generation</h3>
+        
+        <p><blockquote>"I think you shouldn't be afraid. If you have a different background or are not majoring in this field, don't be afraid to do it just because you think many people are doing it."</blockquote></p>
+
+        <p>Her message to students is clear: don’t be afraid. Even if your background is different, don’t hesitate to enter the sustainability field. The more people there are, the more knowledge and resources you can draw upon—and the easier it becomes for newcomers to get started.</p>
+
+        <p>Studying is important, but it shouldn't be the only option. Projects, internships, and certifications all provide unique perspectives and valuable experience.</p>
+
+        <p><blockquote>“Because you never know what new knowledge you’ll gain from a project or internship, or how you’ll gain a different perspective on things and reality.”</blockquote></p>
+
+        <p>For Pei-ying, certifications serve as a form of self-assessment, but she believes trying to apply them in the real-world is more important.</p>
+
+        <p><blockquote>"Many people assume they totally understand because they've passed a certification exam. However, I believe that passing a certification is a test, but how you apply it is another one. Therefore, in my point of view, after passing a certification, you should seek out more ways and chances to apply for it."</blockquote></p>
+
+        <p>Stay curious. Stay persistent. You never know what project or internship will spark new knowledge or a fresh perspective. For me, each step—whether confusing or exciting—has built toward where I am today. And I hope others will join me on this journey, becoming their own shining light in the constellation of sustainability.</p>
+    </div>
