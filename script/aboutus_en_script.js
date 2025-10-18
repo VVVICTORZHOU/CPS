@@ -167,13 +167,15 @@ document.addEventListener('DOMContentLoaded', function() {
     const tabButtons = [
         document.getElementById('tab-button-1'),
         document.getElementById('tab-button-2'),
-        document.getElementById('tab-button-3')
+        document.getElementById('tab-button-3'),
+        document.getElementById('tab-button-4')
     ];
     
     const tabContents = [
         document.getElementById('tabs-content-container-1'),
         document.getElementById('tabs-content-container-2'),
-        document.getElementById('tabs-content-container-3')
+        document.getElementById('tabs-content-container-3'),
+        document.getElementById('tabs-content-container-4')
     ];
     
     // 為所有內容添加初始類

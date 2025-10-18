@@ -980,6 +980,8 @@ body {
 @media (max-width: 768px) {
     .tabs-container .tabs-button-container {
         gap: 10px;
+        /* 考慮到按鈕較多時換行 */
+        flex-wrap: wrap;
     }
     .tabs-container .tabs-button-container .deactivate-tab-button {
         font-size: 12px;
