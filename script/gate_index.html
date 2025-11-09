@@ -402,8 +402,15 @@ body {
     </div>
     -->
     <div class="top-btn-container">
-        <a href="top_zh_index.html" class="lang-btn">繁體中文</a>
-        <a href="top_en_index.html" class="lang-btn">ENGLISH</a>
+        <a href="top_zh_index.html" class="lang-btn"
+            onclick="gtag('event', 'click', { 'event_category': 'Language', 'event_label': 'Traditional Chinese' });">
+            繁體中文
+        </a>
+
+        <a href="top_en_index.html" class="lang-btn"
+            onclick="gtag('event', 'click', { 'event_category': 'Language', 'event_label': 'English' });">
+            ENGLISH
+        </a>
     </div>
     
     <!-- Developer Mode Icon -->
