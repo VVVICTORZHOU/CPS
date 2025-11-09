@@ -10,5 +10,8 @@
     window.gtag = gtag; // 對外暴露
     gtag('js', new Date());
     gtag('config', 'G-M2NJ10LNRZ');
+    gtag('event', 'view_post', {
+        'post_file_name': new URLSearchParams(window.location.search).get('post_file_name')
+      });
   })();
   
