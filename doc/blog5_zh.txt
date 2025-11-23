@@ -110,4 +110,6 @@ NTUCA
   </div>
   <img src="../img/blogs/%E6%A5%8A%E7%9D%BF%E4%B8%AD%E6%95%99%E6%8E%88.JPG" alt="合影" width="100%" height="auto" />
 
-
+  <div class="extra-link-button-container">
+      <a href="https://sites.google.com/site/juichungyang/" class="extra-link-button" target="_blank">受訪者資訊</a>
+  </div>
