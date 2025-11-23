@@ -476,6 +476,67 @@ body {
     }
 }
 
+/* 頁面貼文區額外按鈕區 */
+.post-content-container .extra-link-button-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+
+.post-content-container .extra-link-button-container a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    width: 220px;
+    color: #333;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #fff;
+    border: #83CBEB 2px solid;
+    border-radius: 40px;
+}
+
+.post-content-container .extra-link-button-container .disabled-button {
+    pointer-events: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    width: 220px;
+    font-family: 'Montserrat SemiBold', 'HarmonyOS Sans TC Medium', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #f6f6f6;
+    border: #666 2px solid;
+    color: #666;
+    border-radius: 40px;
+    margin-right: 20px;
+}
+
+.post-content-container .extra-link-button-container a:hover {
+    background-color: #83CBEB;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.post-content-container .extra-link-button-container a::after {
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-top: 3px solid #333;
+    border-right: 3px solid #333;
+    transform: rotate(45deg);
+}
+
+.post-content-container .extra-link-button-container a:hover::after {
+    border-color: #fff;
+    transition: border-color 0.3s ease;
+}
+
+
 
 /* 頁尾聯繫按鈕區 */
 .exit-post-container {
