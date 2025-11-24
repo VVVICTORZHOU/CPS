@@ -138,3 +138,7 @@ NTUCA
 
     </div>
     <img src="../img/blogs/張寒瑋執行長.png" alt="合影" width="100%" height="auto" />
+
+    <div class="extra-link-button-container">
+        <a href="https://advisory.yda.gov.tw/committee-intro/186" class="extra-link-button" target="_blank">受訪者資訊</a>
+    </div>

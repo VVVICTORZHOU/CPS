@@ -117,3 +117,7 @@ NTUCA
     </div>
 
     <img src="../img/blogs/%E6%9E%97%E5%BF%83%E6%81%AC%E6%95%99%E6%8E%88.jpg" alt="合影" width="100%" height="auto" />
+
+    <div class="extra-link-button-container">
+        <a href="https://hsintienlin.com/" class="extra-link-button" target="_blank">Interviewee Info</a>
+    </div>
