@@ -114,3 +114,7 @@ NTUCA
     </div>
 
     <img src="../img/blogs/郭玉樹教授.png" alt="合影" width="100%" height="auto" />
+
+    <div class="extra-link-button-container">
+        <a href="https://web.hyd.ncku.edu.tw/?page_id=4299" class="extra-link-button" target="_blank">受訪者資訊</a>
+    </div>

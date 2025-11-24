@@ -125,3 +125,8 @@ NTUCA
     </div>
 
     <img src="../img/blogs/邱浩維.jpg" alt="合影" width="100%" height="auto" />
+
+
+    <div class="extra-link-button-container">
+        <a href="https://www.dwtglobal.com/tw/news/news/detail/%E9%82%B1%E6%B5%A9%E7%B6%AD%E5%8D%87%E4%BB%BB%E5%8F%B0%E7%81%A3%E7%B8%BD%E7%B6%93%E7%90%86%E9%A0%98%E5%B0%8E%E7%95%B6%E5%9C%B0%E4%BA%8B%E6%A5%AD%E5%86%8D%E5%89%B5%E4%BD%B3%E7%B8%BE/" class="extra-link-button" target="_blank">受訪者資訊</a>
+    </div>

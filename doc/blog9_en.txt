@@ -134,3 +134,7 @@ NTUCA
     </div>
 
     <img src="../img/blogs/邱浩維.jpg" alt="合影" width="100%" height="auto" />
+
+    <div class="extra-link-button-container">
+        <a href="https://www.deutsche-windtechnik.com/se/nyheter/nyheter/detail/hao-wei-chiu-promoted-to-country-manager-in-taiwan/" class="extra-link-button" target="_blank">Interviewee Info</a>
+    </div>

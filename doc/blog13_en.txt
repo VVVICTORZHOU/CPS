@@ -173,3 +173,8 @@ USSHKU
 
 
     <img src="../img/blogs/DrNAM.jpg" alt="合影" width="100%" height="auto" />
+
+
+    <div class="extra-link-button-container">
+        <a href="https://www.arch.hku.hk/staff/upad/nam-kyung-min/" class="extra-link-button" target="_blank">Interviewee Info</a>
+    </div>

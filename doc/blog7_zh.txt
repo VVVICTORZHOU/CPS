@@ -117,3 +117,7 @@ NTUCA
         <p>沒有框架、勇敢、能夠接受失敗都是年輕人的重要優勢。因此，我建議不要害怕失敗，因為這個階段的你們最適合嘗試和學習。每次失敗都是成長的養分。建議多聽取不同意見，勇於表達想法，這樣才能更快提升。對有興趣的學生，建議先關注相關永續社群（例如協會的FB、IG，參與培訓活動打開更多永續知能。記住，你的所學專業背景仍是基礎，重要的是如何將它與永續發展目標連結起來，揮灑屬於你的永續色彩與願景藍圖。</p>
 
     </div>
+
+    <div class="extra-link-button-container">
+        <a href="https://www.moenv.gov.tw/information-service/govinfo/6C5ACCF/gender-equality/AF9E230/9607.html" class="extra-link-button" target="_blank">受訪者資訊</a>
+    </div>
