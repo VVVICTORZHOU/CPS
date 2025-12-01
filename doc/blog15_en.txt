@@ -1,0 +1,177 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+Lily Huang’s experience as a sustainability consultant in the Netherlands
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+Just from an exchange experience in the Netherlands, she decided to study a Master’s program there, and ended up working in a small-sized local sustainability consulting firm. She shared why she chose the Netherlands, the culture shock she had, and what her work is all about. She even gives a high 9 out of 10 for the work-life balance she has right now.
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2025/12/01
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post15_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#永續顧問#交換#CSR#ESG#新創#顧問
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#SustainabilityConsulting#ExchangeStudent#CSR#ESG#Startup#Consulting
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+Text by Huei-Yu Yen, Hsiang-Chien Tseng, Hsin-Lu Yeh / Photo by Hsin-Lu Yeh
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+8,9,12
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC)
+<範例> NTUCA
+NTUCA
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>Part 1：Background Introduction</h3>
+
+        <p><strong>Could you please introduce yourself and your current work?</strong></p>
+        
+        <p>Lily Huang is from Hualien and graduated from the Department of Geography, National Taiwan University. She chose geography because she wanted to work in a sustainability-related field, but couldn’t find a university program in Taiwan that was explicitly centered on sustainability. Geography felt like the closest path toward that goal.</p>
+    
+        <p>At the same time, she had always wanted to go abroad and explore, so in her senior year she applied for an exchange program in the Netherlands and spent almost a full year there. That time opened her eyes: she saw many study programs and job opportunities related to sustainability, and it made her decide that she wanted to continue developing her career in the Netherlands.</p>
+
+        <p>After the exchange, she applied to a sustainability-focused master’s program in the Netherlands and enrolled in Global Business & Sustainability, a one-year master’s degree. She finished the program last summer, and after graduation she successfully stayed in the Netherlands and joined a small local sustainability consulting firm of about 15 people, working as a Junior Consultant – Sustainability Strategy and Reporting. Her work is closely tied to EU sustainability policies. The company offers a wide range of sustainability services, including:</p>
+
+        <ul>
+            <li><strong>CSR / <span class="keyword" data-tooltip="CSRD (Corporate Sustainability Reporting Directive, CSRD): A new legal framework officially implemented by the EU in January 2023. It requires companies to disclose their performance on ESG based on the European Sustainability Reporting Standards (ESRS), replacing the preceding Non-Financial Reporting Directive (NFRD).">CSRD</span> advisory</strong>:  helping companies comply with the latest EU sustainability reporting regulations, including how to disclose sustainability information and how to write their reports.</li>
+            <li><strong><span class="keyword" data-tooltip="SBTi (Science Based Targets initiative): A global partnership that helps companies set science-based emissions reduction targets aligned with the Paris Agreement, aiming to limit global warming to 1.5°C and achieve net-zero by 2050.">SBTi</span> and climate transition planning</strong>: supporting companies in setting science-based targets and developing decarbonization roadmaps.</li>
+            <li><strong>ESG strategy development</strong>: first conducting a materiality assessment to identify the company’s “material sustainability topics”, then helping integrate ESG into the overall business strategy.</li>
+            <li><strong>Human Rights Due Diligence (HRDD)</strong>: helping companies build processes and assessments related to human rights.</li>
+            </li>Other sustainability consulting services that cover both environmental and social aspects.</li>
+        </ul>
+
+        <p>She has been working at this firm for almost a year and has been involved in many different facets of corporate sustainability. She feels that her day-to-day work is very closely linked to sustainability in a concrete, practical way.</p>
+
+        <p><strong>If you had to choose three keywords to describe your work, what would they be and why?
+    </strong></p>
+
+        <ul>
+            <li>The first keyword she chose is <strong>“up-to-date”</strong>. She believes that being a sustainability consultant means constantly staying on top of changes in EU regulations. Since her company does a lot of work related to CSRD, she has to read large amounts of EU legal text, track the latest decisions and policy updates, and help clients adjust their reportings according to the newest requirements. The pace of the work is fast, and new information comes out all the time, so she has to keep learning and updating herself.</li>
+            <li>The second keyword is <strong>“echo-chambered”</strong> (in a good way). Her colleagues are all people who genuinely care about sustainability. She describes the company as a kind of “like-minded bubble,” where everyone is passionate about sustainability, shares similar values, and uses sustainability as a common language at work. For her, working in such an environment feels very comfortable and supportive.</li>
+            <li>The third keyword is <strong>“startup”</strong>. The firm only has a bit more than ten people and is based in a co-working space. This startup environment allows her to come into contact with many other small companies and diverse industries and to experience a flexible, relatively free work culture. She says that working in a co-working space is fun and fresh; she gets to meet new people and new teams all the time, which brings many spontaneous opportunities for interaction.</li>
+        </ul>
+
+
+    </div>
+
+    <div class="post-section">
+        <h3>Part 2: Career Path</h3>
+
+        <p><strong>Could you share your career journey from graduation to now?</strong></p>
+
+        <p>Lily says she became interested in the consulting industry during her master’s studies. One key reason was that she joined a student consulting organization called <a href="https://www.180dc.org/">180 Degrees Consulting</a>. In this club, students act as “student consultants” over the course of a semester to support a real client organization, helping them analyze problems and propose strategies.</p>
+        <p>Through this experience, she realized that consulting suited her in several ways. It allowed her to work with many different industries rather than just one single company. She could get to know various companies’ situations, challenges, and industry dynamics, be exposed to a wide variety of topics, and learn very quickly. It also gave her the chance to use something she enjoys and is good at: taking messy, complex information and turning it into clear, structured presentations and narratives.</p>
+        <p>She says she really likes “organizing things” and transforming chaotic content into a coherent, well-structured story. That kind of task fits her strengths and interests perfectly, and consulting as a way of working aligns very well with that.</p>
+        <p>Therefore, when she was about to graduate, she applied to many consulting-related positions, including roles in sustainability consulting, carbon market development, and carbon trading in voluntary markets. In the end, the job she has now was the one that gave her an offer, so she decided to seize the opportunity and started her career in the Netherlands as a sustainability consultant.</p>
+
+        <p><strong>How did your expectations of this field compare with reality?</strong></p>
+        <p>She admits there is a gap. As a junior consultant, she is one of the most junior people in the firm, so she does not have as many opportunities to interact directly with clients. Important strategic discussions and key meetings are often led by senior consultants or managers. Many times, she only hears about the outcome afterwards, when the project lead comes back and says, “We’ve aligned this direction with the client,” and then she takes over the execution and deliverables.</p>
+        <p>However, she actually really enjoys interacting with clients. In her view, she learns the most from those conversations: she gets to see how companies think about sustainability decisions and comes to understand how sustainability is actually implemented in different industries. Because of that, she feels that this part of the job is somewhat different from what she had pictured, and it has become one of the main reasons she hopes to gradually take on more client-facing responsibilities in the future.</p>
+
+        <p><strong>What has been your biggest challenge at work and how did you overcome it?</strong></p>
+
+        <p>She feels there are two main types of challenges.</p>
+
+        <ul>
+            <li>The first challenge is related to her junior position and the resulting communication gap. Since she does not always participate in the actual meetings with clients, she is often responsible for creating presentations and organizing materials after other colleagues have discussed things with the client. When she submits her draft slides for review, she often receives a lot of comments and changes. But she doesn’t always know why those changes are being requested or what exactly the client is thinking, because all the communication happens indirectly, “on paper,” rather than in the room. She says that if she could join more of the live discussions or in-person meetings, she would be able to better understand the logic behind the feedback and adjust more precisely. Over time, though, she has learned to manage her expectations: she now knows that the first version of a slide deck is almost never the final one, and that revisions are inevitable. That realization has helped her adjust her mindset and handle feedback more calmly.</li>
+
+            <li>The second challenge is more personal: thinking about her own impact and long-term career direction. She often asks herself, “Is what I’m doing now truly impactful?”, “Is there more that I could or should be doing?”, and “Should I stay in consulting, or eventually move <span class="keyword" data-tooltip="External sustainability consulting services usually get in touch with a wider range of cases in different industries, while in-house sustainability positions focus on  sustainability policies for the company you are in. The former usually involves more in the planning of strategies upfront, but the latter is also responsible for the implementation down the line.">in-house</span> into a company to work on sustainability? Or maybe go into a financial institution?” She recognizes that these kinds of questions are very common in the early stages of a career, so she is not in a rush to find all the answers right away. She also shares a thought she uses to encourage younger students: “As long as you hold onto the intention of wanting to create a positive impact, that alone already means a lot.”</li>
+        </ul>
+
+        <p><strong>What advice would you give your 20-year-old self?</strong></p>
+        
+        <p><blockquote>The main thing she would say is: <strong>“You’re doing great. You can be more confident.”</strong></blockquote></p>
+        <p>She feels that her 20-year-old self was already doing very well—eager to explore, willing to try new things, and doing her best in whatever situation she was in. She wouldn’t give herself any negative or corrective advice. Instead, she would simply remind herself not to underestimate her own efforts and to be a little braver.</p>
+        <p>She mentions that the things she did back then, such as going on exchange, seeing more of the world, improving her English, meeting people from different countries, have all become very important sources of strength and insight for the person she is today.</p>
+
+        <p><strong>Why did you choose the Netherlands? And what cultural differences have you noticed between Taiwan and the Netherlands?</strong></p>
+        <p>She chose the Netherlands for several reasons. It is known for valuing sustainability and progressive environmental policies. English proficiency is very high, and society is generally very friendly to foreigners, which makes it much easier to adapt and work there in English. Many international companies also have their headquarters in the Netherlands, such as Heineken, Herman Miller, and Philips, which means there are more opportunities for international and sustainability-related roles. For all these reasons, she sees the Netherlands as a very suitable environment for developing a sustainability career.</p>
+
+        <p>She also shares some everyday cultural observations. In the Netherlands, people value personal space a lot, and there is a strong emphasis on <a>work-life balance</a>. People are very sporty: they keep playing football or riding their bikes even in wind and rain. Another big difference is how they schedule their time. People like to plan things far in advance. It’s completely normal to schedule a simple dinner two months ahead, and lives are often organized strictly according to calendars. For her, these differences from Taiwan can be quite striking, but also very interesting to experience.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Part 3: Daily Life & Work</h3>
+
+        <p><strong>What does a typical workday look like for you?</strong></p>
+
+        <p>Lily says that what her day looks like really depends on what’s happening that day. Mondays tend to be more formal and structured than other days. Her company always has a weekly team meeting on Monday, where each person reports on what they’ll be working on that week, the projects they’re involved in, and any upcoming deadlines. If she realizes during the meeting that her workload is too heavy, she can raise it openly, and the team will try to rebalance tasks so that everyone can still finish their work within roughly 40 hours a week and no one is under excessive pressure.</p>
+        <p>Besides the full-team weekly meeting, there are also project syncs or smaller group discussions on Mondays to make sure each project is on track and everyone knows their next steps. Sometimes there are also client meetings on that day, to align expectations and update clients on progress so that both sides stay on the same page. After getting through these meetings, she spends the rest of her time in the office focusing on project work, such as analyses, drafting reports, and working on slide decks.</p>
+        <p>She admits that this atmosphere feels a bit too focused for her sometimes. In previous roles, when she interned or worked as a working student at other companies, the vibe was more relaxed; people would take walks together or chat more during breaks. But she also acknowledges that being a full-time employee carries different responsibilities and a different pace.</p>
+        <p>She currently has two work-from-home days each week, which gives her some extra flexibility in how she structures her time and energy.</p>
+
+        <p><strong>On a scale of 1 to 10, how would you rate your work-life balance?</strong></p>
+    
+        <p>She gives her work–life balance a 9 out of 10. Her company culture cares a lot about leaving work on time, and her managers do not put unreasonable pressure on employees. Having normal, predictable working hours is considered standard. On the rare occasions when she does stay late, it’s usually because she personally wants to finish something that day, not because the company demands it. After work, she often still has plenty of time to exercise, see friends, or go to events.</p>
+        <p>The one point she subtracts is because she sometimes feels she can’t casually chat with colleagues during working hours. Everyone is very focused, and that can make the atmosphere feel a bit stiff at times.</p>
+
+        <p><strong>Who are your most frequent collaborators, and what stands out about working with them?</strong></p>
+    
+        <p>In terms of day-to-day collaboration, she works most closely with her colleagues. Every project is handled by a team, which can include seniors, juniors, and colleagues from different focus areas. On the client side, she often interacts with people like financial controllers, branding teams, or marketing teams, and occasionally she also has contact with CFOs (Chief Financial Officers) or members of the leadership team.</p>
+        <p>She finds these interactions very interesting because each company’s culture is quite different. Some companies care deeply about details and hold very formal, serious meetings. Others are more relaxed, with people joking around and interacting in a more casual way.</p>
+        <p>For many projects, her team will run a series of workshops with the client. She is particularly impressed by how much clients can grow over the course of a project: many of them start out with little understanding of sustainability during the first workshop but, by the last one, can clearly explain key sustainability concepts and even propose concrete ideas. Seeing that progress in knowledge and capability feels very rewarding to her and is one of the parts of the job she finds most meaningful.</p>
+        <p>She has also noticed that in companies that work mostly remotely, colleagues tend to be less familiar with each other. There are fewer spontaneous jokes or informal conversations, but cooperation still remains professional and stable.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Part 4: Advice for the Next Generation</h3>
+
+        <p><strong>What trends do you foresee in this field?</strong></p>
+        
+        <p>In Lily’s view, the future of sustainability consulting has actually become more uncertain than before, and in some ways a bit rigid. Taking EU regulations as an example, CSRD was initially pushed very strongly, but in recent years, as European politics have shifted to the right, policies have been affected. Climate progress has been delayed, and corporate sustainability requirements have been somewhat relaxed. As a result, the demand for consultants purely to handle sustainability reporting has decreased.</p>
+
+        <p>Given that regulations are no longer as strict, she thinks the challenge for consultants is no longer just helping companies comply, but convincing them that sustainability itself is essential for long-term value. She believes that consultants will increasingly need to help companies understand that climate targets, ESG strategies, different ratings, and certifications are not just boxes to tick for compliance; they are deeply tied to long-term competitiveness and positioning in the global market.</p>
+
+        <p>She feels that the world has already been too slow in addressing sustainability, and now policies are even being rolled back. But precisely because of this, consultants need to be even more capable of leading companies forward, helping them choose to act proactively, rather than only following policy changes passively.</p>
+
+        <p><strong>What qualities or skills are needed for this career path?</strong></p>
+
+        <p>She believes that the most important abilities for a sustainability consultant are not only technical knowledge but especially qualitative skills. The first task of a consultant is to understand what the client’s real problems are within a complex situation: what they care about, what bottlenecks they face, and what logic currently drives their decisions. To figure that out, you need to ask good questions, have conversations, and observe carefully; you can’t just rely on textbooks or legal documents.</p>
+
+        <p>Another crucial ability is storytelling. A consultant’s job isn’t to dump data on the client, but to organize complex information into a coherent story, then communicate that story clearly through presentations and discussions so that the client understands why certain actions are recommended. How you express yourself, how you structure a slide deck, how you design your communication strategy, and how you facilitate meetings, all of these are key parts of the work.</p>
+
+        <p>She also points out that the use of AI is becoming more and more important. Consultants increasingly rely on AI tools when writing analyses, organizing information, or designing processes. Being able to use AI effectively has become a profession in its own right, and many firms are starting to create internal AI policies to ensure that tools are used ethically and in line with client expectations.</p>
+
+        <p>For her, someone who is well-suited to sustainability consulting is not just someone who cares about sustainability, but someone who can integrate information, is good at asking questions, can have meaningful conversations with clients, and can distill everything into clear insights. These capabilities, she says, are ultimately more important than knowledge alone.</p>
+
+        <p><strong>What’s your final advice for young people interested in this field?</strong></p>
+
+        <p>She suggests that students should take part in as many industry-linked projects as they can while in school. Universities and companies operate very differently, and the reports, assignments, or research projects done in school are quite different from the deliverables that companies expect. Any experience that exposes students to real-world business problems can help them understand industry needs much more quickly.</p>
+
+        <p>She shares that her internships and working student roles in the Netherlands were extremely helpful. Those experiences showed her how Dutch companies actually operate and helped her build her soft skills, such as teamwork, professional communication, and cross-cultural collaboration, all of which have directly benefited her in her current job.</p>
+
+        <p>She also encourages students to join courses that involve collaboration with companies and to work on real projects. Through doing so, they can figure out whether they’re suited to consulting and which area of sustainability they’re most interested in. She believes that through continuous experimentation and exploration, people can gradually gain a clearer sense of their future career direction.</p>
+    </div>
+
+
+
