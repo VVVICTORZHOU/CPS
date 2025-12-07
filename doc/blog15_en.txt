@@ -173,5 +173,7 @@ NTUCA
         <p>She also encourages students to join courses that involve collaboration with companies and to work on real projects. Through doing so, they can figure out whether they’re suited to consulting and which area of sustainability they’re most interested in. She believes that through continuous experimentation and exploration, people can gradually gain a clearer sense of their future career direction.</p>
     </div>
 
-
+    <div class="extra-link-button-container">
+        <a href="https://www.linkedin.com/in/siao-han-huang/" class="extra-link-button" target="_blank">Interviewee Info</a>
+    </div>
 

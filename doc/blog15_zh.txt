@@ -175,3 +175,7 @@ NTUCA
 
         <p>她也鼓勵學生多參與具有產業合作的課程，透過實際做進行專案來理解自己適不適合走顧問路線，或在永續領域中的哪個方向最有興趣。她相信透過一次次的嘗試與探索，會更清楚自己未來的職涯定位。</p>
     </div>
+
+    <div class="extra-link-button-container">
+        <a href="https://www.linkedin.com/in/siao-han-huang/" class="extra-link-button" target="_blank">受訪者資訊</a>
+    </div>
