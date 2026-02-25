@@ -116,7 +116,7 @@ USSHKU
 
         <p><strong>Some of your representatives went to the COP30 in Brazil. What insights did you gain through the meeting?</strong></p>
         <p>One important insight our youth representatives discovered is that the progress of carbon reduction is far from satisfactory. 10 years have passed since the signing of the Paris Agreement, and we have already entered a critical point. It is disappointing to see that some countries are not willing to phrase out fossil fuels.</p>
-        <p>Despite the disappointment, there is still some hope. For instance, the Just Transition Work Programme (JTWP) in recent years helped to promote justice in face of climate change. It yielded better results than expected.</p>
+        <p>Despite the disappointment, there is still some hope. For instance, the <span class="keyword" data-tooltip="JTWP Aims to ensure that climate action is fair, inclusive, and socially responsible. Its main objectives are to: Protect workers and communities affected by the shift away from fossil fuels; Promote green job creation and reskilling; Encourage social dialogue among governments, businesses, and labor groups; Address equity and development needs of developing countries; Integrate just transition principles into national climate plans (e.g., NDCs). In the lead-up to COP30, discussions focus on turning the concept of “just transition” into practical policy guidance and implementation mechanisms.">Just Transition Work Programme (JTWP)</span> in recent years helped to promote justice in face of climate change. It yielded better results than expected.</p>
 
     </div>
 
@@ -151,3 +151,5 @@ USSHKU
     <div class="extra-link-button-container">
         <a href="https://hk.linkedin.com/in/ivy-leung-2b72b812a" class="extra-link-button" target="_blank">Interviewee Info</a>
     </div>
+
+
