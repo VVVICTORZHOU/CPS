@@ -1,0 +1,153 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+Climate Justice and Solar Transition: Cross-Sector Action by CarbonCare InnoLab
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+From Youth Empowerment to Urban Resilience: Advancing Sustainable Development in Hong Kong through the SolarCare Programme
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2026/02/25
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post16_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#氣候公義#再生能源#太陽能#青年賦權#跨界合作#能源安全#香港
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#ClimateJustice#RenewableEnergy#SolarEnergy#YouthEmpowerment#CrossSectorCollaboration#EnergySecurity#HongKong
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+文：顏卉瑀、曾向謙、葉欣綠／圖：葉欣綠
+Lam Yatt & Lum Kwan Him
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+7,10,11,12,13,17
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC)
+<範例> NTUCA
+USSHKU
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>General Questions</h3>
+
+        <p><strong>Please briefly explain about the CarbonCare InnoLab and your role in the organization.</strong></p>
+        
+        <p>CarbonCare InnoLab was founded in 2014, with <a>emphasis on climate justice</a>.</p>
+        <p>Vulnerable groups usually have the lowest carbon emissions, yet they suffer most of the impacts caused by climate change. They usually lack the resources to adapt to climate change, and CarbonCare InnoLab would <a>promote the concept of climate justice by reducing the impacts of climate change on these vulnerable groups</a>.</p>
+        <p>Climate injustice exists at local and international levels. Locally, people who work outdoors, including cleaners, usually have low carbon emissions, yet they are impacted greatly by a hotter climate. They have no choice but to work in extreme temperatures. Simultaneously, people living in subdivided flats usually have substandard living conditions, like poor ventilation. In light of this, CarbonCare InnoLab would partner with other NGOs to assist people living in these substandard housing in adapting to the extreme hot weather. In the past, we have assisted residents in subdivided units in Kwai Chung.</p>
+        <p>Internationally, some Pacific Islands like Tuvalu exemplify the concept of climate justice. While they have low carbon emission levels, they are the countries that suffer the greatest impact caused by climate change. There is therefore a need to protect these small countries from being affected by climate change.</p>
+        <p>Apart from climate justice, we also <a>focus on renewable energy</a>. We aim to promote concepts like renewable energy and carbon neutrality. This is mainly done by promoting the installation of solar panels across Hong Kong.</p>
+        <p>Besides, another major part of our work is climate advocacy and education for youth. As we believe that youth aged 18 to 30 years play an important role in this field, we also have climate advocacy projects like climate negotiation that target youth in Hong Kong. It is believed that through this advocacy, we could strive for policy change.</p>
+        <p>Our organization has a rather flat structure. I would therefore see my relationship with my co-workers as peers. And as an Executive Director of CarbonCare InnoLab, I handle numerous duties, including communication and liaison with programme funders.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>About CarbonCare InnoLab and SolarCare</h3>
+
+        <p><strong>Can you briefly describe the main goals and impact of the SolarCare Programme on Hong Kong’s renewable energy landscape?</strong></p>
+
+        <p>The major aim of the SolarCare Programme is to promote the use of renewable energy in Hong Kong. In Hong Kong, the use of renewable energy is usually not widely discussed due to numerous reasons. Firstly, the scarcity of land reduces the development opportunity of renewable energy. Besides, the electricity supply in Hong Kong is rather stable. With only 2 fixed electricity suppliers, Hong Kong Electric Company and CLP Power Hong Kong, Hong Kong people usually do not think of electricity supply, let alone the development of renewable energy.</p>
+        <p>We believe that as long as there is some space in an urban area, like a rooftop or certain open areas, we could already explore the potential of renewable energy. This is also what we would like to investigate. Because of the feed-in tariff scheme, we could conduct climate education and use the resources to reflect on how to improve our energy efficiency. Notably, this was done in cooperation with more than 30 NGO partners.</p>
+        <p>Furthermore, the SolarCare Programme also includes capacity building. For instance, with guided tours towards different groups of people, more people are able to understand the progress and blueprint.</p>
+
+
+        <p><strong>What have been the most significant achievements or milestones of SolarCare in the past few years?</strong></p>
+        <p>In these few years, we are able to collaborate with the Hong Kong Jockey Club, as well as Hang Seng Bank to carry out the <a>Hang Seng Low Carbon Future: SolarCare Programme</a>. In particular, Hang Seng Bank supports the advocacy of a low carbon campus that includes installation of solar panels in various schools.</p>
+        <p>The scheme does not end after the installation. In these schools, students are able to act as Solar Panel Ambassadors. Schools could also incorporate the concept of renewable energy into the teaching curriculum. There were improvements not just in the hardware, but in education too.</p>
+
+        <p><strong>How can the usage of renewable energies and addressing climate change can lessen social inequality?</strong></p>
+        <p>Currently, the cost of energy in Hong Kong is relatively affordable to most people, but this is not the case for the residents of subdivided units. As I mentioned earlier, in some subdivided flats, the absence of windows makes it almost inevitable to open air-conditioners for ventilation during the summer. Worse still, overcharging by the property owners is common.</p>
+        <p>Hong Kong has a high reliance on imported energy, if there are wars or geopolitical issues, the cost of electricity would certainly increase significantly. If this really happens, low-income families would be the ones that would be impacted the most. <a>Renewable energies act as an energy security net or a kind of backup</a>. Even if the price of imported energy increases significantly, the local renewable energy sources could offset the high price of imported energy.</p>
+        <p>Although renewable energy requires a relatively high cost at the initial stage, its operational costs remain low. With a lifespan of 20 to 30 years or more, the long-term development of renewable energy helps distribute and balance the overall cost. This makes renewable energy a feasible option to increase energy security in the long term.</p>
+    
+        <p><strong>How are cross-sector collaborations – between business, NGOs, and government – essential for advancing SolarCare’s goals in Hong Kong?</strong></p>
+        <p><blockquote>To combat climate change, cross-sector collaborations are extremely crucial.</blockquote></p>
+        <p>While NGOs are familiar with social services, universities could focus on research and academic theories. The business sector, on the other hand, provides sufficient resources and funds to support the scheme. Lastly, for the government, they are important in setting out a framework for implementing different climate-related policies.</p>
+        <p>The role of citizens should not be overlooked as well. They should not have a passive role when it comes to sustainability. For instance, in a project in transitional housing in Kwai Chung, we brainstormed sustainability ideas with the residents. During the process, we found that the housing lacks recycling facilities, and the residents actually initiated recycling activities by themselves.</p>
+        <p>Therefore, meaningful outcomes cannot be realized by one sector alone. Effective progress requires collaboration among diverse stakeholders, each contributing unique functions and responsibilities.</p>
+
+        <p><strong>Is there any particular reason that you focused on solar energy?</strong></p>
+        <p>Currently, renewable energy only accounts for around 1% of the total energy usage in Hong Kong, with most of it being solar energy. While there are other possible renewable energy options like waste-to-energy or hydrogen power, it is believed that solar energy has the largest potential in Hong Kong. This could be attributed to 3 major reasons, <a>long sunshine hours, high flexibility and convenience</a>.</p>
+        <p>On one hand, Hong Kong has long sunshine hours and intense sunlight. Developing solar energy enables us to utilize this natural resource. On the other hand, its high flexibility makes it feasible to implement in Hong Kong. As long as there is sunshine, we could already adopt solar energy even when space is limited, including village houses. Meanwhile, for wind power, a large area is needed to construct the wind turbines. Thus, it is evident that high flexibility of solar energy is suitable for the dense urban environment in Hong Kong.</p>
+        <p>Lastly, the requirement is low and the installation process is easy. Maintenance of the solar panels is also relatively easy.</p>
+        <p>When we review how much solar energy was generated after installing the solar panels, some sites, surprisingly, generate more energy than we expected. This further highlights why solar energy would be the best fit as Hong Kong’s leading renewable resource.</p>
+    
+    
+        <p><strong>Other than the feed-in tariff scheme, what other strategies or policies should the government implement to encourage mitigation? Climate change advocacy often faces arguments and disagreements due to the conflicting interests, primarily on economic development. How should society balance the differing interests and needs that can ultimately generate sustainable urban development? And how does CarbonCare InnoLab balance these needs when engaging with different stakeholders?</strong></p>
+        <p>Regarding the concern about conflicting interests, we believe that all conflicts of interest are just short-term observations. Feed-in tariff and other sustainability projects could bring long-term economic benefits to Hong Kong society.</p>
+        <p>As for the concern about mitigation, it is evident that short-term goals and a clear roadmap are lacking. Using the feed-in tariff scheme as an example, the government plans to terminate the feed-in tariff scheme in 2033. Nevertheless, much work has to be done to further increase the usage of renewable energy in the business sector and the public. Instead of setting a fixed duration for the scheme, incentives could be implemented for a prolonged period.</p>
+        <p>On the other hand, the government could also consider incorporating mitigation measures more effectively into urban planning. The scope of mitigation is wide. Even if some pilot schemes were implemented by the government, like some schemes related to floating solar panels, there are usually no subsequent follow-up actions. To ensure the success of renewable energy projects beyond the pilot stage, the government could regard them as a vital component of urban planning. For instance, when planning and designing a green building, the government could set relevant policies or guidelines regarding material usage and even the orientation of the building.</p>
+        <p>The government could also lead by example to prioritize renewable options during procurement. We believe that all these actions could encourage the business sector to follow suit and further push the development of renewable energy.</p>
+        
+        <p><strong>Are there any challenges that only Hong Kong is facing in terms of consuming renewable energy due to its characteristics like limited developable land, high electricity consumption, etc.?</strong></p>
+        <p>As mentioned previously, the lack of energy competition leads to a low awareness among citizens. Unlike other cities where citizens could choose a different electricity company on their own, Hong Kong people have no choice when it comes to electricity usage. This discourages people from thinking of problems related to energy shortage or usage and reduces the incentive for developing renewable energy.</p>
+        <p>This kind of reliance and domination could also be observed in the food sector. Hong Kong relies heavily on imports from China. Similarly, this discourages the development of local projects related to food. However, we should always prepare for the worst.</p>
+        <p>Another challenge that we need to overcome is people’s mindset. When we say environmental conservation, people usually think of nature and the natural environment. Nonetheless, our climate is closely associated with the livelihood of people. In the Bangkok Climate Action Week and the 9th Asia-Pacific Climate Change Adaptation Forum, the association between climate and health is being mentioned. In particular, extreme heat could lead to heat stroke among construction workers who work outdoors, and some might even die due to heat stroke. Therefore, there is a need for the public to know more about this association.</p>
+
+        <p><strong>Looking forward, what is CarbonCare InnoLab’s vision and plans over the next few years? </strong></p>
+        <p><blockquote>Our primary concern is people. </blockquote></p>
+        <p>In terms of urban planning and welfare perspective, we hope to bring in the consideration of resilience through different sectors. Climate change is related to different sectors. Therefore, instead of direct service, we hope to advocate for a sectoral change and capacity building in the future.</p>
+        <p>The art and cultural sector would be a notable example. Although people might think that this sector has nothing to do with climate change, it does have some connection to climate change. For instance, through meetings about sustainability and carbon emissions with the cultural sector, we hope to advocate the idea of reusing costumes throughout different performances, and this change is in fact happening.</p>
+        <p>As a result, we aspire to have more cooperation with various sectors in the future and apply the concept of carbon neutrality on various occasions.</p>
+
+        <p><strong>Some of your representatives went to the COP30 in Brazil. What insights did you gain through the meeting?</strong></p>
+        <p>One important insight our youth representatives discovered is that the progress of carbon reduction is far from satisfactory. 10 years have passed since the signing of the Paris Agreement, and we have already entered a critical point. It is disappointing to see that some countries are not willing to phrase out fossil fuels.</p>
+        <p>Despite the disappointment, there is still some hope. For instance, the Just Transition Work Programme (JTWP) in recent years helped to promote justice in face of climate change. It yielded better results than expected.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>About Ms. Ivy Leung</h3>
+
+        <p><strong>What motivated you personally to pursue a career in climate advocacy and sustainable development?</strong></p>
+
+        <p>I started my career as a journalist, and I am concerned a lot about the wellbeing of grassroot families. Through different occasions, including communication with funders, I started to realize the importance of sustainability.</p>
+        <p>My vision aligns with CarbonCare InnoLab’s pursuit of climate justice and social equality. For instance, <a>I believe that climate change is a long-term issue where individual elements are interrelated to each other. Addressing one issue, or one sustainability goal alone, would not be able to solve the problem</a>. For instance, when talking about SDG 2- Zero Hunger, it is impossible to alleviate hunger without addressing climate change, since climate change would lead to crop failure and food shortages. Thus, addressing the root and bigger part of the problem, climate change, is essential to achieving lasting solutions.</p>
+        <p>I also agree with the approach of youth empowerment. <a>Rather than believing the saying that ‘youth is the future’, I believe that youth is now</a>. Not only do youth have the power to do things, but they are also able to achieve co-creation. By grouping like-minded youth, they would be able to co-create something that is valuable and powerful. This also avoids the usual practice of having a top-town planning approach.</p>
+        <p>As CarbonCare InnoLab avoids having a top-down approach and relies on cross-sector collaboration or development, this vision also closely aligns with mine.</p>
+
+        <p><strong>You have worked in journalism, NGOs, philanthropic funding, and corporations. How have these experiences shaped your approach at CarbonCare InnoLab? </strong></p>
+        <p>Through my work experiences, I realized that my colleagues also have their own strength and uniqueness that I could learn from. The world is constantly evolving, and no single skill remains permanently sufficient once learned.</p>
+        <p>In the field of journalism, I have developed strong communication skills, and I believe this mindset extends far beyond the profession itself. Most importantly, such human connections cannot be replaced by AI and are applicable in different industries. Throughout my career, I have built meaningful relationships. Thus, I am convinced that regardless of my role, being human‑centred and having good connections is essential.</p>
+        <p>As a result, I would not say I am leading CarbonCare InnoLab. Instead, I strive to remain humble, prioritize human connections, and maintain a mindset of continuous learning when I am in CarbonCare InnoLab.</p>
+
+        <p><strong>What advice would you give to youth and aspiring climate professionals passionate about making a real impact?</strong></p>
+        <p><blockquote>I would have 3 pieces of advice: try, find friends and believe in yourself.</blockquote></p>
+        <p>Firstly, it is important to keep trying. If you focus only on the outcome, it is natural to feel overwhelmed or powerless. Teens always think that they would not make a difference even if they act. Nevertheless, <a>every attempt and experience helps pave the way for future progress</a>. I could also name one example to show why trying is important. In one advocacy group project, the teens initially hypothesized that the public was indifferent to recycling. However, after gathering evidence through a systematic and evidence-based approach, they discovered that around 20% of citizens were already recycling their own food waste. This finding directly challenged their original assumption, proving that results would only be known when you take action and explore.</p>
+        <p>Another important piece of advice is <a>to find like-minded friends or work in groups</a>. When you work alone, it is inevitable that you feel lonely. In contrast, if you work with others, you get companionship, and this could also facilitate interdisciplinary cooperation. For example, in our programme, we try to incorporate people with different occupations and experience, including people who are working or studying. It is this kind of synergy that makes the project work.</p>
+        <p>Lastly, <a>believe in yourself</a>. As long as you have passion and perseverance, you should believe that you could achieve your goals.</p>
+
+    </div>
+
+    <img src="../img/blogs/梁詠珊.jpg" alt="合影" width="100%" height="auto" />
+
+    <div class="extra-link-button-container">
+        <a href="https://www.ccinnolab.org/en/index" class="extra-link-button" target="_blank">CarbonCare InnoLa</a>
+    </div>
+    <div class="extra-link-button-container">
+        <a href="https://hk.linkedin.com/in/ivy-leung-2b72b812a" class="extra-link-button" target="_blank">Interviewee Info</a>
+    </div>
