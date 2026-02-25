@@ -721,3 +721,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
+// 獲取容器元素
+
+postsContainer.addEventListener('click', function(e) {
+    // 1. 判斷點擊的是否為標籤（.tag）
+    const tagElement = e.target.closest('.tag');
+    
+    // 如果點擊的不是標籤，就跳出（不執行後續動作）
+    if (!tagElement) return;
+
+    // 2. 阻止事件冒泡 (防止觸發外層貼文卡片的跳轉)
+    e.stopPropagation();
+
+    // 3. 獲取文字並去除 "#"
+    // 使用 trim() 確保沒有多餘空格，replace('#', '') 去除井字號
+    const rawTag = tagElement.textContent.trim();
+    const tagName = rawTag.startsWith('#') ? rawTag.slice(1) : rawTag;
+
+    // 4. 跳轉到目標頁面
+    if (tagName) {
+        window.location.href = `blog_en_index.html?tag=${encodeURIComponent(tagName)}`;
+    }
+});
