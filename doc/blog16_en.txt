@@ -146,7 +146,7 @@ USSHKU
     <img src="../img/blogs/梁詠珊.jpg" alt="合影" width="100%" height="auto" />
 
     <div class="extra-link-button-container">
-        <a href="https://www.ccinnolab.org/en/index" class="extra-link-button" target="_blank">CarbonCare InnoLa</a>
+        <a href="https://www.ccinnolab.org/en/index" class="extra-link-button" target="_blank">CCInnoLab</a>
     </div>
     <div class="extra-link-button-container">
         <a href="https://hk.linkedin.com/in/ivy-leung-2b72b812a" class="extra-link-button" target="_blank">Interviewee Info</a>
