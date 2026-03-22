@@ -1,0 +1,110 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+Interviewing “The Best Analyst in Asia” Sophia Cheng: From Dept. of Atmospheric Sciences to Sustainable Investment
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+Sophia Cheng, ex-Chief Investment Officer, now Senior Consultant at Cathay Financial Holdings, shared her career journey with us, from repeated early setbacks to an unexpected interview leading her into investing. Although she was assigned to cover overlooked sectors, a market rally in those industries proved her analysis right, and she later went on to publish annual reports widely regarded as “investment bibles."
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2026/03/22
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post18_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#投資#永續投資#責任投資#股市#永續金融#ESG
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#Investment#SustainableInvestment#ResponsibleInvestment#StockMarket#SustainableFinance#ESG
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+Text by Yu-Tong Lin, Hsiang-Chien Tseng, Hsin-Lu Yeh / Photo by Yu-Tong Lin
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+7,8,9
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC 或 NDHUCA)
+<範例> NTUCA
+NTUCA
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>Background Introduction</h3>
+
+        <p><strong>Could you tell us about your career journey since graduation?</strong></p>
+        <p>The Chief Investment Officer (CIO) graduated from the Department of Atmospheric Sciences at National Taiwan University and returned to her hometown of Yunlin to teach junior high school science. She was initially assigned the two lowest-performing classes in the school. Rather than feeling discouraged, she devoted extra effort to experimenting with different teaching methods to ensure every student truly understood the material. Surprisingly, the two classes that had once shown the lowest motivation later developed a much more positive learning atmosphere, and their overall academic performance rose to second and third place in the entire grade.</p>
+        <p>After Taiwan’s 1990 stock market crash, she decided to go abroad for further studies with her then boyfriend. The journey was far from smooth. She recalled with a laugh that her undergraduate GPA was not particularly outstanding, and that she took the TOEFL eight times and failed seven GMAT mock exams, repeatedly stumbling over English vocabulary. She eventually applied using her GRE score and was admitted to the Master’s program in Finance and Banking at Golden Gate University in San Francisco.</p>
+        <p>Looking back on her master’s studies, she believes two experiences had a particularly profound impact. The first was serving as a teaching assistant. Her previous training as a school teacher had taught her how to explain complex concepts in simple terms. At first, the professor doubted whether she could handle the TA role after just completing courses in accounting and financial statement analysis. However, after she proactively requested a trial lecture, the professor was impressed by her clear logic, strong sense of responsibility, and willingness to help classmates. Upon graduation, he even wrote “strongly recommended” in her job reference letter. The second experience was her part-time work in the university library. She recalled that the atmosphere was always especially pleasant during her shifts. She even went out of her way to reorganize files and folders, earning the librarian’s deep trust. In her recommendation letter, the librarian described her as <a>proactive, principled, and highly responsible</a>.</p>
+        <p>After earning her master’s degree, she saw a newspaper advertisement in Taiwan from Jardine Fleming (now part of JPMorgan) recruiting research analysts. At first, she assumed it was an academic institution similar to Academia Sinica, the national academy in Taiwan, as she had always been interested in research. Only when she arrived for the interview and saw the words “securities and investment trust” at the entrance did she realize she had inadvertently stepped into the financial industry. At the time, Taiwan had just begun opening its markets to foreign investors, and Jardine Fleming, one of the first foreign institutions to enter, urgently needed analysts capable of fundamental research. They were especially looking for someone who understood both computers and investing. She joked that she was grateful for her atmospheric science training. Her freshman course “Introduction to Computer Science” led the interviewers to believe she had strong computing skills, and her experience writing Fortran programs, combined with investment and financial analysis courses taken in the U.S., perfectly matched their needs.</p>
+        <p>After joining Jardine Fleming, she worked with exceptional dedication, and her salary increased from NT$40,000 to over NT$60,000. She described this period as the first time she truly felt that “intelligence has value, and hard work should not be undervalued,” a belief that later shaped her management style, which places strong respect on professionalism and talent.</p>
+        <p>She began by researching overlooked sectors such as tourism and department stores, and gradually shifted her focus to the cement and steel industries. During the 1998 Asian financial crisis, most market participants predicted a severe collapse in Taiwan’s real estate sector. However, she argued that, unlike Hong Kong and Japan, Taiwan did not have large amounts of speculative capital, so although construction stocks would decline, the impact would not be as extreme. In 1999, when Taiwanese President Lee Teng-hui introduced economic stimulus measures and reduced business taxes for the financial sector, cement and construction stocks surged. Her accurate forecast earned her recognition as the “Best Analyst in Asia,” and her annual industry reports became widely regarded as an investment bible. After 15 years working in foreign institutions, she began to consider how she could contribute more to Taiwan. In 2012, she joined Cathay Financial Holdings as CIO, moving into a central decision-making role within Taiwan’s financial system.</p>
+
+
+        <p><strong>How is your work connected to sustainable development?</strong></p>
+        <p>She explained that about two to three years after joining Cathay, global financial markets began placing increasing emphasis on sustainable and responsible investing. At first, many people associated sustainability mainly with philanthropy or environmental protection. She soon realized that international investors were concerned with deeper issues, namely whether institutions followed responsible investment principles, where capital was flowing, and whether investments were harming the environment or society.</p>
+        <p>As a result, she began systematically studying and implementing responsible investment practices, formally promoting related strategies within Cathay in 2016. Cathay became the first Taiwanese financial institution to join the Asia Investor Group on Climate Change (AIGCC). Two years later, she was invited to serve as the organization’s chair and has continued to advance climate action in Asian capital markets.</p>
+        <p>She describes sustainability as “doing something three years ahead of its time.” When few people pay attention, it often means the idea is early, but within a few years it becomes an industry standard. Those who start first gain a competitive advantage. After a decade of investment, Cathay has developed strong influence in Taiwan’s financial sector in areas such as sustainable finance, climate action, and impact investing.</p>
+        <p>In discussing implementation, she emphasized that sustainability is not about slogans but about deeply understanding real-world challenges faced by companies. For example, if manufacturers lack access to green electricity, one must consider the structural issues in Taiwan’s energy transition. Labor shortages point to broader demographic challenges such as an aging population and declining birth rates. She believes that if the financial industry focuses only on capital without understanding the industrial and social structures behind it, sustainability becomes empty rhetoric.</p>
+        <p>This mindset extends to Cathay’s internal talent and cultural management. In an era of low birth rates, she sees young people as scarce resources, and believes every employee should be nurtured with the care given to an only child. Beyond professional skills, it is crucial to cultivate their understanding of the world, critical thinking abilities, and concern for social issues.</p>
+        <p>Cathay has therefore invested significant resources in youth empowerment, youth entrepreneurship, and women’s entrepreneurship programs, extending the concept of sustainability to clients’ financial well-being, employees’ physical and mental health, and even to families and society. She likens a well-functioning system not to a single flower, but to a flourishing garden.</p>
+        <p>Reflecting on her career, she noted that many of her choices were not carefully planned; she simply pursued what seemed necessary and worthwhile at the moment. From education to finance to sustainable investing, she has come to realize that life offers far more possibilities than one might imagine. Because she grew up with limited resources and benefited from public education, she feels a strong desire to give back—to her company, to society, and to the world.</p>
+        
+        <p><strong>If you had to describe your work in three keywords, what would they be, and why?</strong></p>
+        <p>Her answer is: <a>thinking, action, and courage</a>.</p>
+        <p>She considers being an analyst a fortunate job: the company provides access to newspapers and databases, allowing her to gather global information. Her responsibility is to think rigorously, distill actionable conclusions, and recommend them to clients with courage.</p>
+        <p>She admitted that when her early recommendations proved wrong, she would repeatedly apologize to clients. One client once asked her, “What good does your apology do? Can it compensate for my losses?” That moment taught her that rather than dwelling on regret, it is more important to do better next time.</p>
+        <p>She describes herself as a romantic and sensitive person, but her work as an analyst became a form of redemption—it forces her to look forward, focus on the future, and avoid being trapped by past mistakes. The job has taught her to accept imperfection, step away from extreme perfectionism, prepare through thinking, execute through action, and bravely accept the outcomes.</p>
+        <p></p>
+    </div>
+
+    <div class="post-section">
+        <h3>Part 2: Career Development</h3>
+
+        <p><strong>What has been the biggest challenge in your career, and how did you overcome it?</strong></p>
+        <p>While working on industry research at a foreign firm, she was assigned to cover the “unpopular” sectors that no one else wanted, including tourism, department stores, cement, steel, and construction. At the time, most analysts focused on electronics and technology stocks. These traditional industries were not only unfashionable but also difficult to research, as companies were reluctant to share information.</p>
+        <p>She printed annual reports spanning ten to twenty years and compared financial data page by page, calculating gross margins and operating profits for individual projects based on land costs, construction expenses, and sales prices. When studying construction stocks, she even estimated building heights and floor areas, combined regulatory limits and floor area ratios, and reconstructed overall supply structures. She then used macroeconomic analysis to forecast industry cycles three to five years ahead. With no existing templates to follow, her methods were built entirely through repeated trial and error and gradual accumulation of experience.</p>
+
+
+        <p><strong>If you could go back in time, what advice would you give your 20-year-old self?</strong></p>
+        <p>She recalled that in university she struggled to express her needs and hesitated to ask for help. This may have been influenced by her beliefs—she was accustomed to putting others first and thinking, “Take care of others before myself.” She described herself as the kind of person who would eat the crumbs first, feeling guilty if someone else had to.</p>
+        <p>Even when she did not understand something, she rarely asked questions and tended to blame herself. Looking back, she feels that if someone had encouraged her to be braver—to meet new people and learn to seek help—her younger self might have had an easier path.</p>
+        <p>Her advice to her 20-year-old self would be: have more confidence, because asking for help is just as important as helping others; learn to accept imperfection, because every day is a new beginning; and remember that without trying, you will never know the outcome—rather than being afraid, be brave enough to try once.</p>
+
+    </div>
+
+
+    <div class="post-section">
+        <h3>Part 3: Advice for Young People</h3>
+
+        <p><strong>What concrete advice and encouragement would you offer young people who want to enter this field?</strong></p>
+        
+        <p>She first emphasized that:</p>
+        <blockquote>"sustainability is not a product but a belief and a value system."</blockquote>
+        <p>Truly valuing sustainability means thinking about what choices allow progress to continue in a long-lasting and solid way. For young people, the first step is not to rush into a job labeled “sustainability,” but to choose a company whose values they genuinely share—one that prioritizes good governance, respects employees, and avoids major social or environmental controversies. If you do not agree with a company’s values, even an impressive job title will not sustain a long career.</p>
+        <p>In terms of preparation, she encourages students not to be confined by their majors. The world is vast, and a university major is only the first book in life’s library. Instead of worrying about future career prospects, students should audit practical courses such as introductory law, business case studies, geopolitics, and industry research to build a sense of different professional contexts. She also recommends that every student learn basic accounting and investment principles. Understanding financial statements helps one see how companies make money, where risks lie, and how to make rational personal decisions. She also said that language is simply a communication tool, as long as others understand you, it is useful.</p>
+        <p>For those specifically interested in sustainability careers, she notes that sustainability departments function primarily as strategic planning units rather than engineering or marketing teams. Their core mission is to understand material industry issues and translate global trends into corporate strategy. Different industries prioritize different sustainability concerns: finance focuses on responsible investment, manufacturing on carbon emissions and water resources, electronics on supply chains and geopolitics, and agriculture and textiles on pollution and resource use. When one’s expertise aligns with an industry’s key sustainability issues, there is significant room to contribute.</p>
+        <p>She also cautions that focusing solely on carbon accounting or writing sustainability reports can become monotonous over time. The most valuable professionals are those who understand how to use audit results strategically, and those who can plan, integrate, and persuade different departments to act. Thus, the most critical skills in sustainability are not technical but strategic planning and communication, or in simpler terms, understanding risks, setting direction, coordinating resources, and clearly explaining why an issue matters.</p>
+        <p>Finally, she advises young job seekers not to fixate on starting salaries. Instead, they should prioritize organizations that offer learning opportunities, strong systems, and broad perspectives, especially large or multinational companies. Those who think strategically, are eager to learn, and can handle conflict and collaboration gracefully are quickly recognized as high-potential talent and placed on fast growth tracks. A truly sustainable career is not about finding a label, but about becoming someone who enables both organizations and society to thrive in the long run.</p>
+    </div>
+
