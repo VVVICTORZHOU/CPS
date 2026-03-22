@@ -331,6 +331,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 case 'NYCU-ESGSPC':
                     imageUrl = '../img/nycusps_logo.png';
                     break;
+                case 'NDHUCA':
+                    imageUrl = '../img/ndhuca_logo.png';
+                    break;
                 default:
                     imageUrl = '../img/ntuca_logo.png';
                 }
