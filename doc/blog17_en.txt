@@ -1,0 +1,141 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+Posko, the first centralized treatment center for livestock manure resources in Taiwan.
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+The current director of the Posko Livestock Biogas Energy Center, Mr. Yang Huang-Song, shares how they balance renewable energy development and local sustainability by integrating their daily life with their work.
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2026/04/12
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post17_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#永續發展#永續農業#生質能源#在地關懷
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#SustainableDevelopment#SustainableAgriculture#BiomassEnergy#LocalEngagement
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+N/A
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+2,7,12,13
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC 或 NDHUCA)
+<範例> NTUCA
+NDHUCA
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>Background Introduction</h3>
+
+        <p><strong>Could you please introduce yourself and your current work?</strong></p>
+        
+        <p>I am Pangcah (Amis), and my name is Huang-Song Yang. I previously served in the Navy and later worked in the graphene industry. I decided to return to my hometown so that my children could grow up in the same natural environment as I did, and so I could better care for my mother. After returning to Yuli, I discovered a local industry focused on treating livestock wastewater. Recognizing its environmental benefits and potential for stable income, I joined the Posko Livestock Biomass Energy Center, operated by Sinotech Environmental Technology, as a field operator. I am now the Director, responsible for the operation and maintenance of the entire center.</p>
+    
+        <p><strong>How is your work connected to sustainable development? Can you give some practical examples?</strong></p>
+
+        <p>The center can solve the problem of wastewater and odor from the livestock industry efficiently. We pay attention to the local culture, landscape features, and environmental education, trying to improve the welfare of the village and create local employment opportunities. We actively promote the reuse of livestock manure in environmental, economic, and social ways, and move toward a successful model of a green livestock circular economy. It meets multiple SDG indicators, inspires latecomers to participate or emulate, and guides subsequent project investment. The center has won the FIABCI-Taiwan Real Estate Excellence Awards and the Taiwan Circular Economy Awards in 2022, and won the Ministry of Environment Sustainable Water Purification Award in 2024. Circular economy and sustainable development have become the most important global issues. Many government agencies and business groups have visited the center, hoping to build a livestock biomass energy center in their own counties and cities to strengthen the development of a green circular economy and move towards net-zero carbon emissions. </p>
+
+        <p><strong>If you had to choose three keywords to describe your work, what would they be and why?</strong></p>
+        <p>I use the phrase “Not Afraid to get Dirty” to define our core values:</p>
+        <ul>
+            <li><strong>Not (No Flames)</strong>：Since methane gas is present throughout the facility, open flames are strictly prohibited. We must remain highly vigilant about safety hazards and never ignore warning signs.</li>
+            <li><strong>Afraid (Caution)</strong>: This represents a healthy respect for the risks involved. We approach every repair as if it’s our first time, conducting rigorous risk assessments and ensuring all safety protocols are locked in before starting.</li>
+            <li><strong>Dirty (Hands-on)</strong>：“Dirty” reflects the hands-on reality of our work. Most maintenance work is performed by on-site staff at our center. During maintenance, protective equipment and gloves must be worn to avoid direct contact with wastewater. After completing maintenance, tools must be returned to their proper places, and the work environment must be kept clean and tidy at all times.</li>
+        </ul>
+
+
+    </div>
+
+    <div class="post-section">
+        <h3>Career Journey</h3>
+
+        <p><strong>Could you walk us through your career journey—from graduation to where you are now?</strong></p>
+
+        <p>I have 20 years of professional military service experience, during which I gained experience in engineering, including working as a training specialist for 5 years, an engineering repair specialist for 2 years, and an environmental specialist for 1 year. After being discharged from the Navy, I worked as a technician at Taiwan Graphene Company in the Longde Industrial Park in Su'ao, where I was involved in the later stages of the manufacturing process, including high-temperature sintering and instrument operation. This work almost always required me to work through the night. I also took time to pursue further education on weekends, so I had to balance work, family, and studies during that period. After graduating, I discussed with my family whether to return to Yuli. At that time, the center was in the trial operation phase and was short-staffed. After learning about the factory, I believed that it would bring significant environmental benefits to my hometown, so I decided to try entering this industry.</p>
+
+        <p><strong>What inspired you to pursue a career in sustainability?</strong></p>
+
+        <p>At first, I took the job for a stable income, since it’s hard to find work in the rural areas. The working conditions at the plant were challenging, and the pressure was intense. However, I later realized that this industry actually benefits my hometown’s environment. After reflecting on what gives my life meaning, I came to feel that this job makes a real contribution to improving the local environment, so I’m willing to keep working hard in this field.</p>
+
+        <p><strong>How does your current job compare with your expectations?</strong></p>
+
+        <p>The reality is quite different from what I imagined. At the beginning, I was doing basic maintenance work. Later, as things got on track, I gained a deeper understanding after taking on operations management responsibilities. Our center can effectively decompose high-concentration organic matter in wastewater through a sealed anaerobic digestion process, which also reduces odor emissions. The biogas, biogas slurry, and biogas residue produced during the anaerobic digestion process can be used for green energy applications to create additional revenue, while the slurry and residue can be used as fertilizer for farmland. In addition to on-site work, monitoring the nearby water quality and soil conditions is also one of our work responsibilities.</p>
+
+        <p><strong>What has been your biggest challenge at work, and how did you overcome it?</strong></p>
+
+        <p>I believe the biggest challenge is people management. Machines are predictable, people aren’t. In addition to doing my own job well, I also need to think about how to assign tasks properly and how to help my team work efficiently. I lead by example and show my team my working style and attitude through my actions. I’m used to working alongside them, which also allows me to spot problems during the process and find ways to optimize or improve our work. In that sense, I see myself as both a teacher and a learner, and I encourage myself to learn by doing and keep improving.</p>
+
+        <p><strong>If you could go back in time, what advice would you give your 20-year-old self?</strong></p>
+        
+        <p>I felt it was time to focus on learning. I'm very fortunate that I joined the Navy at that time. My military experience taught me how to train staff, establish risk management mechanisms, and handle crises. I applied this knowledge to the management of this factory to ensure that employees were familiar with their works, identify potential safety risks, and improve the factory’s overall safety standards. Later, when the company promoted me to take over as the director of the Posko Livestock Biomass Energy Center, it became another area where I needed to learn and continue improving.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Daily Life & Work</h3>
+
+        <p><strong>What does a typical workday look like for you?</strong></p>
+
+        <p>The inspection begins with confirming pipeline inlets, water intake, power generation, electricity consumption, gas production, water quality, pH value, EC (electrical conductivity), MLSS (mixed liquor suspended solids concentration), and the condition of each piece of equipment. It also involves handling various unforeseen situations. These factors are crucial to the plant's operational performance, as the plant primarily generates revenue through power generation. If water quality affects gas production, gas production will in turn affect power generation, which then impacts revenue. After the inspection, risk management for the day’s work items must be assessed, and it must be ensured that on-site personnel complete maintenance, repair, and testing tasks step by step.</p>
+
+        <p><strong>On a scale of 1 to 10, how would you rate your work-life balance?</strong></p>
+    
+        <p>I'd give it a 7 out of 10. I'm responsible for both external coordination and internal plant maintenance, which is very stressful. I'm very grateful for the encouragement and support from company leaders. In terms of balancing family life, I found it easy and enjoyable when I first started as an operator, but after being promoted to supervisor, I sometimes became very busy. As a result, it put pressure on my family life, and there were times when my family had some complaints. Sometimes I had to work overtime on weekends or at night, making it difficult to maintain a healthy balance. I even found myself thinking about how to optimize operations while eating. At night, I would check plant parameters on my phone, and if I noticed any abnormalities, I needed to come to the site to handle them. However, my family was very supportive of my dedication to this job. We also faced many typhoons and two major earthquakes, but we made it through safely. Currently, the biggest challenge is the high staff turnover rate, which requires constant repeated training and ongoing communication, alignment, which takes a lot of time. </p>
+
+        <p><strong>Who are your most frequent collaborators, and what stands out about working with them?</strong></p>
+    
+        <p>This can be divided into several parts:</p>
+        <ul>
+            <li><strong>Environmental Protection Bureau</strong>：The Environmental Protection Bureau sets monthly requirements for processing volume, gas production, power generation, and water quality. They also invite experts and scholars to conduct on-site inspections and provide guidance quarterly, and conduct annual performance monitoring of the center's operations. They’ve been very supportive in providing guidance to our center.</li>
+            <li><strong>Livestock Farms</strong>: We need to control the water quality and quantity at livestock farms. We are currently cooperating with twelve livestock farms, but each farm has different water intake and quality, which is crucial to gas production. Therefore, we need to conduct regular testing and inform farm owners about water volume and quality.</li>
+            <li><strong>Farmers</strong>：We encourage farmers to use biogas residue and biogas slurry for irrigation, explaining the usage and dosage of fertilizers.</li>
+            <li><strong>Local Residents</strong>：There was initial opposition to the construction, so it's even more important to maintain good neighborly relations and give back to the community to improve relationships.</li>
+        </ul>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Advice for the Next Generation</h3>
+
+        <p><strong>What trends do you foresee in this field?</strong></p>
+        
+        <p>With rising environmental awareness, I believe that industries that use anaerobic facilities to treat wastewater, livestock manure, and waste will flourish in the future. In particular, with the government's commitment to carbon reduction policies, reducing greenhouse gas emissions during waste treatment requires reuse and resource recovery. In addition, water resource reuse is also a project actively promoted by the government. Therefore, I think engaging in related industries would be a good choice.</p>
+
+        <p><strong>What qualities or skills are needed for this career path?</strong></p>
+
+        <ul>
+            <li><strong>Undeterred by hardship</strong>：Since our work area is almost entirely outdoors, we not only have to endure the sun, but also the stench from the wastewater that comes into contact with the equipment during maintenance.</li>
+            <li><strong>Undeterred by difficulties</strong>: Ensuring the proper functioning of every piece of equipment and the stability of the anaerobic environment within the anaerobic tank relies on on-site personnel performing maintenance work effectively. Furthermore, stable feeding and thorough mixing of the anaerobic tank help maintain the activity of the anaerobic bacteria and increase gas production.</li>
+            <li><strong>Certification required</strong>：A degree in environmental engineering isn't necessary to work in this industry. Consider obtaining relevant certifications and developing plumbing and electrical repair skills first.</li>
+        </ul>
+
+        <p><strong>What’s your final advice for young people interested in this field?</strong></p>
+
+        <p>Honestly, I feel very lucky to be able to do this job in my hometown. The Posko Livestock Biomass Energy Center has been a great help to my hometown. We also quietly protect the Siouguluan River and local smallholders, and help the local area solve the unbearable odor problem. This year, the Posko Livestock Biomass Energy Center also passed the review of the Climate Change Administration, Ministry of Environment and completed the listing on the Greenhouse Gas Voluntary Reduction and Offset Information Platform, which indirectly upgraded the local livestock industry. If you want to join the green and sustainable industry in the future, I suggest getting the relevant certifications first, because there are endless possibilities with certifications in hand. I also hope that more young people can come and work with us to make our place and future better.</p>
+    </div>
+
