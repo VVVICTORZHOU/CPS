@@ -1,0 +1,132 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+A Startup Experience of Applying Technology to Healthcare and Social Care: Bereyca Li
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+HEC Paris graduate Bereyca Li shares her experience working at a humanoid robotics startup in France, discussing the background of impact investing, the application of technology in social care, and cultural differences between Taiwan and France.
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2026/04/18
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post19_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#新創#影響力投資#醫療#科技新創#社會#社會關懷
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#Startups#ImpactInvesting#Healthcare#TechStartups#Social#SocialCare
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+Text by Hsiang-Chien Tseng, Hsin-Lu Yeh / Photo by Hsin-Lu Yeh
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+3,11
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC 或 NDHUCA)
+<範例> NTUCA
+NTUCA
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>Background Introduction</h3>
+
+        <p><strong>Could you briefly introduce yourself and explain how your work connects to sustainability?</strong></p>
+        <p>My name is Minzhen Li, and I am currently the Founder Associate to the co-founder of <a href="https://enchanted.tools/">Enchanted Tools</a>a French startup that develops humanoid robots. Our robots are primarily designed for healthcare settings, with the goal of improving the efficiency of patient care and assisting medical staff and caregivers, by accompanying elderly residents and supporting children undergoing radiation therapy.</p>
+        <p>While my work may not seem directly related to traditional environmental sustainability, I believe that healthcare, addressing labor shortages, and protecting workers’ rights are all essential components of sustainable development. Sustainability is not limited to traditional consulting, it can also be driven through technology and investment. This belief is at the core of how I connect my current role to sustainability.</p>
+
+        <p><strong>If you had to describe your job in three keywords, what would they be? Why?</strong></p>
+        <p>I would choose <a>innovation, problem-solving, and adaptability</a>.</p>
+        
+        <ul>
+            <li><strong>Innovation</strong>：Humanoid robotics is an emerging field with no established regulatory framework or development blueprint. This makes innovative thinking crucial when driving projects and defining strategic directions.</li>
+            <li><strong>Problem-solving</strong>: In a startup environment, decisions can change rapidly. A plan decided today may be replaced tomorrow. I need to constantly identify resources and solve problems in order to support the company’s goals.</li>
+            <li><strong>Adaptability</strong>：As the only Taiwanese employee in the company who does not speak French, I need a high level of adaptability to integrate into the local workplace culture. Maintaining an open mindset and navigating a cross-cultural environment are essential for survival and growth.</li>
+        </ul>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Career Path</h3>
+        <p><strong>Could you share your career journey from graduation to where you are today?</strong></p>
+        <p>I moved to France in December 2023, initially as an exchange student in a sustainability program at SKEMA Business School. Before coming to France, my internship experience in Taiwan focused mainly on sustainability research and consulting. Since Europe is a pioneer in sustainability, I wanted to experience firsthand how these ideas are implemented at the forefront.</p>
+        <p>After my exchange, I pursued a master’s degree at HEC Paris, specializing in Impact Investing. I have always believed that without tangible impact, sustainability can easily become mere marketing or “greenwashing,” so I chose impact investing as the specific topic I would major in.</p>
+        <p>During my studies, I realized that although investors appear to hold significant decision-making power, entry-level employees are often limited to conducting basic investment analysis and due diligence, while rarely participating in actual investment decisions in comparison. As a result, I chose not to enter the investment industry directly. Instead, I joined a tech startup, hoping to create real impact at the source.</p>
+
+        <p><strong>What motivated you to pursue a career related to sustainability?</strong></p>
+        <p>This is closely related to my inclination to help others, as well as my interest in thinking about philosophical questions. I believe the meaning of my life should not be limited to mere survival. I don’t want to spend most of my life working a routine nine-to-five job without a clear purpose. I often ask myself, “Beyond money and work, what else remains in my life?” If I am to devote a significant portion of my time to something, I want to feel passionate about it, and I want my career to align with my core values—namely, creating meaningful impact.</p>
+        <p>In fact, I had similar thoughts back in high school, although I wasn’t yet aware of the sustainability sector at the time. It wasn’t until I joined my university’s sustainability center and participated in sustainability evaluations of publicly listed companies (now known as the Taiwan Sustainability Assessment) that I began to formally understand this field. I realized that the resources of large corporations could be leveraged to drive impactful change. With this passion, I entered the sustainability consulting industry. However, I often encountered companies that cited a “lack of budget or resources,” or misalignment with corporate values, as reasons my ideas could not be implemented. This ultimately led me <a>to shift my focus toward pursuing more tangible impact, rather than remaining at the level of only advising companies on what they should do.</a></p>
+
+        <p><strong>How did your expectations compare to the reality of your job?</strong></p>
+        <p>In my current startup role, the reality aligns almost perfectly with my expectations—if anything, it exceeds them. As a Chief of Staff, I have a high degree of flexibility and execution power. I can directly discuss ideas with the founder, and if we both see value, we can implement them immediately.</p>
+        <p>I also have the freedom to proactively reach out to investors and strategic partners to explore collaborations.</p>
+        <p>In contrast, when I worked in sustainability consulting, even if my ideas aligned with my supervisor’s, the final decision always depended on the client. If the client lacked resources, or they didn't approve of the ideas, the proposal would not be adopted. In many cases, clients already had predetermined ideas, and consultants were simply there to execute them, which to me felt lacking in both challenge and a sense of purpose.</p>
+        
+        <p><strong>What has been the biggest challenge in your career, and how did you overcome it?</strong></p>
+        <p>The biggest challenges have been cultural differences and acquiring cross-disciplinary knowledge.</p>
+        <p>French workplace culture differs significantly from Taiwan’s. In Taiwan, managers often provide clear instructions, whereas in France, my boss typically gives only a goal. I must independently find resources, learn what is necessary, and achieve the objective. As someone new to the tech industry with no prior knowledge of robotics, this was initially very challenging, but I gradually adapted and turned it into motivation</p>
+        <p>Another key aspect is that French people place great importance on personal compatibility and character. Beyond professional ability, they value whether you are pleasant to work with. I learned to treat clients and investors like friends, understanding their lives and showing genuine care for them as individuals, not just business partners.</p>
+        <p>My boss also taught me that who you are matters more than what you do. He is very pragmatic and represents the company honestly by never overpromising to investors. I believe this sincerity is crucial for overcoming challenges and building long-term relationships.</p>
+
+        <p><strong>If you could go back in time, what advice would you give your 20-year-old self?</strong></p>
+        <p>I would tell my 20-year-old self <a>to define clear goals, stay open-minded, and not overthink things</a>. Execution is crucial. Many times, we hesitate to act because we fear the unknown. But when you are young and not having a mortgage or family obligations to worry about, you have tremendous flexibility and freedom. Your chances of success, as well as your ability to take risks, are much higher than if you wait until later. If the worst-case scenario is something you can handle, then be brave and just go for it.</p>
+ 
+        <p><strong>Why did you choose France? What cultural differences stand out between Taiwan and France?</strong></p>
+        <p>At the beginning, I chose France mainly due to considerations of cost and visa accessibility. Although the United States is a leading hub for impact investing, the high cost of studying abroad and the difficulty of obtaining a visa made it less feasible. France, on the other hand, offers equally strong academic resources at a more affordable cost. Despite the language barrier, I ultimately decided to study there.</p>
+        <p>As for cultural differences, what struck me most is the sense of ease in everyday life among Europeans. In France, time after work or during holidays is considered entirely personal (though this can vary by industry), and interrupting someone’s rest time is generally not well received. Additionally, people here place great importance on life outside of work—everyone has passions they are deeply committed to. For example, our two co-founders met through playing in a band; one colleague built a greenhouse at home; others enjoy activities like rock climbing.</p>
+        <p>Growing up, I was used to introducing people by their company, job title, or academic background, as if those labels defined who they were. But here, I’ve gradually learned to set aside more time for myself and to explore other possibilities in life beyond those conventional identifiers.</p>
+    </div>
+    <div class="post-section">
+        <h3>A Day at Work</h3>
+
+        <p><strong>Could you describe what a typical day looks like for you? What does your work generally involve from morning to evening?</strong></p>
+        <p>My day is actually very unpredictable, so it’s hard to define a fixed routine from morning to night. Sometimes I have meetings with investors, which require preparing presentations in advance. Other times, I meet with external strategic partners to discuss potential collaborations, or attend internal meetings with the CEO to talk about the company’s development strategy.</p>
+        <p>I’m also involved in research projects, which sometimes require visiting hospitals to better understand users’ real needs and conditions. Essentially, I’m involved in many of the tasks my boss handles, helping to save his time on analysis. You could say I’m like his right-hand support.</p>
+
+        <p><strong>On a scale of 1 to 10, how would you rate your work-life balance? Why?</strong></p>
+        <p>I would give it a full 10! I see this work as my passion, and it’s something I would want to learn about even if I weren’t working, so I don’t really draw a clear line between work and life. For example, even if I were on vacation and my boss suddenly called to discuss work (though this hasn’t happened yet), I think I would still happily engage in the conversation.</p>
+        <p>When you’re truly passionate about what you do and see it as something you want to dedicate a large part of your life to, it no longer feels like a burden. To me, work is more about building the life I aspire to, while continuously growing and improving myself.</p>
+        
+        <p><strong>Who do you most frequently interact or collaborate with at work? Is there anything particularly memorable about these interactions?</strong></p>
+        <p>I most often interact with investors and external partners. Each investor has a different investment strategy, but what left a strong impression on me are those who were once founders themselves. They can truly empathize with the challenges of entrepreneurship and offer very valuable advice.</p>
+        <p>Another particularly memorable experience was my first ever visit to a nursing home. I saw that many elderly residents were actually quite lonely, and even within the facility, there were small social circles, leaving some individuals isolated in the corners. When I realized that interacting with our robot genuinely brought them comfort, or that our robot could accompany children undergoing radiation therapy, I deeply felt the impact of our product. That sense of fulfillment made me realize how meaningful my work truly is.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Advice for Young People</h3>
+        <p><strong>Based on your observations, what are the future trends in this field?</strong></p>
+        <p>It depends on the perspective you take, particularly in terms of the terminal market applications of these robots. In the healthcare sector, for example, future developments may extend into areas such as social logistics, emergency response networks for elderly people living alone, nighttime patrols, and even cognitive therapy.</p>
+        <p>The demand in this field will undoubtedly continue to grow. We see a significant gap in the healthcare system, which is that while many elderly people can afford care services, there is a growing shortage of long-term care workers. This makes the market not only large but also one where technology can truly address critical social challenges. That said, there are still hurdles to overcome, including regulations, certifications, privacy concerns, automation, and public acceptance.</p>
+
+        <p><strong>What kind of personal traits are suitable for this line of work? What professional skills are required, and how can they be developed?</strong></p>
+        <p>In terms of personal traits, in addition to innovation, problem-solving skills, and adaptability, I believe it’s crucial to have a high level of <a>flexibility</a> and <a>resilience</a>. Startups often operate under high pressure, so strong mental endurance is essential.</p>
+        <p>As for professional skills, my role focuses more on strategy and coordination, so it doesn’t require an engineering background or highly advanced technical expertise. The most important skill is actually <a>the ability to learn quickly</a>. Robotics is a rapidly evolving field, and since I often represent the company and respond to questions, I need to absorb new knowledge quickly and apply it immediately. This includes understanding the basic logic of AI models, relevant patented technologies, and common sensing methods used in robot navigation systems. As long as you stay curious and maintain strong learning ability, you’ll be able to handle these challenges well.</p>
+
+        <p><strong>Finally, what advice and encouragement would you give to young people who want to enter this field?</strong></p>
+        <p>My advice is: always keep an open and inquisitive mindset. Frequently ask yourself, “Why am I doing this?” Is it because you are truly passionate about it, or simply because it aligns with societal expectations?</p>
+        <p>If you choose a career just to meet others’ expectations, you won’t find genuine happiness in the long run. Find a path that aligns your career with your passion, and then pursue it with courage.</p>
+    </div>
+
+    <p>To contact the interviewee: <a href="bereyca0327@gmail.com">bereyca0327@gmail.com</a></p>
