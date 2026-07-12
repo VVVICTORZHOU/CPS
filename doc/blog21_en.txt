@@ -1,0 +1,133 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+Professor Yi-Huan Hsieh: Navigating Through the Complex System in a University to Promote Sustainability
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+Professor Yi-Huan Hsieh, Assistant Executive Director of the Office of Sustainability at National Taiwan University, shares his experience advancing sustainability initiatives within a university setting, along with the challenges he has encountered. He also shares his thoughts on the evolution of sustainability careers over the years, as well as current trends and the future direction of the field.
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2026/07/13
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post21_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#學校#大學#教育#校園永續#溝通
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#Schools#Universities#Education#CampusSustainability#Communication
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+Jou-Hsuan Hu, Hsang-Chien Tseng, Huei-Yu Yen
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+4,11,13
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC 或 NDHUCA)
+<範例> NTUCA
+NTUCA
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>Background</h3>
+
+        <p><strong>Could you briefly introduce yourself and explain how your work is connected to sustainable development?</strong></p>
+        <p>Professor Yi-Huan Hsieh currently serves as the Assistant CEO/Chief of the Office of Sustainability at National Taiwan University (NTU). His primary responsibilities include advancing NTU's sustainability initiatives and carrying out research, planning, and administrative work assigned by the University's Sustainable Development Promotion Committee. Established in 2021 through the reorganization of the former Office of Institutional Research and Sustainability, the Office of Sustainability now independently oversees the University's sustainability agenda.</p>
+        <p>Professor Hsieh's academic background is in atmospheric sciences. During his graduate studies and postdoctoral research, he specialized in numerical weather prediction for tropical cyclone formation and originally envisioned a career in disaster prevention and mitigation. It was not until he joined the International Program on Climate Change and Sustainable Development (IPCS) as an Assistant Professor of Practice that he became deeply engaged in climate change and sustainability through both teaching and research.</p>
+
+        <p><strong>If you had to describe your work using three keywords, what would they be, and why?</strong></p>
+        <p>Professor Hsieh chose <a>"diverse," "utility player," and "communication."</a></p>
+        <p>He explained that virtually every sustainability-related issue on campus eventually reaches the Office of Sustainability, requiring the team to constantly prioritize competing tasks. Since many challenges have no established precedent, the office frequently experiments with new approaches and tools. For example, it has applied machine learning techniques to classify NTU courses according to the United Nations Sustainable Development Goals (SDGs). Because sustainability initiatives often span multiple administrative units, success depends on communicating strategically with stakeholders and coordinating resources across departments.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Career Journey</h3>
+        <p><strong>Could you share your career journey from graduation to where you are today?</strong></p>
+        <p>Professor Hsieh entered NTU's Department of Atmospheric Sciences in 2004 and has remained at the university ever since. After completing his Ph.D., he worked as a postdoctoral researcher specializing in numerical weather prediction of tropical cyclone formation, with the expectation of pursuing a career in disaster prevention research.</p>
+        <p>He later joined the International Program on Climate Change and Sustainable Development (IPCS) as an Assistant Professor of Practice. Preparing and teaching sustainability-related courses led him to develop a much deeper understanding of sustainable development. When his contract concluded in 2022, his previous collaboration with NTU's Office of Sustainability enabled him to transition smoothly into his current position.</p>
+
+        <p><strong>How did your expectations compare with the reality of the job?</strong></p>
+        <p>Professor Hsieh noted that his perception of sustainability careers in 2021 was completely different from what the work entails today. The nature of sustainability work evolves rapidly alongside changing global priorities.</p>
+        <p>Several years ago, much of the focus was on announcing carbon neutrality commitments and designing decarbonization roadmaps. Today, the emphasis has shifted toward frequent execution, verification, and down-to-earth implementation. Sustainability is a field that constantly evolves, requiring professionals to adapt every year to new international developments, regulations, and reporting standards.</p>
+
+        <p><strong>What has been the biggest challenge in your career, and how did you overcome it?</strong></p>
+        <p>Professor Hsieh admitted that his greatest challenge was underestimating the importance of the "G" (Governance) in ESG.</p>
+        <p>NTU's governance structure does not revolve around a single authoritative leader. Instead, different administrative units operate with considerable autonomy while maintaining checks and balances. As a result, implementing sustainability policies requires extensive cross-departmental communication and coordination.</p>
+        <p>In fact, he jokingly said that one of his long-term goals is "to make the Office of Sustainability unnecessary." Ideally, sustainability should become fully embedded within every administrative unit at NTU so that a separate sustainability office is no longer needed.</p>
+
+        <p><strong>If you could go back in time, what advice would you give your 20-year-old self?</strong></p>
+        <p>Reflecting on his junior year of college, when he simultaneously served as president of his departmental student association while pursuing a double major, Professor Hsieh recalled becoming overwhelmed because of poor time management and excessive commitments.</p>
+        <p>His advice to young people is to develop strong project management and risk management skills. He recommends using a risk matrix to prioritize tasks, evaluate trade-offs, and understand clearly what should and should not receive one's limited time and energy.</p>
+
+    </div>
+    <div class="post-section">
+        <h3>A Typical Workday</h3>
+
+        <p><strong>Could you describe what a typical workday looks like?</strong></p>
+        <p>Professor Hsieh described his daily work as alternating between "administrative mode" and "research mode."</p>
+        <p>Administrative work includes handling official correspondence, coordinating with different university offices, and advancing ongoing projects, such as NTU's collaboration with Raingo (an umbrella sharing platform).</p>
+        <p>Research work focuses primarily on energy-saving planning for campus buildings and conducting time-series analyses of energy consumption.</p>
+        <p>In addition, the Office of Sustainability manages several major annual projects, including compiling the University's greenhouse gas inventory in April, preparing NTU's sustainability report according to the <span class="keyword" data-tooltip="Sustainability Tracking, Assessment & Rating System (STARS): An assessment framework developed by the Association for the Advancement of Sustainability in Higher Education (AASHE). STARS is a sustainability evaluation system specifically designed for colleges and universities to measure institutional performance across areas such as academics, campus engagement, and operations. Widely adopted by leading universities in North America and around the world, it provides a transparent framework for assessing and benchmarking sustainability performance.">North American STARS framework</span> in June, organizing the International Net-Zero Technology Competition in August, and submitting data for the <span class="keyword" data-tooltip="THE Impact Rankings: A global university ranking published by Times Higher Education (THE). It is the world's only university ranking that evaluates institutions based on their contributions to the United Nations Sustainable Development Goals (SDGs). The rankings assess universities' impact through their research, institutional governance, community engagement, and teaching.">Times Higher Education (THE) Impact Rankings</span> in November.</p>
+
+        <p><strong>On a scale of 1 to 10, how would you rate your work-life balance? Why?</strong></p>
+        <p>Professor Hsieh rated his own work-life balance as 8 or 9 out of 10, although he joked that his wife would probably give him only a 4 or 5.</p>
+        <p>While he generally has considerable control over how he manages his schedule, he often continues working after hours whenever he has access to a computer or smartphone, whether replying to students' emails or handling unfinished tasks.</p>
+        <p>Because no one explicitly assigns him every task, he must constantly think ahead and determine the next priorities himself, which also creates a certain level of pressure.</p>
+
+        <p><strong>Who do you interact with most frequently, and what stands out about those interactions?</strong></p>
+        <p>Professor Hsieh works most closely with the University's administrative staff, particularly colleagues from the Office of General Affairs and the Environmental Protection & Occupational Safety & Health Center.</p>
+        <p>Many of these colleagues have engineering or science backgrounds, so they naturally approach projects from the perspectives of cost-effectiveness and practical implementation. They tend to focus on whether a strategy will produce meaningful results within realistic budget constraints.</p>
+        <p>By contrast, sustainability professionals sometimes aim for ambitious goals, such as achieving an "80 or 90 out of 100" solution immediately. Meanwhile, engineers may ask whether achieving "60 out of 100" is already sufficient given limited resources.</p>
+        <p>Because the two groups often operate on different time horizons and with different priorities, effective collaboration requires open discussion to understand each other's perspectives and jointly determine how resources and funding should be allocated.</p>
+    </div>
+
+    <div class="post-section">
+        <h3>Advice for Young People</h3>
+        <p><strong>Based on your observations, what are the future trends in this field?</strong></p>
+        <p>Professor Hsieh believes that sustainability will become increasingly technical, data-driven, and quantitative.</p>
+        <p>He describes the evolution of sustainability careers as six generations:</p>
+        <ul>
+            <li><strong>First Generation</strong>: Understanding the 17 Sustainable Development Goals (SDGs).</li>
+            <li><strong>Second Generation</strong>: The emergence of voluntary reporting frameworks such as <span class="keyword" data-tooltip="Global Reporting Initiative (GRI): The world's most widely adopted standard for sustainability reporting. GRI provides a comprehensive framework that enables organizations to disclose their economic, environmental, and social (ESG) impacts. Its distinguishing feature is its emphasis on transparency and accountability to a broad range of stakeholders, including employees, suppliers, local communities, customers, and investors.">GRI</span> and <span class="keyword" data-tooltip="Sustainability Accounting Standards Board (SASB): Unlike GRI, which serves a broad range of stakeholders, SASB focuses primarily on the information needs of investors and shareholders. It establishes industry-specific disclosure standards that help organizations report sustainability issues that are financially material—that is, ESG factors that are likely to affect a company's financial performance.">SASB</span>.</li>
+            <li><strong>Third Generation</strong>: The introduction of quantitative initiatives such as <span class="keyword" data-tooltip="Carbon Disclosure Project (CDP): An independent international non-profit organization that operates the world's largest environmental disclosure system. Each year, CDP invites major companies, cities, and governments worldwide to disclose information on greenhouse gas emissions, climate risk management, water security, and forest-related impacts through its globally recognized reporting platform. Based on these disclosures, CDP publishes performance scores and ratings.">CDP</span> and <span class="keyword" data-tooltip="Science Based Targets initiative (SBTi): A global initiative jointly established by CDP, the United Nations Global Compact (UNGC), the World Resources Institute (WRI), and the World Wide Fund for Nature (WWF). SBTi requires companies to set greenhouse gas reduction targets that are consistent with the scientific pathways outlined by the Intergovernmental Panel on Climate Change (IPCC). Its objective is to ensure that corporate decarbonization strategies contribute to limiting global warming to 1.5°C above pre-industrial levels.">SBTi</span>, along with sustainability rankings.</li>
+            <li><strong>Fourth Generation</strong>: Greater emphasis on quantitative metrics and third-party verification.</li>
+            <li><strong>Fifth Generation (today)</strong>: A strong focus on regulatory compliance, with sustainability disclosures becoming integrated with financial reporting and carrying potential legal liability.</li>
+            <li><strong>Sixth Generation (future)</strong>: Full transparency of methodologies and algorithms.</li>
+        </ul>
+
+        <p>As a result, sustainability consultants and practitioners who remain competitive will need strong technical capabilities, including robust evaluation tools and the ability to integrate and analyze complex databases.</p>
+
+        <p><strong>What qualities and professional skills are important for this career? How can young people develop them?</strong></p>
+        <p>Professor Hsieh believes that sustainability work can be challenging for introverts because it requires extensive communication and collaboration. Professionals must be able to understand different stakeholders' perspectives, motivations, and interests.</p>
+        <p>For mid- and senior-level practitioners, one of the most important competencies is project management, which is the ability to assess the personnel, resources, timelines, and data required to execute a project successfully.</p>
+        <p>He also encourages business school students to complement their strategic thinking with stronger technical skills, including programming, statistical analysis, and the ability to process raw data. These skills enable professionals to oversee projects from beginning to end.</p>
+
+        <p><strong>Finally, what advice would you give to young people hoping to enter this field?</strong></p>
+        <p>Professor Hsieh encourages young people to stay optimistic, open-minded, and patient. Although today's sustainability sector may appear to face headwinds, he believes this has helped filter out those seeking quick profits while allowing organizations with genuine long-term commitment to sustainability to stand out.</p>
+        <p>He advises new graduates to develop a deep understanding of their own personalities, strengths, and skills, and then identify where they can create unique value within an organization by finding their own niche and competitive advantage.</p>
+    </div>
+
+
+
