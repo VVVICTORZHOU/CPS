@@ -1,0 +1,98 @@
+/* 字體配置 */
+@font-face {
+    font-family: 'Montserrat Regular';
+    src: url('../font/Montserrat.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    unicode-range: U+0000-00FF; /* 基本拉丁 + 拉丁補充 */
+}
+
+@font-face {
+    font-family: 'Montserrat SemiBold';
+    src: url('../font/Montserrat-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    unicode-range: U+0000-00FF; /* 基本拉丁 + 拉丁補充 */
+}
+
+@font-face {
+    font-family:'HarmonyOS Sans TC Medium';
+    src: url('../font/HarmonyOS_Sans_TC_Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
+}
+@font-face {
+    font-family:'HarmonyOS Sans TC Regular';
+    src: url('../font/HarmonyOS_Sans_TC_Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
+}
+@font-face {
+    font-family:'HarmonyOS Sans TC Light';
+    src: url('../font/HarmonyOS_Sans_TC_Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
+}
+@font-face {
+    font-family: 'HarmonyOS Sans TC';
+    src: url('../font/HarmonyOS_Sans_TC_Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
+}
+@font-face {
+    font-family:'HarmonyOS Sans TC Black';
+    src: url('../font/HarmonyOS_Sans_TC_Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+4E00-9FFF; /* CJK 統一表意文字 */
+}
+
+
+body {
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+    padding-bottom: 50px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+h1 { font-family: 'Montserrat SemiBold', sans-serif; margin-bottom: 30px; text-align: center; }
+
+.form-group { margin-bottom: 20px; }
+label { display: block; margin-bottom: 8px; font-family: 'Montserrat SemiBold', sans-serif; }
+
+input, select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: 'HarmonyOS Sans TC Regular', sans-serif;
+}
+
+button {
+    width: 100%;
+    padding: 15px;
+    font-family: 'Montserrat SemiBold', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    background-color: #83CBEB;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background 0.3s ease;
+}
+
+button:hover { background-color: #6bb9dd; }

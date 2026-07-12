@@ -381,6 +381,7 @@ document.addEventListener('DOMContentLoaded', function() {
             break;
         case 'NDHUCA':
             logoUrl = '../img/ndhuca_logo.png';
+            break;
         default:
             logoUrl = '../img/ntuca_logo.png';
         }

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>Dev-Mode | Climate Professional Series</title>
+    <link rel="stylesheet" href="dev_style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>貼文生成器 (測試中)</h1>
+        <form id="postForm">
+            <div class="form-group">
+                <label>選擇語言</label>
+                <select id="langSelect">
+                    <option value="zh">中文 (ZH)</option>
+                    <option value="en">英文 (EN)</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label id="labelTitle">貼文中文標題</label>
+                <input type="text" id="title" maxlength="20" required placeholder="最多20個中文字">
+            </div>
+            
+            <div class="form-group">
+                <label id="labelSubTitle">貼文中文子標題</label>
+                <input type="text" id="subTitle" maxlength="80" required placeholder="最多80個字符">
+            </div>
+
+            <div class="form-group">
+                <label>創建日期</label>
+                <input type="date" id="date" required>
+            </div>
+
+            <div class="form-group">
+                <label>封面圖片名稱</label>
+                <input type="text" id="imgName" value="blogs/filename.jpg" required>
+            </div>
+
+            <div class="form-group">
+                <label>中文標籤 (以#分隔)</label>
+                <input type="text" id="tagsZh" placeholder="#永續#顧問" required>
+            </div>
+
+            <div class="form-group">
+                <label>英文標籤 (以#分隔)</label>
+                <input type="text" id="tagsEn" placeholder="#Sustainability#Consulting" required>
+            </div>
+
+            <div class="form-group">
+                <label>貼文作者</label>
+                <input type="text" id="author" required>
+            </div>
+
+            <div class="form-group">
+                <label>強制釘選 (0:否, 1:是)</label>
+                <input type="number" id="isPinned" value="0" min="0" max="1">
+            </div>
+
+            <div class="form-group">
+                <label>點讚數</label>
+                <input type="number" id="likes" value="0" readonly>
+            </div>
+
+            <div class="form-group">
+                <label>貼文格式</label>
+                <input type="number" id="format" value="0" readonly>
+            </div>
+
+            <div class="form-group">
+                <label>永續發展目標 (1-17, 逗號分隔)</label>
+                <input type="text" id="sdgs" placeholder="8,9,12" required>
+            </div>
+
+            <div class="form-group">
+                <label>貼文系列</label>
+                <select id="series" required>
+                    <option value="NTUCA">NTUCA</option>
+                    <option value="USSHKU">USSHKU</option>
+                    <option value="NYCU-ESGSPC">NYCU-ESGSPC</option>
+                    <option value="NDHUCA">NDHUCA</option>
+                </select>
+            </div>
+
+            <button type="button" id="btnDownload">產生並下載文字檔</button>
+        </form>
+    </div>
+    <script src="dev_script.js"></script>
+</body>
+</html>
