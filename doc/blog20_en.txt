@@ -1,0 +1,127 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+Professor Shang-Lien Lo: Learn from Nature to Bring Environmental Engineering Towards Sustainability
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+From e-waste recycling to biocement, an NTU Professor Emeritus discusses how innovative research can reduce carbon emissions, protect water resources, and cultivate the next generation of sustainability leaders.
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2026/07/12
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post20_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#工程#水資源#能源#節能#減排
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#Engineering#WaterResources#Enery#EnergyConservation#EmissionsReduction
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+Hsin-Yen Chiang, Hsang-Chien Tseng, Huei-Yu Yen
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+6,7,9
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC 或 NDHUCA)
+<範例> NTUCA
+NTUCA
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>Background</h3>
+
+        <p><strong>Could you begin by introducing yourself and telling us about your current work?</strong></p>
+        <p>I am currently a Professor Emeritus in the Graduate Institute of Environmental Engineering at National Taiwan University. My work primarily involves two research projects funded by Taiwan's National Science and Technology Council (NSTC). The first focuses on developing technologies for recycling electronic waste. The second, which I lead as the principal investigator, aims to develop an alternative to conventional cement.</p>
+        <p>This interdisciplinary project brings together researchers from NTU's Graduate Institute of Environmental Engineering, the Department of Civil Engineering, and the Graduate School of Engineering Science and Technology at National Yunlin University of Science and Technology. Together, we are developing biocement using microorganisms to capture and mineralize carbon dioxide.</p>
+        <p>Cement production accounts for a significant share of carbon emissions in the construction industry. By reducing the energy required during the manufacturing process, we can substantially lower its environmental impact. In addition, I collaborate with Taiwan's Ministry of Environment on research to remove contaminants from drinking water sources, including PFOx (perfluorooctanoic acid-related compounds) released by manufacturing and high-tech industries.</p>
+        
+        
+        <p><strong>How is your work connected to sustainability? Could you share some examples?</strong></p>
+
+        <p>One example is our research on biocement. It is strong enough to stabilize unstable slopes or soft ground. In the past, conventional cement would simply be poured into areas affected by sinkholes, but replacing it with biocement can significantly reduce carbon emissions. At the same time, the microorganisms involved help capture and store carbon dioxide.</p>
+        <p>Another example is electronic waste recycling. Taiwan lacks many critical and rare metals, yet these materials are essential for the electronics industry. Recovering valuable metals from e-waste can contribute greatly to industrial sustainability and resource security.</p>
+        <p>We also work with the Ministry of Environment to remove PFOx from drinking water, helping ensure the safety and quality of public water supplies.</p>
+        
+        <p>What keywords would you use to describe your work, and why?</strong></p>
+        <p>I would choose <a>"integration" and "following nature."</a></p>
+        
+        <p>Traditional engineering often focused on solving problems at any cost. For example, making water cleaner regardless of the enormous amount of energy required. During periods of water shortages, we might consume large amounts of electricity to produce more water, only to end up with electricity shortages.</p>
+        <p>Many of the international collaborative projects I have participated in take a more integrated approach, considering the interconnections between water, energy, and food systems. They also embrace the principle of working with nature by making use of natural processes for waste treatment. Examples include using microorganisms for carbon sequestration or separating and treating urine for fertilizer production, as is done in some European countries. These approaches reduce the energy required for wastewater treatment and may even allow surplus clean water to be returned to lakes or groundwater.</p>\
+        <p>As Laozi wrote, "Humankind follows the Earth, the Earth follows Heaven, Heaven follows the Dao, and the Dao follows nature." By learning from nature's own mechanisms and recycling resources through natural processes, we can avoid consuming excessive amounts of energy.</p>
+    </div>
+
+    <div class="post-section">
+        <h3>Career Journey</h3>
+        <p><strong>Could you tell us about your career path from graduation to where you are today?</strong></p>
+        <p>When I took Taiwan's university entrance exams, students had relatively few choices of universities and majors. At the time, National Tsing Hua University mainly focused on the sciences, while National Cheng Kung University was still transitioning from an engineering college into a comprehensive university. Most students selected their majors based on admission scores from previous years rather than their own interests.</p>
+        <p>Mathematics was originally my favorite subject. In fact, I still teach mathematics courses today. Without giving it much thought, I chose Civil Engineering because it matched my exam results. After enrolling, however, I found the field genuinely fascinating.</p>
+        <p>Civil engineering is incredibly broad, covering structural mechanics, geotechnical engineering, foundation engineering, hydraulic engineering, transportation engineering, traffic engineering, and even urban planning. This breadth allows graduates to specialize in many different directions later on.</p>
+        <p>As an undergraduate, I focused primarily on hydraulic engineering, while my master's and doctoral studies shifted toward environmental engineering. After completing my studies, I decided to pursue an academic career because I had performed well academically and had always admired the idea of teaching at a university.</p>
+
+        <p><strong>What inspired you to pursue sustainability-related work? How did reality compare with your expectations?</strong></p>
+        <p>Originally, I imagined academic life would be similar to that of a high school teacher, with plenty of free time after classes. However, after observing professors across different disciplines, I realized that faculty members in science and engineering tend to be much busier. Of course, this varies from person to person. Some professors are deeply committed to research, while others simply fulfill their responsibilities. The competitive nature of academia constantly pushes researchers to innovate and publish.</p>
+        <p>Today, Taiwan's electronics industry dominates the economy, and many students are flocking toward it. As a result, fewer students pursue their genuine interests or specialized fields, leading to talent shortages in areas such as environmental engineering. Major consulting firms have remarked that they have not recruited environmental engineering graduates for many years. Other industries are also experiencing shortages of skilled professionals and resources, which is unhealthy for society as a whole.</p>
+        <p>Government policy plays an important role in addressing this imbalance. If sustainable development is truly a national priority, governments should support a wider range of industries. Offering more comparable salaries across different sectors would help prevent severe shortages of engineering talent.</p>
+
+        <p><strong>What has been the greatest challenge in your career, and how did you overcome it?</strong></p>
+        <p>One of the biggest challenges has been insufficient research funding and funding policies that emphasize equal distribution over strategic investment. Large-scale research often requires sophisticated equipment, but government grants usually have funding caps. This makes it difficult to convince industry partners to support research projects, limiting our ability to implement ambitious ideas.</p>
+        <p>Another challenge is developing research topics that are truly novel and internationally competitive. We need projects that enable our students to publish high-quality research and compete on the global stage.</p>
+        <p>To address this, I work closely with my students to generate new ideas. Much of our inspiration comes from attending international conferences, learning about others' research, and exploring new technologies at exhibitions. We then adapt these ideas to our own research areas and evaluate whether they can produce meaningful results.</p>
+        <p>Looking back, I believe this collaborative process is one of the greatest rewards of being a professor. Continuously exchanging ideas with students, developing innovative research, establishing ourselves in the academic community, and watching students succeed all bring me tremendous satisfaction.</p>
+
+    </div>
+    <div class="post-section">
+        <h3>A Typical Workday</h3>
+
+        <p><strong>Could you explain the difference between a professor and a professor emeritus?</strong></p>
+        <p>Professors who have served in leadership roles, such as institute directors or department chairs, or who have made outstanding academic contributions, may apply to become professors emeriti after retirement. It is a recognition of their service and achievements.</p>
+        <p>Compared with full-time professors, professors emeriti have fewer teaching responsibilities. While active faculty members typically teach four credits each semester, I now teach only one course per semester, and sometimes I alternate with other faculty members. I also no longer supervise new graduate students, although I continue to work with postdoctoral researchers.</p>
+
+        <p><strong>Could you describe what a typical day looks like?</strong></p>
+        <p>Before retirement, my schedule was very structured. I taught every Tuesday and Thursday from 8:00 to 10:00 a.m., and spent the rest of the day conducting research and attending meetings.</p>
+        <p>As a professor emeritus, my pace of life has become much more relaxed. I no longer supervise new graduate students, work mainly with postdoctoral researchers, and occasionally teach courses when students request them.</p>
+
+        <p><strong>How would you describe your work-life balance? Why?</strong></p>
+        <p>In the past, I would have described it as 80% work and 20% family. Today, it is much closer to 50% work and 50% family.</p>
+        <p>Earlier in my career, I neglected my family and often came to campus even on weekends. Now, I intentionally spend more time with my family. I even help my grandson with his math homework. My daughter once told me that I've become a completely different person compared to before, and I think that's been one of the biggest changes in my life.</p>
+
+        <p><strong>Who do you interact with most frequently at work?</strong></p>
+        <p>Besides teaching and research, I also devote considerable time to public service. I interact most frequently with students, as well as government agencies such as the Ministry of Environment and the National Science and Technology Council, and nonprofit organizations including the Consumers' Foundation and the Environment and Development Foundation.</p>
+        <p>When it comes to research projects, I generally don't actively seek funding. Instead, people often approach me to ask whether I would be interested in forming a research team to tackle specific issues, such as PFOx contamination in drinking water.</p>
+        <p>I've also noticed that when nonprofit organizations raise funds, large corporations are not always the first to donate. Surprisingly, smaller organizations are often the ones most willing to provide support.</p>
+        <p>In addition, I serve voluntarily as the Chair of the Feng Lin Environmental Protection Foundation. The foundation sponsors master's and doctoral students to attend international conferences, broadening their perspectives and strengthening Taiwan's research capabilities. Supporting the next generation in this way is deeply meaningful to me.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Advice for Young People</h3>
+        <p><strong>What qualities make someone well suited for this profession? What skills are essential?</strong></p>
+        <p>First, anyone pursuing an academic career should be prepared for a modest but stable lifestyle. Professors rarely become wealthy, so it's important to understand the nature of the profession. At the same time, academia is highly competitive, and one must learn to thrive in that environment.</p>
+        <p>Another essential quality is a genuine spirit of service. Many organizations I work with, such as the Consumers' Foundation and the Feng Lin Environmental Protection Foundation, rely entirely on voluntary contributions. If you want to engage in public service, enthusiasm and commitment are indispensable.</p>
+
+        <p><strong>Based on your observations, what are the future trends in this field?</strong></p>
+        <p>The future of environmental engineering will increasingly focus on sustainability, net-zero emissions, and energy conservation.</p>
+        <p>For example, when universities recruit new faculty members today, those who can contribute to emerging fields such as ESG, sustainability, net-zero strategies, and energy efficiency often have an advantage over those who specialize only in traditional engineering subjects. These areas will continue to play an increasingly important role in both academia and industry.</p>
+    </div>
