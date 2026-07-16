@@ -20,7 +20,7 @@ blogs/post22_face.jpg
 
 <註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
 <範例> #entrepreneur#interview#wang_da_ming
-#...
+#EcologicalConservation#SpatialAnalysis#ClimateChange#HabitatFragmentation#CitizenScientist
 
 <註解> 貼文作者 (暫不追蹤，以 N/A 代替)
 <範例> N/A
@@ -40,7 +40,7 @@ blogs/post22_face.jpg
 
 <註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
 <範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
-...
+13,15
 
 <註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC 或 NDHUCA)
 <範例> NTUCA
