@@ -1,0 +1,142 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+Mapping a Future: The Ecologist Who Speaks in Maps 
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+Specializing in ecology and spatial quantitative analysis, Professor Yi-Show Chen shares how she bridges academic theory and conservation practice, her experience in the National Ecological Network project, and career advice for youth. 
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2026/07/16
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post22_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#生態保育#國土生態綠網#空間分析#氣候變遷#棲地破碎化#公民科學家
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#EcologicalConservation#SpatialAnalysis#ClimateChange#HabitatFragmentation#CitizenScientist
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+Jen-Fu Huang
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0 
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+13,15
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC 或 NDHUCA)
+<範例> NTUCA
+NTUCA
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <h3>Background Introduction</h3>
+
+        <p><strong>Could you start by introducing yourself and your current work?</strong></p>
+        <p>I'm a first-year faculty member, still very much finding my footing in this role. My research background is in ecology, and right now my work revolves around two main things: teaching and research. Doing both at the same time is genuinely challenging, but that's the core of my life at the moment.</p>
+        <p>The heart of my research is trying to understand how species' distributions change within their environments over time. What I'm particularly interested in is how human activities shape those distributions across both time and space. If I had to name the two human-driven forces that are operating at the largest scale globally and causing the most profound impact, I would say climate change and land-use change, which includes habitat destruction and habitat fragmentation. These are two problems that we still don't have real solutions for. But if we don't start from the source, if we don't actually understand how deeply each species is being affected and in what ways, we'll never be able to find more effective ways to address them. That's my thinking, and it's why I've put so much of my energy into both of these directions.</p>
+
+        <p><strong>How does your work connect to sustainable development? Could you give some concrete examples?</strong></p>
+        <p>I sometimes joke that I have two personalities, split almost exactly in half. One half is very academic, focused on understanding how climate change affects species distribution ranges. The other half is more applied conservation work, looking at how habitat destruction impacts species distributions and how we can translate that into actual policy-level protection.</p>
+        <p>For a concrete example, I was previously involved in the <span class="keyword" data-tooltip="National Land Ecological Green Network project: A conservation initiative by Taiwan's Forestry and Nature Conservation Agency aimed at reconnecting fragmented habitats across the country, with a focus on low-elevation areas that have historically received less conservation attention.">National Land Ecological Green Network project</span> under the Forestry and Nature Conservation Agency. This is a large central government initiative, and I really appreciate what the agency has been trying to do, which is step out of their comfort zone and push Taiwan's conservation work into the next phase. Historically, most of Taiwan's protected areas have been established at higher elevations, places like Yushan National Park and Shei-Pa National Park, areas that were less disturbed by humans. The groundwork there has been solid for years, and there are various regulations protecting those areas. So now the agency wants to extend the scope of protection into low-elevation regions. But that's enormously challenging, because those are the places where people actually live. The conflicts between human activity and wildlife become much more direct and complex.</p>
+        <p>My role in the project was to help with <span class="keyword" data-tooltip="Spatial Analysis: The use of maps and geographic data to analyze patterns and relationships in how species, environments, or human activities are distributed across space.">spatial analysis</span>, to assess whether site selections were ecologically sound, and to use quantitative methods to help push forward the policy discussions. I've always believed that habitat fragmentation is very difficult to avoid entirely, so the first priority is at least trying to reconnect fragmented habitats. That's actually one of the main reasons I keep coming back to studying <span class="keyword" data-tooltip="Habitat Connectivity: Pathways established between fragmented habitat patches that allow wildlife to move, interbreed, and migrate, helping maintain the health and resilience of ecosystems.">habitat connectivity</span>.</p>
+        <p>As for how this connects to sustainability, I think my interpretation of the word is a bit different from most people's. For me, sustainability means figuring out how to make conservation policies something that society will keep accepting and supporting over the long term, and that are actually effective. Relying on moral appeals or short-term fixes is treating the symptoms, not the cause. <a>What we really need is to find approaches that are broadly acceptable and can be sustained over time.</a></p>
+
+        <p><strong>If you had to describe your work using three keywords, what would they be and why?</strong></p>
+        <p>If it's thematic, then it's pretty straightforward: climate change, <span class="keyword" data-tooltip="habitat fragmentation: The process by which continuous natural habitats are divided into smaller, isolated patches by roads, farmland, or urban development, making it harder for wildlife to move and reproduce.">habitat fragmentation</span>, and quantitative analysis. Those three things basically cover the bulk of what I do.</p>
+
+    </div>
+
+    <div class="post-section">
+        <h3>Career Journey</h3>
+        <p><strong>Could you share your career path from graduation up to where you are now?</strong></p>
+        <p>I studied life sciences as an undergraduate, and even then I already knew pretty clearly that I was interested in conservation and ecology. My thinking was simple: I love nature, I know it's being destroyed, and I want to learn enough to understand what I can actually do about it.</p>
+        <p>But the more I studied, the more disconnected I felt from reality. The life sciences curriculum is all over the place, you're learning a bit of everything. I studied so much theory but kept feeling like none of it was landing in a way that connected to what I actually cared about. Especially having to take molecular biology, genetics, staring at things you can't even see with the naked eye. I genuinely had zero interest in that, and the exams were painful. For a while I ended up doing a lot of volunteer work on the side, partly as a way of escaping, because I wasn't sure why I was doing what I was doing or whether this path would actually take me where I wanted to go.</p>
+        <p>Then, sometime in my third and fourth years, I started observing the people around me who were passionate about conservation, who were doing advocacy and activism. They were working incredibly hard, but it seemed like not many people were listening. And that made me really think seriously about what conservation actually needs. The conclusion I eventually reached was that conservation needs numbers and it needs maps. If you say something is important, can you back that up with data? Maps work in a similar way. They create an instant point of connection. When I see a world map, the first thing I do is look for Taiwan. When I see a map of Taiwan, I look for where I grew up, and I want to know what the values are for that place. So from that point on, I became certain I wanted to go in the direction of quantitative methods and spatial analysis.</p>
+        <p>My master's work was on <span class="keyword" data-tooltip="Species Distribution Model (SDM): A statistical tool that uses recorded species occurrences and environmental data to predict where a species is likely to be found across different locations and time periods.">distribution modeling</span>. It seemed useful at first, but I kept finding gaps between what the models could explain and what was actually happening in the real world. So I kept going deeper. My PhD was more theoretical, using <span class="keyword" data-tooltip="An advanced mathematical tool used to describe phenomena that change across both time and space. Ecologists use it to model how populations spread and fluctuate across landscapes.">partial differential equations</span> and a lot of mathematical approaches. But then I felt like the pure mathematics was too far from reality again, so during my postdoc I came back to statistics, trying to make these methods genuinely applicable to real problems. And that's how I got to where I am now.</p>
+
+        <p><strong>What was it that drew you into sustainability-related work?</strong></p>
+        <p>It's really quite simple. That motivation was there from the very beginning. I love nature, I know it's being damaged, and I wanted to find a way to do something about it.</p>
+        <p>Later, watching people around me doing conservation advocacy during my third and fourth years, working so hard and getting so little traction, pushed me to think harder about what conservation actually needs in order to work. If you're only making moral arguments, only telling people this is important, not everyone is going to care. Not everyone naturally feels that this issue is connected to them. So I came to believe that conservation needs a language that everyone can receive. And that language is numbers and maps. That conviction pointed me toward quantitative methods, and I've been walking in that direction ever since.</p>
+
+        <p><strong>How did your expectations of this work differ from the reality once you were actually in it?</strong></p>
+        <p>When I came back to Taiwan I was full of confidence. I had my PhD, I had some work experience, I knew a bit of math and statistics, and I was genuinely excited to join Taiwan's conservation ecosystem. I got connected to the Forestry Agency's project and at first it felt like everything was falling into place perfectly. There was a need for quantitative work, and the timing felt right.</p>
+        <p>But in those first year or two of collaboration, I ran into a lot of frustration with my conservation colleagues, because I realized we simply couldn't understand each other. What they were asking for was vague, I couldn't figure out what they actually needed. What I was offering, they didn't know what to do with. The moment that really stuck with me was when I assumed that as long as I explained which project I was part of and what my analysis could offer, people would naturally cooperate. That was completely wrong. I kept getting bounced around. That was when I truly understood that when people don't really know who you are or what you're saying, standing there and explaining theories and reasoning just doesn't work.</p>
+        <p>What I eventually came to understand is that if you want to have influence, you have to genuinely want to communicate with the other person, and you have to do it in a language they can actually receive and accept. If you keep repeating yourself in your own language and then getting frustrated that people don't understand you, that's completely ineffective communication. You can't walk around with the attitude of "I have a PhD, I've done impressive research, why doesn't everyone just understand?" I think that's a very poor approach. The real work of collaboration is finding a way to transmit your ideas in terms that the other person can actually take in. That's the most important thing I learned during my time working with the Forestry Agency.</p>
+
+        <p><strong>What's the biggest challenge you've faced in your career, and how did you overcome it?</strong></p>
+        <p>Honestly, the biggest challenge is simply that there's never enough time. Managing teaching, research, students, administration, and all the various collaborations simultaneously is genuinely difficult. I haven't actually overcome it. I'm just doing my best every day.</p>
+        <p>But there's been a shift in mindset that has helped me a lot. When I was a PhD student, I would spiral into self-doubt constantly. I kept asking myself whether I was good enough, why my PhD experience felt harder than other people's. Eventually a French friend of mine just told me directly: just stop it. You're going nowhere. You're asking a question that has no answer.</p>
+        <p>"Good" and "not good" are comparative values. Just like everything in statistics, they only exist in relation to something else. You can always find someone better than you if you go looking, and then use that comparison to tell yourself you're not good enough. That process can go on indefinitely, and it produces nothing. So the commitment I made to myself was this: I just need to make sure that for every single thing I do, I've given the best effort I'm capable of in that moment. What happens after that is for other things to decide. I don't need to carry regret about it. A bad mood is enormously expensive in terms of time, and I don't have any spare time to put toward it. So now when I feel low, I just try to let it move through and get back to work.</p>
+
+    </div>
+    <div class="post-section">
+        <h3>Daily Work Life</h3>
+
+        <p><strong>Could you walk us through what a typical day looks like for you, from morning to evening?</strong></p>
+        <p>Honestly, I don't have real days off. I'm working on weekends too. That's just where things are right now.</p>
+        <p>On weekdays I'm usually up around five or six in the morning, and if nothing urgent is pressing, I try to get at least half an hour of exercise in first. Maintaining my physical health is genuinely important to me, because I simply cannot afford to get sick. A couple of weeks ago I had a stretch of not feeling well and my entire schedule collapsed. When you're sick your efficiency drops, you have to find time to go to the doctor, and everything gets thrown off. So I try to protect my health by keeping up with exercise.</p>
+        <p>After exercising and showering, I head out. I live in Taoyuan, so commuting takes a little over an hour each way. I deliberately avoid the busiest rush hour times so that I can actually work on the train, bringing documents I can handle while I'm in transit. I usually arrive at the university around ten or eleven, and then I just keep going. The work itself covers a lot of ground: replying to emails is a substantial chunk on its own, I get a huge volume of messages. Then there's coordinating with research collaborators, checking in with students, I currently supervise four students and they each come to me with questions and need regular one-on-one discussions. There are also administrative meetings, keeping up with new papers in the field, and occasionally reviewing manuscripts for journals, which is technically extra but I feel it's something I need to contribute to keep the field running.</p>
+        <p>Most days I'm not heading home until around seven or seven-thirty in the evening. When I get home I cook dinner, tidy up after my cat who has inevitably made a mess of everything, and if I still have energy I might do a bit more work until around eleven, when my body just gives out. If I'm falling asleep at the desk, the efficiency is so poor that it's not worth continuing, so I just go to sleep. I almost always eat in front of the computer while scrolling through YouTube. That's pretty much what passes for rest in my day.</p>
+        <p>On weekends I prefer staying home to work, because then I can also run the robot vacuum and do laundry at the same time, which feels like squeezing out a little extra time somehow.</p>
+
+        <p><strong>If you had to rate your work-life balance on a scale of one to ten, what score would you give and why?</strong></p>
+        <p>The lowest possible. Probably a one. If zero were an option, I might give it a zero.</p>
+        <p>My friends can barely manage to schedule a meal with me because I'm almost never free. Most of them work regular office jobs, they have proper days off, they can make plans, they can say "let's go somewhere next month." I just can't do that. Whenever they suggest something I end up having to say I need to work that weekend, and that's just how it is.</p>
+        <p>So if anyone is considering going into academia, I genuinely mean it when I say: think carefully. There's no real equivalent of labor law governing what the workload looks like. You always feel like there's more to do, and there always is.</p>
+
+        <p><strong>Who are the people you most often collaborate with, and what's stood out to you about working with them?</strong></p>
+        <p>All kinds of people, naturally. Within the university the most frequent contacts are students and fellow faculty, which is to be expected. But if I'm being honest about who I find the most rewarding and meaningful to work with, it's the people at government agencies like the Forestry and Nature Conservation Agency, and people working in industry consulting firms.</p>
+        <p>The biggest value of working with them is that they pull me out of the academic ecosystem. It's very easy inside academia to get absorbed by the rules of the game, where everyone ends up chasing metrics, chasing the prestige of publishing in high-impact journals. That's not inherently wrong, but if that's all you're focused on, you very easily lose sight of why you got into this in the first place.</p>
+        <p>The people at government agencies and consulting firms don't care whether your paper gets accepted. What they care about is: how do I actually use this? How do I explain this to other departments? How do I make this legible to the public? They constantly remind me of what I actually want, which isn't just a publication record. What I really want is for the work to break out of its container, to actually influence conservation decisions and real-world outcomes. That reminder is enormously valuable to me, because it keeps me anchored to the reason I chose this path to begin with.</p>
+    </div>
+
+    <div class="post-section">
+        <h3>Advice for Young People</h3>
+        <p><strong>What kind of person do you think is well-suited to this kind of work, and what professional skills does it require?</strong></p>
+        <p>What kind of person do you think is well-suited to this kind of work, and what professional skills does it require?</p>
+        <p>The most important thing, in my view, is that <a>you need to have a future you very desperately want to see</a>. That sounds abstract, but what I mean is something quite specific: a concrete image in your mind, a picture of something that you genuinely think "I really wish that were true." Maybe you can't stand how fragmented Taiwan's habitats have become and you want to change that. Maybe you feel deeply that stray animals shouldn't have to live the way they do, that it's a problem humans created and humans need to solve. You don't want to just sit on the sidelines asking questions about it. There's a strong pull inside you to get involved and actually change something. If you have that strong sense of longing for a different future, that's already the first step. That's the most important thing.</p>
+        <p>As for professional skills, I think it depends on how you interpret the future you want to see, and what approach fits your personality. After years of confusion in college, my answer turned out to be quantitative methods and spatial analysis, which also matched who I am as a person. But honestly, the influence that art and media can have on changing the world might be greater than anything a journal paper can do. A piece of media can reach people in ways that a scientific publication never could. Or conversely, even if you publish in a top journal, you still need media to help it break out of the academic bubble. So there's no single right answer. The more important question is: what is the future you want to see, and what approach feels most natural to who you are?</p>
+
+        <p><strong>Based on your observations, what do you see as the future direction of this field?</strong></p>
+        <p>This field absolutely needs more people with quantitative skills. But I want to be careful about what I mean by that, because it's not just about being able to run code. Nowadays it's easy enough to feed data into a program and get output. That part isn't the hard part.</p>
+        <p>What's genuinely difficult is building the bridge between theory, analytical methods, and real-world problems. You need to be able to honestly ask yourself: does what I'm calculating actually answer a real conservation question? Can the result I'm generating be genuinely used by people working in the field? If the answer is no, then the work might contribute something academically, but its impact on actual conservation will be limited.</p>
+        <p>Theory, quantitative methods, and on-the-ground application are not separate things. They need to be integrated. And the bridge connecting them is the hardest part of all. Building that bridge requires reading widely, collaborating with people from very different backgrounds, and spending a lot of time struggling to figure out where the pieces connect. It's not something one person can do alone. It requires a lot of people working at it together.</p>
+
+        <p><strong>Finally, for young people who want to enter this field, what specific advice or encouragement would you offer them?</strong></p>
+        <p>The first thing I'd say is <a>to find something that makes you genuinely happy, in the deepest sense of that word</a>. Not the kind of happy that comes from sleeping ten hours or eating a great meal or watching a good film. Those are real, but they're brief, and when they're over there's often a kind of emptiness. What I'm talking about is the kind of satisfaction that comes from somewhere at the core of who you are, something that gives you a long-lasting sense of fullness. I spent a lot of time in college trying to figure out what that was for me. What is the thing that, if it happened, would leave me feeling sustained and alive for a long time? I think that question is worth sitting with seriously, because the answer is what will keep you going on this path through the difficult stretches.</p>
+        <p>The second thing: if you have an ideal but don't know what your next step should be, I don't think that's usually a problem of courage. I think it's a problem of not yet having enough information. Every decision is ultimately made through comparison. Once you've tried A, B, C, and D, you start to understand which ones you actually like and which ones you know for certain aren't for you. So my advice is <a>to go and try as many related things as you can. Build up your database of experience. The larger that database is, the better foundation you have to make a decision you'll feel confident about, because you made it after actually comparing</a>, not before.</p>
+        <p>And finally, <a>don't let the smallness of your immediate impact make you feel like it doesn't matter</a>. I care deeply about the issue of stray animals, and sometimes I think to myself, even if I can only adopt one, that one animal's life is completely changed. Maybe one day you'll help a million people, and that would be wonderful. But if today, with what you have right now, you can do something for even one person or one living thing, that's already worth trying. Every step counts.</p>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
