@@ -1,0 +1,153 @@
+<註解> 貼文英文標題
+<範例> 訪談偉大的企業家: 王大明　
+Garbage Is Money: A Waste Supervisor's Life Philosophy in Belize
+
+<註解> 貼文英文子標題 (請以全大寫填寫)
+<範例> 一篇有關於偉大的企業家王大明先生的專訪
+An inspiring journey of lifelong learning, waste management transformation, and turning garbage into a valuable resource in Belize.
+
+<註解> 貼文創建日期 (格式為 YYYY/MM/DD)
+<範例> 2025/05/01
+2026/11/05
+
+<註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
+<範例> interview_with_wang_da_ming.png
+blogs/post23_en_face.jpg
+
+<註解> 貼文中文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #企業家#訪談#王大明#永續
+#廢棄物管理#終身學習#貝里斯#永續發展#垃圾就是黃金#環境教育
+
+<註解> 貼文英文標籤 (請勿添加空格或標點符號，標籤之間以 # 分隔即可)
+<範例> #entrepreneur#interview#wang_da_ming
+#WasteManagement#LifelongLearning#Belize#Sustainability#GarbageIsMoney#EnvironmentalEducation
+
+<註解> 貼文作者 (暫不追蹤，以 N/A 代替)
+<範例> N/A
+Frank Huang
+
+<註解> 貼文強制釘選 (是: 1 / 否: 0，預設為 0)
+<範例> 0
+0
+
+<註解> 貼文點讚數 (僅限數字，初次請填寫 0，後台會自動更新)
+<範例> 0 
+0
+
+<註解> 貼文格式 (預設為 0)
+<範例> 0
+0
+
+<註解> 永續發展目標 (輸入 1-17，若有多個目標，請以逗號分隔，不得有空格)
+<範例> 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+4,8,11,12,13
+
+<註解> 貼文系列 (NTUCA 或 USSHKU 或 NYCU-ESGSPC 或 NDHUCA)
+<範例> NTUCA
+NTUCA
+
+<註解> 貼文內容 (請遵循 html 語法撰寫)
+<範例> <h>第一章 產業洞察</h><br>近年來，全球經濟景氣波動劇烈，新興科技如雨後春筍般快速發展，企業家們必須具備敏銳的<em>產業洞察力</em>，才能在激烈的市場競爭中脫穎而出。<br><br>...
+
+    <div class="post-section">
+        <p>Antonio Visa never finished primary school, yet he runs the daily operation that keeps an entire town clean. As the garbage collection supervisor at the Orange Walk Town Council in northern Belize, he starts work before sunrise and spends most of his day out in the streets, following the trucks and checking the work for himself. Few people stop to think about who clears away what they leave at the curb each week, and Antonio is one of those people.</p>
+        <p>We sat down with him to talk about the job, its dangers, and the winding path that brought him here: from a family of twelve children, through many different jobs, to a role that keeps him out in the field every day. What we found was someone who treats learning as lifelong work, and who sees waste not as something to be ashamed of, but as a resource.</p>
+        
+        <h3>Background Introduction</h3>
+        <p><strong>Could you introduce yourself and what you do?</strong></p>
+        <p>My name is Antonio Visa, and I work at the Orange Walk Town Council. I am in charge of garbage collection. I am the supervisor, and every day my team and I try to do our best. That may sound like a simple promise, but a clean town does not happen by itself. Somebody has to get up early and do the work, and we are those people.</p>
+        <p>We have three trucks. One was donated by JICA (The Japan International Cooperation Agency ), and we bought two more from the States. Each truck has a crew, and the way we collect is simple but demanding. Our workers go to each household bin with a half plastic drum, empty the bin into the drum or straight into the truck, and move on to the next one. They do it again and again, house after house, and it is hard physical work.</p>
+        <p>Most of my own work is in the field, not in an office. When the workers go out, I follow behind to supervise all the trucks and make sure the collection is done properly. I want to see for myself how each crew is doing, where the problems are, and what they need from me. A supervisor who only reads reports does not really know his town.</p>
+        
+        <p><strong>From Open Dump to <span class="keyword" data-tooltip="A facility where collected waste is unloaded and moved into larger trucks, so it can be hauled efficiently to a distant disposal site.">Transfer Station</span></strong></p>
+        <p>Right now, the garbage we collect goes to an open dump site. There is no proper management there. <span class="keyword" data-tooltip="People who pick through waste to find items they can sell, such as scrap metal.">Scavengers</span> search through the waste for metals, and the refuse gets burned. That is not good for the people who work there, for the neighbors, or for the air and land around it. We all know it cannot go on this way forever.</p>
+        <p>That is about to change. A two-story transfer station has been built. Trucks will drive up to the second floor and dump directly into larger trucks, which will carry the waste to the disposal site near the capital for sorting and landfill. It should open in October. Once it does, the old dump site will be cleaned and fenced, and people will no longer be able to dump there. They will have to dump inside the transfer station.</p>
+        <p>For us, this is a big step forward. It means the waste we collect will finally be handled in an organized way, instead of being left in the open. It is a change not only for the council and its workers, but for the whole community</p>
+
+        <img src="../img/blogs/opendumping.png" alt="合影" width="100%" height="auto" />
+    </div>
+    <div class="post-section">
+        <h3>Career Path</h3>
+        <p><strong>How did you get to where you are today?</strong></p>
+        <p>Growing up in a family of twelve children, pursuing an education was very difficult. At that time, we didn't have computers like nowadays; teachers wrote on blackboards and we relied heavily on memory. I only reached Standard 4, halfway into Standard 5, and then I had to leave school to work because money was tight. With so many of us at home, everybody had to help, and the family's needs came before my schooling. But I did develop a deep love of reading after I started working, which helped me tremendously as I needed to keep learning on the job. I truly believe reading is the best way to change one's destiny.</p>
+        <p>Over my life I have been a cane cutter, a construction worker, a watchman, and a fisherman. I worked at the electricity board as an electrician for twelve or thirteen years. I sold insurance, worked as a security guard and a storekeeper, and eventually became a supervisor. Each job taught me something different, about hard work, about tools and trades, and above all about people. Many people assume I have a college degree because of how I speak and how I write my reports, but I only have primary education. What you teach yourself can carry you a long way.</p>
+        <p>When my work started to require computers, I taught myself through continuous effort, while some people who graduated from top colleges refused to learn the new technology. For me there was no real choice: if I wanted to keep up, I had to learn, so I sat down, made mistakes, and tried again until I understood. And when I sold insurance, I was one of the top agents, because I knew how to explain real-life needs to a family. I did not need complicated words. I talked about what could happen to a family if something went wrong, and what protection would mean for them.</p>
+
+        <p><strong>Why does reading mean so much to you?</strong></p>
+        <p>Reading carried me when school could not. I left the classroom early, but I never left learning. Once I started working, books and reading gave me what I had missed: new words, new ideas, and the confidence to speak and write well. That is probably why people think I went to college.</p>
+        <p>Everything I know about writing reports, about computers, and about how things work, I picked up by reading and by practicing on the job. Reading showed me that you do not have to be sitting in a classroom to keep learning. You only need curiosity and the patience to keep going. I truly believe reading is the best way to change one's destiny, because it is open to everyone, and nobody can take it away from you.</p>
+        <p>So when I talk with young people, I tell them to read. Read books, read about your work, read about the world around you. If a boy from a family of twelve children who left school at Standard 4 can become a supervisor who writes reports and uses computers, then a young person with more opportunities than I had can go much further, as long as they keep reading and keep learning.</p>
+
+        <p><strong>What is the biggest challenge in your work?</strong></p>
+        <p>The biggest problem is that <a>people do not bag their garbage, and they do not separate it</a>. Vegetable scraps, cans, plastic bottles, and household waste all go into one drum. We do not yet have the practice or the education to separate at home. Separating waste is a habit, and habits have to be taught.</p>
+        <p>It makes a big difference to the crew. When garbage is bagged, we need about four minutes at a stop. When it is loose, it can take up to twelve. That is three times as long, and our workers have to handle the loose waste by hand. It holds the workers back and makes the job harder and riskier, because they cannot see what is mixed inside. We hope to reach a point where separation is much easier for everyone, so the crews can work faster and safer, and less of what we collect goes to waste.</p>
+
+        <p><strong>The Danger Nobody Talks About</strong></p>
+        <p>Collecting garbage is dangerous in a real sense. Some residents who take insulin injections at home throw their syringes into the trash without protection, and our workers grab a bag and get stuck. We find broken bottles and broken mirrors, and sometimes people throw knives in the garbage. One of my workers had his hand cut on a broken bottle hidden inside a bag. Our workers cannot always see these things until it is too late.</p>
+        <p>Then there are the animals. Leftover food brings rats, and rats bring snakes. We have found snakes in our garbage, and other animals that scavenge in the trash can bite hard. Those are the major dangers we face. Most people who put out their garbage never think about this side of the job. If they bagged it carefully and wrapped broken glass and used needles, they would be protecting the people who come to collect it.</p>
+
+        <h3>Daily Life & Work</h3>
+        <p><strong>What does a typical day look like?</strong></p>
+        <p>On work days we are here at three in the morning to start picking up garbage from the different areas. We start early because of traffic. Orange Walk's streets are narrow, and once school starts it becomes a problem for vehicles to pass in the center of town. So we gather the garbage and move out of the center before the town wakes up. By the time families are getting their children ready for school, our trucks have already cleared the busiest streets.</p>
+        <p>If a truck engine breaks down, we move the workers onto a tractor with a dumping trailer so the work keeps going. We cannot let one broken truck stop the collection, because garbage left on the street only gets worse. Solving these problems on the spot is part of a supervisor's job, and it is one reason I stay close to the crews in the field.</p>
+
+        <p><strong>Who do you work with most closely?</strong></p>
+        <p>My workers, first of all. You have to balance the crew and understand their personal struggles. Every worker has a life outside the truck, with a family and bills to pay, and sometimes those pressures follow them to work. I remind them that this work secures a plate of food for their families. When they remember who they are working for, the early mornings feel a little lighter.</p>
+        <p>There is also a special rule that shows how hard the job is. When it rains, construction crews stop working, but garbage crews have to keep going through the weather, because people still need their garbage collected. So the council pays them a special <a>"wet and dirty" hazard rate</a>. It is a small recognition for people who work in conditions that most others would not accept.</p>
+    
+        <p><strong>What abilities does this job require?</strong></p>
+        <p>First, you need to understand the job. Second, you need <a>public relations</a>, which means understanding people. A supervisor can know every route and every truck, but if he cannot understand his workers and the residents they serve, the work will not go well.</p>
+        <p>When I started, I spent a full week riding with each truck crew. I wanted to measure how much each route could handle so I could divide the town into efficient zones. I did not want to manage something I had not seen myself. Riding along showed me how long each stop really takes and what the workers face every day. Only then did I feel I could make good decisions, and the zones we use today come from that week.</p>
+
+        <p><strong>Garbage Is Money</strong></p>
+        <p>For me, garbage is a source of money. Food and vegetable waste can be used for <span class="keyword" data-tooltip="Letting food and plant waste break down naturally into nutrient-rich soil for gardens.">composting</span>, which turns it into soil for gardens. JICA is already teaching composting in our community, so we can learn from it and even build businesses out of it. What people throw away today can become something useful tomorrow, and I would like people in Orange Walk to start seeing their garbage that way.</p>
+        <p>It has to start at home, with separation. Children are very smart and catch on quickly. If we teach them, then in the near future people will know how to sort garbage into the proper containers instead of littering the streets, which costs the town council money to clean up. When a child learns to separate waste at home, the whole family learns with them, and a habit that starts in one house can spread down the whole street.</p>
+
+        <p><strong>How do you see climate change, and what can we do about it?</strong></p>
+        <p>I strongly believe climate change can be reversed, but only if we stop the destruction of forests and start reforestation, planting trees to replace what has been lost. Once forests are gone they cannot be brought back overnight. So the first step is to stop cutting what we still have, and the second is to plant more.</p>
+        <p>But planting trees alone is not enough. People have to understand why it matters, and that is where environmental education comes in. We cannot expect everyone to protect the environment if they have never been taught how their daily habits affect it. That teaching has to begin with children, at school and at home, so that caring for nature is something they grow up with and not something they learn too late.</p>
+        <p>That is also why I place my hope in young people. They can learn about the environment early and carry it into their work and their families. They will be the ones to change how we treat our forests, our water, and our waste. I hope more of them will study environmental science and choose to do something about it, because the future is theirs to protect.</p>
+        
+        <p><strong>What would you say to young people?</strong></p>
+        <p>I encourage all young people to study hard. Education prepares you for life, but even as adults we must keep learning every day. I left school early, and I know how much harder things can be without it. So take every chance you are given to learn, in the classroom and outside of it, and make reading a habit.</p>
+        <p>We need more people working in environmental science, because the problems I see in my work, like waste and forest loss, need people with knowledge to solve them. Choose something practical and professional, such as electrician work, auto mechanics, medicine, or agriculture. These are skills people will always need, and they give you a way to support yourself and your family. And always keep a Plan B, because life does not always go the way we plan, and the people who have another option are the ones who keep moving forward.</p>
+        <p>My encouragement is to study hard, to keep reading, and to take care of the place where you live. And remember that garbage is money.</p>
+
+        <p><strong>How did you get to where you are today?</strong></p>
+        <p>Growing up in a family of twelve children, pursuing an education was very difficult. At that time, we didn’t have computers like nowadays; teachers wrote on blackboards and we relied heavily on memory. I only reached Standard 4, halfway into Standard 5, and then I had to leave school to work because money was tight. But I did develop a deep love of reading after I started working, which helped me tremendously as I needed to keep learning on the job. <a>I truly believe reading is the best way to change one’s destiny.</a></p>
+        <p>Over my life I have been a cane cutter, a construction worker, a watchman, and a fisherman. I worked at the electricity board as an electrician for twelve or thirteen years. I sold insurance, worked as a security guard and a storekeeper, and eventually became a supervisor. Many people assume I have a college degree because of how I speak and how I write my reports, but I only have primary education.</p>
+        <p>When my work started to require computers, I taught myself through continuous effort, while some people who graduated from top colleges refused to learn the new technology. And when I sold insurance, I was one of the top agents, because I knew how to explain real-life needs to a family.</p>
+
+        <p><strong>What is the biggest challenge in your work?</strong></p>
+        <p>The biggest problem is that people do not bag their garbage, and they do not separate it. Vegetable scraps, cans, plastic bottles, and household waste all go into one drum. We do not yet have the practice or the education to separate at home.</p>
+        <p>It makes a big difference to the crew. When garbage is bagged, we need about four minutes at a stop. When it is loose, it can take up to twelve. That holds the workers back and makes the job harder and riskier. We hope to reach a point where separation is much easier for everyone.</p>
+        
+        <p><strong>The Danger Nobody Talks About</strong></p>
+        <p>Collecting garbage is dangerous in a real sense. Some residents who take insulin injections at home throw their syringes into the trash without protection, and our workers grab a bag and get stuck. We find broken bottles and broken mirrors, and sometimes people throw knives in the garbage. One of my workers had his hand cut on a broken bottle hidden inside a bag.</p>
+        <p>Then there are the animals. Leftover food brings rats, and rats bring snakes. We have found snakes in our garbage that scavenge in the trash and bite hard. Those are the major dangers we face.</p>
+    
+        <p><strong>What does a typical day look like?</strong></p>
+        <p>On work days we are here at three in the morning to start picking up garbage from the different areas. We start early because of traffic. Orange Walk's streets are narrow, and once school starts it becomes a problem for vehicles to pass in the center of town. So we gather the garbage and move out of the center before the town wakes up.</p>
+        <p>If a truck engine breaks down, we move the workers onto a tractor with a dumping trailer so the work keeps going.</p>
+
+        <p><strong>Who do you work with most closely?</strong></p>
+        <p>My workers, first of all. You have to balance the crew and understand their personal struggles. I remind them that this work secures a plate of food for their families.</p>
+        <p>There is also a special rule that shows how hard the job is. When it rains, construction crews stop working, but garbage crews have to keep going through the weather. So the council pays them a special "wet and dirty" hazard rate.</p>
+    </div>
+    <div class="post-section">
+        <h3>Advice for the Next Generation</h3>
+        <p><strong>What abilities does this job require?</strong></p>
+        <p>First, you need to understand the job. Second, you need public relations, which means understanding people.</p>
+        <p>When I started, I spent a full week riding with each truck crew. I wanted to measure how much each route could handle so I could divide the town into efficient zones. I did not want to manage something I had not seen myself.</p>
+
+        <p><strong>Garbage Is Money</strong></p>
+        <p>For me, garbage is a source of money. Food and vegetable waste can be composted and used in gardens. JICA is already teaching composting in our community, so we can learn from it and even build businesses out of it.</p>
+        <p>It has to start at home, with separation. Children are very smart and catch on quickly. If we teach them, then in the near future people will know how to sort garbage into the proper containers instead of littering the streets, which costs the town council money to clean up.</p>
+
+        <p><strong>What would you say to young people?</strong></p>
+        <p><blockquote>I encourage all young people to study hard. Education prepares you for life, but even as adults we must keep learning every day.</blockquote></p>
+        <p>We need more people working in environmental science. I strongly believe climate change can be reversed through reforestation and by stopping the destruction of forests. And I believe that with all of your efforts generation through generation, we can live a better earth!  </p>
+
+    </div>
+
+ 
