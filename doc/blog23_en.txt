@@ -8,7 +8,7 @@ An inspiring journey of lifelong learning, waste management transformation, and 
 
 <註解> 貼文創建日期 (格式為 YYYY/MM/DD)
 <範例> 2025/05/01
-2026/11/10
+2026/11/05
 
 <註解> 貼文封面圖片名稱 (圖檔請放置於 /img/blogs/ 底下，圖片長寬比建議為 2:1)
 <範例> interview_with_wang_da_ming.png
@@ -64,7 +64,7 @@ NTUCA
         <p>That is about to change. A two-story transfer station has been built. Trucks will drive up to the second floor and dump directly into larger trucks, which will carry the waste to the disposal site near the capital for sorting and landfill. It should open in October. Once it does, the old dump site will be cleaned and fenced, and people will no longer be able to dump there. They will have to dump inside the transfer station.</p>
         <p>For us, this is a big step forward. It means the waste we collect will finally be handled in an organized way, instead of being left in the open. It is a change not only for the council and its workers, but for the whole community</p>
 
-        <img src="../img/blogs/open_dumping.png" alt="合影" width="100%" height="auto" />
+        <img src="../img/blogs/opendumping.png" alt="合影" width="100%" height="auto" />
     </div>
     <div class="post-section">
         <h3>Career Path</h3>
